@@ -4,43 +4,54 @@ layout: homepage
 
 ## About Me
 
-I am a fourth-year Ph.D. student at [UNC Charlotte](https://www.charlotte.edu/), supervised by [Prof. Dong Dai](https://daidong.github.io/). Before that, I worked as a Machine Learning Engineer focusing on Natural Language Processing in [iFLYTEK Research Lab](http://www.iflytek.com/en/). I obtained my bachelor’s degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/)
+I am a second-year Ph.D. student at [UNC Charlotte](https://www.charlotte.edu/), supervised
+by [Prof. Wenhao Luo](https://webpages.charlotte.edu/wluo4/). I completed my master's degree
+from [Dalian University of Technology](https://en.dlut.edu.cn/). I obtained my bachelor’s
+degree from [China University of Petroleum](https://english.upc.edu.cn/)
 
-My research interests include Reinforcement Learning, Scheduling and Anomaly Detection. My current research focuses on applying deep learning models to anomaly detection and automated batch job schedulers.
-
+My research interests include Reinforcement Learning, Scheduling and Anomaly Detection. My current research focuses on
+applying deep learning models to anomaly detection and automated batch job schedulers.
 
 ## News
 
-
 <!-- - **[Mar. 2023]** I will start my summer internship as a return Research Scientist Intern at [Meta](https://about.meta.com/). -->
-- **[May. 2023]** Our poster gets the <strong><i style="color:#e74d3c">Outstanding Poster Award - 3<sup>rd</sup> Place</i></strong> at the [IPDPS'23 Ph.D. forum](http://www.ipdps.org/ipdps2023/2023-phd-forum.html). 
+
+- **[May. 2023]** Our poster gets the <strong><i style="color:#e74d3c">Outstanding Poster Award - 3<sup>rd</sup>
+  Place</i></strong> at the [IPDPS'23 Ph.D. forum](http://www.ipdps.org/ipdps2023/2023-phd-forum.html).
 - **[May. 2023]** I will present our work at [IPDPS’23](https://www.ipdps.org/).
-- **[Mar. 2023]** Our poster proposal has been accepted for presentation at the [IPDPS'23 Ph.D. forum](http://www.ipdps.org/ipdps2023/2023-phd-forum.html). 
+- **[Mar. 2023]** Our poster proposal has been accepted for presentation at
+  the [IPDPS'23 Ph.D. forum](http://www.ipdps.org/ipdps2023/2023-phd-forum.html).
 - **[Jan. 2023]** Our paper about Anomaly Detection is accepted to [IPDPS’23](https://www.ipdps.org/).
 - **[Sept. 2022]** Our paper about Anomaly Detection is accepted to [SC’22 FTXS](https://sc22.supercomputing.org/).
-- **[Jun.  2022]** I will present our work at [HPDC'22](https://www.hpdc.org/2022/).
-- **[May.  2022]** I will start my summer internship as a Research Scientist Intern at [Meta](https://about.meta.com/).
-- **[May.  2022]** I recived [CCI Essam El-Kwae Student-Faculty Research Award](https://cci.charlotte.edu/news/2022-05-02/cci-facultystaff-awards-luncheon) together with my advisor Dr. Dong Dai.
-- **[Mar.  2022]** Our paper about [HPC Batch Scheduling](https://dl.acm.org/doi/10.1145/3502181.3531470) is accepted to [HPDC'22](https://www.hpdc.org/2022/). 
-- **[Sept. 2021]** Our paper about [Parallel File Systems](https://webpages.charlotte.edu/ddai/papers/tos-pfs-2022.pdf) is accepted to [ACM TOS'22](https://dl.acm.org/journal/tos). 
-- **[Jun.  2021]** Our paper about [Anomaly Detection](https://dl.acm.org/doi/abs/10.1145/3465332.3470873) is accepted to [HotStorage'21](https://www.hotstorage.org/2021/) <strong><i style="color:#e74d3c">Best Paper Nominee</i></strong>
-- **[Jun.  2020]** Our paper about [HPC Batch Scheduling](https://ieeexplore.ieee.org/abstract/document/9355253) is accepted to [SC'20](https://sc20.supercomputing.org/).
+- **[Jun. 2022]** I will present our work at [HPDC'22](https://www.hpdc.org/2022/).
+- **[May. 2022]** I will start my summer internship as a Research Scientist Intern at [Meta](https://about.meta.com/).
+- **[May. 2022]** I
+  recived [CCI Essam El-Kwae Student-Faculty Research Award](https://cci.charlotte.edu/news/2022-05-02/cci-facultystaff-awards-luncheon)
+  together with my advisor Dr. Dong Dai.
+- **[Mar. 2022]** Our paper about [HPC Batch Scheduling](https://dl.acm.org/doi/10.1145/3502181.3531470) is accepted
+  to [HPDC'22](https://www.hpdc.org/2022/).
+- **[Sept. 2021]** Our paper about [Parallel File Systems](https://webpages.charlotte.edu/ddai/papers/tos-pfs-2022.pdf)
+  is accepted to [ACM TOS'22](https://dl.acm.org/journal/tos).
+- **[Jun. 2021]** Our paper about [Anomaly Detection](https://dl.acm.org/doi/abs/10.1145/3465332.3470873) is accepted
+  to [HotStorage'21](https://www.hotstorage.org/2021/) <strong><i style="color:#e74d3c">Best Paper Nominee</i></strong>
+- **[Jun. 2020]** Our paper about [HPC Batch Scheduling](https://ieeexplore.ieee.org/abstract/document/9355253) is
+  accepted to [SC'20](https://sc20.supercomputing.org/).
 
 ## Publications
 
 - *Drill: Log-based Anomaly Detection for Large-scale Storage Systems Using Source Code Analysis.*
   <br>
- **Di Zhang**, Chris Egersdoerfer, Tabassum Mahmud, Mai Zheng, Dong Dai
+  **Di Zhang**, Chris Egersdoerfer, Tabassum Mahmud, Mai Zheng, Dong Dai
   <br>
- Accepted to appear in 37th IEEE International Parallel & Distributed Processing Symposium (**IPDPS'23**), 2023
+  Accepted to appear in 37th IEEE International Parallel & Distributed Processing Symposium (**IPDPS'23**), 2023
   <br>
   [PDF-TBA][[Code](https://github.com/DIR-LAB/DRILL)][Slides-TBA]
 
 - *ClusterLog: Clustering Logs for Effective Log-based Anomaly Detection*
   <br>
- Chris Egersdoerfer, **Di Zhang**, Dong Dai
+  Chris Egersdoerfer, **Di Zhang**, Dong Dai
   <br>
-Workshop on Fault Tolerance for HPC at eXtreme Scale (with **SC’22**).
+  Workshop on Fault Tolerance for HPC at eXtreme Scale (with **SC’22**).
   <br>
   [[PDF](https://daidong.github.io/files/clusterlog-ftxs22.pdf)]
 
@@ -81,17 +92,20 @@ Workshop on Fault Tolerance for HPC at eXtreme Scale (with **SC’22**).
 - Student volunteer in SC’21, ISSRE'22.
 - External paper reviewer for IPDPS'23, BIGDATA'22, IPDPS’22, ICPP'22, CCGrid’22, IPDPS’20, ICPP’20.
 
-
 ## Mentoring Activities
 
-- [Tony Li](https://www.linkedin.com/in/jinye-li-25496b142/), Master Research Project. Now at Google as a software engineer.
-- [Chris Egersdoerfer](https://www.linkedin.com/in/chris-egersdoerfer-6699b7192/), Bachelor Research Project. Now at UNCC as a master student.
+- [Tony Li](https://www.linkedin.com/in/jinye-li-25496b142/), Master Research Project. Now at Google as a software
+  engineer.
+- [Chris Egersdoerfer](https://www.linkedin.com/in/chris-egersdoerfer-6699b7192/), Bachelor Research Project. Now at
+  UNCC as a master student.
 - Elliot Kolker-Hicks, Bachelor Research Project.
 - Alex Moore, Bachelor Research Project.
 
 ## Awards & Honors
 
-- Outstanding Poster Award - 3<sup>rd</sup> place, IEEE International Parallel & Distributed Processing Symposium (IPDPS), 2023
+- Outstanding Poster Award - 3<sup>rd</sup> place, IEEE International Parallel & Distributed Processing Symposium (
+  IPDPS), 2023
 - Merit Scholarship $1500, UNC Charlotte, 2023
-- Student Travel Grant $1000, ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC), 2022
+- Student Travel Grant $1000, ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC),
+  2022
 - CCI Essam El-Kwae Student-Faculty Research Award $500, UNC Charlotte, 2022
