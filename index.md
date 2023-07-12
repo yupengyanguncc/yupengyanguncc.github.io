@@ -40,7 +40,16 @@ My research interests include Robotics, Control, Sensor Fusion, and Reinforcemen
 
 ## Publications
 
-- *Drill: Log-based Anomaly Detection for Large-scale Storage Systems Using Source Code Analysis.*
+- *Drill: Occlusion-Free Image Based Visual Servoing Using Probabilistic Control Barrier Certificates.*
+  <br>
+  **Di Zhang**, Chris Egersdoerfer, Tabassum Mahmud, Mai Zheng, Dong Dai
+  <br>
+  Accepted to appear in the 22th World Congress of International Federation of Automatic Control (**IFAC'23**), 2023
+  <br>
+  [PDF-TBA][[Slides](https://drive.google.com/drive/folders/1rEagfw1_xGzjqeNKizGMGG34-vCYLlJB)]
+
+
+<!--- - *Drill: Log-based Anomaly Detection for Large-scale Storage Systems Using Source Code Analysis.*
   <br>
   **Di Zhang**, Chris Egersdoerfer, Tabassum Mahmud, Mai Zheng, Dong Dai
   <br>
@@ -86,7 +95,7 @@ My research interests include Robotics, Control, Sensor Fusion, and Reinforcemen
   <br>
   International Conference for High Performance Computing, Networking, Storage and Analysis. **SC'20**.
   <br>
-  [[PDF](https://webpages.charlotte.edu/ddai/papers/dong-sc-20.pdf)] [[Code](https://github.com/DIR-LAB/deep-batch-scheduler)] [[Slides](https://webpages.charlotte.edu/ddai/papers/RLScheduler_Di_slides.pdf)]
+  [[PDF](https://webpages.charlotte.edu/ddai/papers/dong-sc-20.pdf)] [[Code](https://github.com/DIR-LAB/deep-batch-scheduler)] [[Slides](https://webpages.charlotte.edu/ddai/papers/RLScheduler_Di_slides.pdf)] -->
 
 ## Services
 
