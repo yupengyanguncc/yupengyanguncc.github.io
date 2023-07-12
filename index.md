@@ -40,13 +40,13 @@ My research interests include Robotics, Control, Sensor Fusion, and Reinforcemen
 
 ## Publications
 
-- *Drill: Occlusion-Free Image Based Visual Servoing Using Probabilistic Control Barrier Certificates.*
+- *Occlusion-Free Image Based Visual Servoing Using Probabilistic Control Barrier Certificates.*
   <br>
-  **Di Zhang**, Chris Egersdoerfer, Tabassum Mahmud, Mai Zheng, Dong Dai
+  **Yanze Zhang**, Yupeng Yang, Wenhao Luo
   <br>
   Accepted to appear in the 22th World Congress of International Federation of Automatic Control (**IFAC'23**), 2023
   <br>
-  [PDF-TBA][[Slides](https://drive.google.com/drive/folders/1rEagfw1_xGzjqeNKizGMGG34-vCYLlJB)]
+  [PDF-TBA][[Slides](https://drive.google.com/file/d/15gWHsd9hAaYWi5rJtmvI__ndZo16p263/view?usp=sharing)]
 
 
 <!--- - *Drill: Log-based Anomaly Detection for Large-scale Storage Systems Using Source Code Analysis.*
