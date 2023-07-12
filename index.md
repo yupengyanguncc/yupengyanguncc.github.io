@@ -94,13 +94,14 @@ applying deep learning models to anomaly detection and automated batch job sched
 
 ## Mentoring Activities
 
-- [Tony Li](https://www.linkedin.com/in/jinye-li-25496b142/), Master Research Project. Now at Google as a software
-  engineer.
-- [Chris Egersdoerfer](https://www.linkedin.com/in/chris-egersdoerfer-6699b7192/), Bachelor Research Project. Now at
-  UNCC as a master student.
-- Elliot Kolker-Hicks, Bachelor Research Project.
-- Alex Moore, Bachelor Research Project.
-
+- John Modl, [REU Program](https://www.nsf.gov/crssprgm/reu/).
+- [Matthew De La Rosa](https://www.linkedin.com/in/matthewdelarosa/), [REU Program](https://www.nsf.gov/crssprgm/reu/).
+- [Andrew Chen](https://www.linkedin.com/in/andrewchen0028/), [REU Program](https://www.nsf.gov/crssprgm/reu/).
+<!--- [Chris Egersdoerfer](https://www.linkedin.com/in/chris-egersdoerfer-6699b7192/), Bachelor Research Project. Now at
+  UNCC as a master student. -->
+- Zachary Palko, [REU Program](https://www.nsf.gov/crssprgm/reu/).
+- Siwon Jo, Bachelor Research Project.
+- [Mukul Mohan](https://www.linkedin.com/in/mukul-mohan-77573522a/?trk=people-guest_people_search-card), Bachelor Research Project.
 ## Awards & Honors
 
 - Outstanding Poster Award - 3<sup>rd</sup> place, IEEE International Parallel & Distributed Processing Symposium (
