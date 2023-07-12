@@ -13,7 +13,9 @@ My research interests include Robotics, Control, Sensor Fusion, and Reinforcemen
 
 ## News
 
-<!-- - **[Mar. 2023]** I will start my summer internship as a return Research Scientist Intern at [Meta](https://about.meta.com/). -->
+- **[Mar. 2023]** Our paper about Image-Based Visual Servoing is accepted to [IFAC’23](https://www.ifac2023.org/).
+
+<!-- - **[Mar. 2023]** I will start my summer internship as a return Research Scientist Intern at [Meta](https://about.meta.com/). 
 
 - **[May. 2023]** Our poster gets the <strong><i style="color:#e74d3c">Outstanding Poster Award - 3<sup>rd</sup>
   Place</i></strong> at the [IPDPS'23 Ph.D. forum](http://www.ipdps.org/ipdps2023/2023-phd-forum.html).
@@ -34,7 +36,7 @@ My research interests include Robotics, Control, Sensor Fusion, and Reinforcemen
 - **[Jun. 2021]** Our paper about [Anomaly Detection](https://dl.acm.org/doi/abs/10.1145/3465332.3470873) is accepted
   to [HotStorage'21](https://www.hotstorage.org/2021/) <strong><i style="color:#e74d3c">Best Paper Nominee</i></strong>
 - **[Jun. 2020]** Our paper about [HPC Batch Scheduling](https://ieeexplore.ieee.org/abstract/document/9355253) is
-  accepted to [SC'20](https://sc20.supercomputing.org/).
+  accepted to [SC'20](https://sc20.supercomputing.org/). -->
 
 ## Publications
 
