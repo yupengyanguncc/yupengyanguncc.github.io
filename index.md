@@ -9,8 +9,7 @@ by [Prof. Wenhao Luo](https://webpages.charlotte.edu/wluo4/). I completed my mas
 from [Dalian University of Technology](https://en.dlut.edu.cn/). I obtained my bachelor’s
 degree from [China University of Petroleum](https://english.upc.edu.cn/)
 
-My research interests include Reinforcement Learning, Scheduling and Anomaly Detection. My current research focuses on
-applying deep learning models to anomaly detection and automated batch job schedulers.
+My research interests include Robotics, Control, Sensor Fusion, and Reinforcement Learning. <!--- My current research focuses on applying deep learning models to anomaly detection and automated batch job schedulers. -->
 
 ## News
 
@@ -89,8 +88,9 @@ applying deep learning models to anomaly detection and automated batch job sched
 
 ## Services
 
-- Student volunteer in SC’21, ISSRE'22.
-- External paper reviewer for IPDPS'23, BIGDATA'22, IPDPS’22, ICPP'22, CCGrid’22, IPDPS’20, ICPP’20.
+<!---- Student volunteer in SC’21, ISSRE'22.
+- External paper reviewer for IPDPS'23, BIGDATA'22, IPDPS’22, ICPP'22, CCGrid’22, IPDPS’20, ICPP’20. -->
+- External paper reviewer for IFAC'23.
 
 ## Mentoring Activities
 
@@ -102,11 +102,13 @@ applying deep learning models to anomaly detection and automated batch job sched
 - Zachary Palko, [REU Program](https://www.nsf.gov/crssprgm/reu/).
 - Siwon Jo, Bachelor Research Project.
 - [Mukul Mohan](https://www.linkedin.com/in/mukul-mohan-77573522a/?trk=people-guest_people_search-card), Bachelor Research Project.
-## Awards & Honors
+
+
+<!--- ## Awards & Honors
 
 - Outstanding Poster Award - 3<sup>rd</sup> place, IEEE International Parallel & Distributed Processing Symposium (
   IPDPS), 2023
 - Merit Scholarship $1500, UNC Charlotte, 2023
 - Student Travel Grant $1000, ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC),
   2022
-- CCI Essam El-Kwae Student-Faculty Research Award $500, UNC Charlotte, 2022
+- CCI Essam El-Kwae Student-Faculty Research Award $500, UNC Charlotte, 2022 -->
