@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at [UNC Charlotte](https://www.charlotte.edu/), where I am fortunate to be supervised
+I am a Ph.D. student major in Computer Science at [UNC Charlotte](https://www.charlotte.edu/), where I am fortunate to be supervised
 by [Prof. Wenhao Luo](https://webpages.charlotte.edu/wluo4/). I completed my master's degree in Mechanical Engineering
 from [DUT](https://en.dlut.edu.cn/), and prior to that, I obtained my bachelor’s
 degree from [UPC](https://english.upc.edu.cn/). I am passionate about Robotics, Control theory, Computer Vision and Reinforcement Learning, and my goal is to empower robots with intelligence, enabling them to make informed decisions and interact seamlessly with the world. 
