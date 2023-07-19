@@ -115,7 +115,7 @@ degree from [UPC](https://english.upc.edu.cn/). I am passionate about Robotics, 
 <!--- [Chris Egersdoerfer](https://www.linkedin.com/in/chris-egersdoerfer-6699b7192/), Bachelor Research Project. Now at
   UNCC as a master student. -->
 - Zachary Palko, [REU Program](https://www.nsf.gov/crssprgm/reu/).
-- Siwon Jo, Bachelor Research Project.
+- [Siwon Jo](https://www.linkedin.com/in/siwonjo), Bachelor Research Project.
 - [Mukul Mohan](https://www.linkedin.com/in/mukul-mohan-77573522a/?trk=people-guest_people_search-card), Bachelor Research Project.
 
 
