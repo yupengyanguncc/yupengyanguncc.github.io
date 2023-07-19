@@ -109,7 +109,7 @@ degree from [UPC](https://english.upc.edu.cn/). I am passionate about Robotics, 
 
 - John Modl, [REU Program](https://www.nsf.gov/crssprgm/reu/).
 - [Matthew De La Rosa](https://www.linkedin.com/in/matthewdelarosa/), [REU Program](https://www.nsf.gov/crssprgm/reu/).
-- [Andrew Chen](https://www.linkedin.com/in/andrewchen0028/), [REU Program](https://www.nsf.gov/crssprgm/reu/).
+- [Andrew Chen](https://www.linkedin.com/in/andrewchen0028/), [REU Program](https://www.nsf.gov/crssprgm/reu/). Now at [CMU](https://www.cmu.edu/mscf/news/evaluating-masters-in-financial-engineering-programs.html) as a Master student.
 <!--- [Chris Egersdoerfer](https://www.linkedin.com/in/chris-egersdoerfer-6699b7192/), Bachelor Research Project. Now at
   UNCC as a master student. -->
 - Zachary Palko, [REU Program](https://www.nsf.gov/crssprgm/reu/).
