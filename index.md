@@ -111,6 +111,7 @@ I am passionate about Robotics, Control theory, Computer Vision and Reinforcemen
 
 ## Mentoring Activities
 
+- [Ian Gao](https://www.linkedin.com/in/ian-gao-978667162/), Bachelor Research Project.
 - John Modl, [REU Program](https://www.nsf.gov/crssprgm/reu/).
 - [Matthew De La Rosa](https://www.linkedin.com/in/matthewdelarosa/), [REU Program](https://www.nsf.gov/crssprgm/reu/).
 - [Andrew Chen](https://www.linkedin.com/in/andrewchen0028/), [REU Program](https://www.nsf.gov/crssprgm/reu/). Now at [CMU](https://www.cmu.edu/mscf/news/evaluating-masters-in-financial-engineering-programs.html) as a Master student.
