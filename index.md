@@ -18,7 +18,9 @@ I am passionate about Robotics, Control theory, Computer Vision and Reinforcemen
 <!--- My research interests include Robotics, Control, Computer Vision, and Reinforcement Learning.  My current research focuses on applying deep learning models to anomaly detection and automated batch job schedulers. -->
 
 ## News
-
+- **[Oct. 2023]** Our paper about multi-agent deadlock resolution is accepted to [MRS’23](https://sites.bu.edu/mrs2023/).
+- **[Oct. 2023]** Our paper about connectivity maintenance is accepted to [MRS’23](https://sites.bu.edu/mrs2023/).
+- **[Sep. 2023]** Our paper about connectivity maintenance is accepted to [IROS’23](https://ieee-iros.org/).
 - **[Mar. 2023]** Our paper about Image-Based Visual Servoing is accepted to [IFAC’23](https://www.ifac2023.org/).
 
 <!-- - **[Mar. 2023]** I will start my summer internship as a return Research Scientist Intern at [Meta](https://about.meta.com/). 
@@ -45,6 +47,30 @@ I am passionate about Robotics, Control theory, Computer Vision and Reinforcemen
   accepted to [SC'20](https://sc20.supercomputing.org/). -->
 
 ## Publications
+
+- *Ecologically-Inspired Decentralized Multi-Agent System with Deadlock Avoidance.*
+  <br>
+  **Yanze Zhang**, Yiwei Lyu, Siwon Jo, Yupeng Yang, Wenhao Luo
+  <br>
+  Accepted as a workshop paper to appear in the 4th IEEE International Symposium on Multi-Robot & Multi-Agent Systems (**MRS'23**), 2023 
+  <br>
+  [PDF-TBA][Poster-TBA][Code-TBA]
+
+  - *Ecologically-Inspired Decentralized Multi-Agent System with Deadlock Avoidance.*
+  <br>
+  Yupeng Yang, Yiwei Lyu, Sha Yi, **Yanze Zhang**, Wenhao Luo
+  <br>
+  Accepted as a workshop paper to appear in the 4th IEEE International Symposium on Multi-Robot & Multi-Agent Systems (**MRS'23**), 2023 
+  <br>
+  [PDF-TBA][Poster-TBA][Code-TBA]
+
+- *Global and Subgroup Connectivity Maintenance for Decentralized Multi-Robot Networks under Uncertainty.*
+  <br>
+  Yupeng Yang, Yiwei Lyu, Sha Yi, **Yanze Zhang**, Wenhao Luo
+  <br>
+  Accepted as a workshop paper to appear in the 35th International Conference on Intelligent Robots and Systems (**IROS'23**), 2023 
+  <br>
+  [[PDF](https://djhanove.github.io/IROS23_MRS/assets/papers/iros2023workshop_subgroupConnectivity.pdf)][Slides-TBA][Code-TBA]
 
 - *Occlusion-Free Image Based Visual Servoing Using Probabilistic Control Barrier Certificates.*
   <br>
