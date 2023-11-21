@@ -18,8 +18,8 @@ I am passionate about Robotics, Control theory, Computer Vision and Reinforcemen
 <!--- My research interests include Robotics, Control, Computer Vision, and Reinforcement Learning.  My current research focuses on applying deep learning models to anomaly detection and automated batch job schedulers. -->
 
 ## News
-- **[Oct. 2023]** Our paper about multi-agent deadlock resolution is accepted to [MRS’23 Workshop](https://sites.bu.edu/mrs2023/).
-- **[Oct. 2023]** Our paper about connectivity maintenance is accepted to [MRS’23 Workshop](https://sites.bu.edu/mrs2023/).
+- **[Oct. 2023]** Our paper about multi-agent deadlock resolution is accepted to [MRS’23](https://sites.bu.edu/mrs2023/).
+- **[Oct. 2023]** Our paper about connectivity maintenance is accepted to [MRS’23](https://sites.bu.edu/mrs2023/).
 - **[Sep. 2023]** Our paper about connectivity maintenance is accepted to [IROS’23 Workshop](https://ieee-iros.org/).
 - **[Mar. 2023]** Our paper about Image-Based Visual Servoing is accepted to [IFAC’23](https://www.ifac2023.org/).
 
@@ -52,7 +52,7 @@ I am passionate about Robotics, Control theory, Computer Vision and Reinforcemen
   <br>
   **Yanze Zhang**, Yiwei Lyu, Siwon Jo, Yupeng Yang, Wenhao Luo
   <br>
-  Accepted as a workshop paper to appear in the 4th IEEE International Symposium on Multi-Robot & Multi-Agent Systems (**MRS'23**), 2023 
+  Accepted as a extended abstract to appear in the 4th IEEE International Symposium on Multi-Robot & Multi-Agent Systems (**MRS'23**), 2023 
   <br>
   [PDF-TBA][Poster-TBA][Code-TBA]
 
@@ -60,7 +60,7 @@ I am passionate about Robotics, Control theory, Computer Vision and Reinforcemen
   <br>
   Yupeng Yang, Yiwei Lyu, Sha Yi, **Yanze Zhang**, Wenhao Luo
   <br>
-  Accepted as a workshop paper to appear in the 4th IEEE International Symposium on Multi-Robot & Multi-Agent Systems (**MRS'23**), 2023 
+  Accepted as a extended abstract to appear in the 4th IEEE International Symposium on Multi-Robot & Multi-Agent Systems (**MRS'23**), 2023 
   <br>
   [PDF-TBA][Poster-TBA][Code-TBA]
 
