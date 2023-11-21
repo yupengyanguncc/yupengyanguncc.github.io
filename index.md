@@ -48,7 +48,7 @@ I am passionate about Robotics, Control theory, Computer Vision and Reinforcemen
 
 ## Publications
 
-- *Decentralized Motion Coordination for Minimally Disruptive Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty.*
+- *Ecologically-Inspired Decentralized Multi-Agent System with Deadlock Avoidance.*
   <br>
   **Yanze Zhang**, Yiwei Lyu, Siwon Jo, Yupeng Yang, Wenhao Luo
   <br>
@@ -56,7 +56,7 @@ I am passionate about Robotics, Control theory, Computer Vision and Reinforcemen
   <br>
   [PDF-TBA][Poster-TBA][Code-TBA]
 
-- *Ecologically-Inspired Decentralized Multi-Agent System with Deadlock Avoidance.*
+- *Decentralized Motion Coordination for Minimally Disruptive Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty.*
   <br>
   Yupeng Yang, Yiwei Lyu, Sha Yi, **Yanze Zhang**, Wenhao Luo
   <br>
