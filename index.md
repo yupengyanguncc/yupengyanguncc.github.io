@@ -18,6 +18,7 @@ I am passionate about Robotics, Control theory, Computer Vision and Reinforcemen
 <!--- My research interests include Robotics, Control, Computer Vision, and Reinforcement Learning.  My current research focuses on applying deep learning models to anomaly detection and automated batch job schedulers. -->
 
 ## News
+- **[Oct. 2023]** I will present our work at [MRS’23](https://sites.bu.edu/mrs2023/).
 - **[Oct. 2023]** Our paper about multi-agent deadlock resolution is accepted to [MRS’23](https://sites.bu.edu/mrs2023/).
 - **[Oct. 2023]** Our paper about connectivity maintenance is accepted to [MRS’23](https://sites.bu.edu/mrs2023/).
 - **[Sep. 2023]** Our paper about connectivity maintenance is accepted to [IROS’23 Workshop](https://ieee-iros.org/).
