@@ -18,6 +18,7 @@ I am passionate about Robotics, Control theory, Computer Vision and Reinforcemen
 <!--- My research interests include Robotics, Control, Computer Vision, and Reinforcement Learning.  My current research focuses on applying deep learning models to anomaly detection and automated batch job schedulers. -->
 
 ## News
+- **[Jan. 2024]** Our paper about conformal prediction is accepted to [ACC’24](https://acc2024.a2c2.org/).
 - **[Oct. 2023]** I will present our work at [MRS’23](https://sites.bu.edu/mrs2023/).
 - **[Oct. 2023]** Our paper about multi-agent deadlock resolution is accepted to [MRS’23](https://sites.bu.edu/mrs2023/).
 - **[Oct. 2023]** Our paper about connectivity maintenance is accepted to [MRS’23](https://sites.bu.edu/mrs2023/).
@@ -48,6 +49,14 @@ I am passionate about Robotics, Control theory, Computer Vision and Reinforcemen
   accepted to [SC'20](https://sc20.supercomputing.org/). -->
 
 ## Publications
+
+- *Safety-Critical Control with Uncertainty Quantification using Adaptive Conformal Prediction.*
+  <br>
+  Hao Zhou, **Yanze Zhang**, and Wenhao Luo
+  <br>
+  Accepted to appear in the 2024 American Control Conference (**ACC'24**), 2024 
+  <br>
+  [PDF-TBA][Poster-TBA][Code-TBA]
 
 - *Ecologically-Inspired Decentralized Multi-Agent System with Deadlock Avoidance.*
   <br>
