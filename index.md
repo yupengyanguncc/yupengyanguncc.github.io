@@ -18,6 +18,7 @@ I am passionate about Robotics, Control theory, Computer Vision and Reinforcemen
 <!--- My research interests include Robotics, Control, Computer Vision, and Reinforcement Learning.  My current research focuses on applying deep learning models to anomaly detection and automated batch job schedulers. -->
 
 ## News
+- **[May. 2024]** Our paper about Connectivity Maintenance is accepted to [RSS’24](https://roboticsconference.org/).
 - **[Jan. 2024]** Our paper about conformal prediction is accepted to [ACC’24](https://acc2024.a2c2.org/).
 - **[Oct. 2023]** I will present our work at [MRS’23](https://sites.bu.edu/mrs2023/).
 - **[Oct. 2023]** Our paper about multi-agent deadlock resolution is accepted to [MRS’23](https://sites.bu.edu/mrs2023/).
@@ -50,6 +51,14 @@ I am passionate about Robotics, Control theory, Computer Vision and Reinforcemen
 
 ## Publications
 
+- *Decentralized Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty.*
+  <br>
+  Yupeng Yang, Yiwei Lyu, **Yanze Zhang**, Sha Yi, and Wenhao Luo
+  <br>
+  Accepted to appear in the 2024 Robotics: Science and Systems (**RSS'24**), 2024 
+  <br>
+  [[PDF](https://arxiv.org/pdf/2406.12802)][Poster-TBA][Code-TBA]
+
 - *Safety-Critical Control with Uncertainty Quantification using Adaptive Conformal Prediction.*
   <br>
   Hao Zhou, **Yanze Zhang**, and Wenhao Luo
@@ -58,6 +67,7 @@ I am passionate about Robotics, Control theory, Computer Vision and Reinforcemen
   <br>
   [PDF-TBA][Poster-TBA][Code-TBA]
 
+<!--
 - *Ecologically-Inspired Decentralized Multi-Agent System with Deadlock Avoidance.*
   <br>
   **Yanze Zhang**, Yiwei Lyu, Siwon Jo, Yupeng Yang, Wenhao Luo
@@ -72,7 +82,7 @@ I am passionate about Robotics, Control theory, Computer Vision and Reinforcemen
   <br>
   Accepted as a extended abstract to appear in the 4th IEEE International Symposium on Multi-Robot & Multi-Agent Systems (**MRS'23**), 2023 
   <br>
-  [PDF-TBA][Poster-TBA][Code-TBA]
+  [PDF-TBA][Poster-TBA][Code-TBA] -->
 
 - *Global and Subgroup Connectivity Maintenance for Decentralized Multi-Robot Networks under Uncertainty.*
   <br>
