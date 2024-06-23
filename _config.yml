@@ -23,7 +23,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   avatar           : "Yanze Zhang.jpeg"
-  name             : "Yanze Zhang"
+  #name             : "Yanze Zhang"
   #pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
   #location         : "Earth"
