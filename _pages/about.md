@@ -1,13 +1,18 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Ph.D. student major in Computer Science at [UNC Charlotte](https://www.charlotte.edu/), where I am fortunate to be supervised
+by [Prof. Wenhao Luo](https://webpages.charlotte.edu/wluo4/). I completed my master's degree in Mechanical Engineering
+from [DUT](https://en.dlut.edu.cn/), and prior to that, I obtained my bachelor’s
+degree from [UPC](https://english.upc.edu.cn/). 
+
+I am passionate about Robotics, Control theory, Computer Vision and Reinforcement Learning, and my goal is to empower the multi-robot system with intelligence(robust and interactive autonomy), which enables robots to make informed decisions for safely and effectively collaborating with each other and with humans in the physical world. Currently, I am conducting simulations and real-world verifications of multi-agent control systems, focusing on developing algorithms for large-scale mixed-autonomy coordination.
 
 A data-driven personal website
 ======
