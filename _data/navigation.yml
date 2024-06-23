@@ -1,0 +1,20 @@
+# main links links
+main:
+
+  - title: "Research"
+    url: /test.html
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Experience"
+    url: /cv/
+
+  - title: "Publications"
+    url: /publications/ 
+    
+  - title: "Media&Awards"
+    url: /media/
+
+  - title: "Self-Driving Car"
+    url: /autocar/
