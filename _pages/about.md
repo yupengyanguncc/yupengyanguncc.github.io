@@ -24,6 +24,7 @@ News
 - **[Sep. 2023]** Our paper about connectivity maintenance is accepted to [IROS’23 Workshop](https://ieee-iros.org/).
 - **[Mar. 2023]** Our paper about Image-Based Visual Servoing is accepted to [IFAC’23](https://www.ifac2023.org/).
 
+<!--
 Publications
 ======
 - *Decentralized Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty.*
@@ -74,7 +75,7 @@ Publications
   Accepted to appear in the 22th World Congress of International Federation of Automatic Control (**IFAC'23**), 2023
   <br>
   [[PDF](https://arxiv.org/pdf/2309.03476.pdf)][[Slides](https://drive.google.com/file/d/15gWHsd9hAaYWi5rJtmvI__ndZo16p263/view?usp=sharing)][Code-TBA]
-
+-->
 
 
 <!--
