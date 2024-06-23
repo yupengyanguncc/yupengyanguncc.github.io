@@ -24,14 +24,69 @@ News
 - **[Sep. 2023]** Our paper about connectivity maintenance is accepted to [IROS’23 Workshop](https://ieee-iros.org/).
 - **[Mar. 2023]** Our paper about Image-Based Visual Servoing is accepted to [IFAC’23](https://www.ifac2023.org/).
 
-Getting started
+Publications
 ======
+- *Decentralized Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty.*
+  <br>
+  Yupeng Yang, Yiwei Lyu, **Yanze Zhang**, Sha Yi, and Wenhao Luo
+  <br>
+  Accepted to appear in the 2024 Robotics: Science and Systems (**RSS'24**), 2024 
+  <br>
+  [[PDF](https://arxiv.org/pdf/2406.12802)][Poster-TBA][Code-TBA]
+
+- *Safety-Critical Control with Uncertainty Quantification using Adaptive Conformal Prediction.*
+  <br>
+  Hao Zhou, **Yanze Zhang**, and Wenhao Luo
+  <br>
+  Accepted to appear in the 2024 American Control Conference (**ACC'24**), 2024 
+  <br>
+  [PDF-TBA][Poster-TBA][Code-TBA]
+
+<!--
+- *Ecologically-Inspired Decentralized Multi-Agent System with Deadlock Avoidance.*
+  <br>
+  **Yanze Zhang**, Yiwei Lyu, Siwon Jo, Yupeng Yang, Wenhao Luo
+  <br>
+  Accepted as a extended abstract to appear in the 4th IEEE International Symposium on Multi-Robot & Multi-Agent Systems (**MRS'23**), 2023 
+  <br>
+  [PDF-TBA][Poster-TBA][Code-TBA]
+
+- *Decentralized Motion Coordination for Minimally Disruptive Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty.*
+  <br>
+  Yupeng Yang, Yiwei Lyu, Sha Yi, **Yanze Zhang**, Wenhao Luo
+  <br>
+  Accepted as a extended abstract to appear in the 4th IEEE International Symposium on Multi-Robot & Multi-Agent Systems (**MRS'23**), 2023 
+  <br>
+  [PDF-TBA][Poster-TBA][Code-TBA] -->
+
+- *Global and Subgroup Connectivity Maintenance for Decentralized Multi-Robot Networks under Uncertainty.*
+  <br>
+  Yupeng Yang, Yiwei Lyu, Sha Yi, **Yanze Zhang**, Wenhao Luo
+  <br>
+  Accepted as a workshop paper to appear in the 35th International Conference on Intelligent Robots and Systems (**IROS'23**), 2023 
+  <br>
+  [[PDF](https://djhanove.github.io/IROS23_MRS/assets/papers/iros2023workshop_subgroupConnectivity.pdf)][Slides-TBA][Code-TBA]
+
+- *Occlusion-Free Image Based Visual Servoing Using Probabilistic Control Barrier Certificates.*
+  <br>
+  **Yanze Zhang**, Yupeng Yang, Wenhao Luo
+  <br>
+  Accepted to appear in the 22th World Congress of International Federation of Automatic Control (**IFAC'23**), 2023
+  <br>
+  [[PDF](https://arxiv.org/pdf/2309.03476.pdf)][[Slides](https://drive.google.com/file/d/15gWHsd9hAaYWi5rJtmvI__ndZo16p263/view?usp=sharing)][Code-TBA]
+
+
+
+<!--
+Site-wide configuration
+------
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
+-->
 
 Site-wide configuration
 ------
