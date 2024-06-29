@@ -158,7 +158,6 @@ Zhiyu Huang, Xiaoyu Mo, Chen Lv
 </div>
 </div>
 
-<!-- 
 <div class='paper-box'><div class='paper-box-image'><img src='images/ExpertDRL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -173,9 +172,8 @@ Zhiyu Huang, Jingda Wu, Chen Lv
 -  We propose a novel framework to incorporate human prior knowledge in DRL, in order to improve the sample efficiency and save the effort of designing sophisticated reward functions.
 </div>
 </div>
--->
 
-
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><img src='images/IRL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
