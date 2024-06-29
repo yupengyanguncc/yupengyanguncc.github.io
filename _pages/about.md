@@ -256,8 +256,8 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - *2021.06* [2nd Place Winner, Waymo Open Dataset Motion Prediction Challenge](http://cvpr2021.wad.vision/), CVPR Workshop on Autonomous Driving
 - *2019.06* Outstanding Graduate (Top 1%)
 - *2018.10* National Scholarship (Top 1%)
-- *2017.10* National Scholarship (Top 1%)
--->
+- *2017.10* National Scholarship (Top 1%) -->
+
 
 # 📖 Education
 - *2022.08 - Now*, Doctor of Philosophy, Computer Science, University of North Carolina at Charlotte, The United States 
@@ -278,13 +278,12 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - IEEE Robotics and Automation Letters
 - Transportation Research Part C: Emerging Technologies
 - Engineering Applications of Artificial Intelligence
-- Artificial Intelligence Review 
--->
+- Artificial Intelligence Review -->
+
 ## Conference Reviewer
 <!-- 
 - IEEE International Conference on Robotics and Automation (ICRA) 2022 -- 2024
 - IEEE Intelligent Vehicles Symposium (IV) 2022 -- 2024
 - IEEE Intelligent Transportation Systems Conference (ITSC) 2022 -- 2024
-- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023
--->
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 -->
 - International Federation of Automatic Control (IFAC'23)
