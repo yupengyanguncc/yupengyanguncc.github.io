@@ -47,6 +47,7 @@ My research primarily centers around the intersection of autonomous driving and 
 Workshop on Autonomous Driving](https://cvpr2023.wad.vision/). -->
   
 # 📝 Publications
+<!-- 
 ## Highlights
 <div class='paper-box'><div class='paper-box-image'><img src='images/DTPP.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -201,6 +202,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - We propose a novel deep neural network-based system for end-to-end autonomous driving, consisting of multimodal sensor fusion, scene understanding, and conditional driving policy modules. 
 </div>
 </div>
+-->
 
 ## All Publications
 ### Journal
