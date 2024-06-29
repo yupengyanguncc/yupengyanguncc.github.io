@@ -113,6 +113,7 @@ Zhiyu Huang, Haochen Liu, Jingda Wu, Wenhui Huang, Chen Lv
 </div>
 </div>
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><img src='images/CMPIRL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -126,7 +127,7 @@ Zhiyu Huang, Haochen Liu, Jingda Wu, Chen Lv
 
 - Distinguished from existing learning-based methods that directly output decisions, we introduce a predictive behavior planning framework that learns to predict and evaluate from human driving data. 
 </div>
-</div>
+</div> -->
 
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><img src='images/DIPP.png' alt="sym" width="100%"></div>
