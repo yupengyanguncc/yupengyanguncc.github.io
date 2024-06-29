@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhiyu Huang"
-description              : "Ph.D. candidate at NTU, visiting researcher at UC Berkeley. Focusing on autonomous driving, machine learning, and decision-making."
+title                    : "Yanze Zhang"
+description              : "Ph.D. student at UNC Charlotte. Focusing on autonomous driving, machine learning, and decision-making."
 repository               : "MCZhi/MCZhi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhiyu Huang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nanyang Technological University"
-  location         : "Berkeley, CA"
+  name             : "Yanze Zhang"
+  avatar           : "images/Yanze Zhang.jpeg"
+  bio              : "University of North Carolina at Charlotte"
+  location         : "Charlotte, NC"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=aLZEVCsAAAAJ&hl=en"
-  email            : "zhiyu001@e.ntu.edu.sg"
-  researchgate     : "https://www.researchgate.net/profile/Zhiyu-Huang-5"
+  googlescholar    : "https://scholar.google.com/citations?user=8mEEHDIAAAAJ&hl=en"
+  email            : "yzhang94@charlotte.edu"
+  researchgate     : # "https://www.researchgate.net/profile/Zhiyu-Huang-5"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MCZhi"
+  github           : "GEEKZE97"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zhiyu-huang-a611ab191"
+  linkedin         : "yanze-zhang-b43a3926b"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ZhiyuChris"
+  twitter          : # "ZhiyuChris"
   vine             :
   weibo            :
   xing             :
