@@ -128,6 +128,7 @@ Zhiyu Huang, Haochen Liu, Jingda Wu, Chen Lv
 </div>
 </div>
 
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><img src='images/DIPP.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">  
   
@@ -141,8 +142,9 @@ Zhiyu Huang, Haochen Liu, Jingda Wu, Chen Lv
 
 -  We propose an end-to-end differentiable framework that integrates prediction and planning modules and is able to learn the cost function from data.
 </div>
-</div>
+</div> -->
 
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><img src='images/prediction.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -156,7 +158,7 @@ Zhiyu Huang, Xiaoyu Mo, Chen Lv
 
 -  We propose a neural prediction framework based on the Transformer structure to model the relationship among the interacting agents and extract the attention of the target agent on the map waypoints.
 </div>
-</div>
+</div> -->
 
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><img src='images/ExpertDRL.png' alt="sym" width="100%"></div>
