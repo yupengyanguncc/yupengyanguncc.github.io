@@ -205,6 +205,55 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 -->
 
 ## All Publications
+- *Decentralized Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty.*
+  <br>
+  Yupeng Yang, Yiwei Lyu, **Yanze Zhang**, Sha Yi, and Wenhao Luo
+  <br>
+  Accepted to appear in the 2024 Robotics: Science and Systems (**RSS'24**), 2024 
+  <br>
+  [[PDF](https://arxiv.org/pdf/2406.12802)][Poster-TBA][Code-TBA]
+
+- *Safety-Critical Control with Uncertainty Quantification using Adaptive Conformal Prediction.*
+  <br>
+  Hao Zhou, **Yanze Zhang**, and Wenhao Luo
+  <br>
+  Accepted to appear in the 2024 American Control Conference (**ACC'24**), 2024 
+  <br>
+  [PDF-TBA][Poster-TBA][Code-TBA]
+
+<!--
+- *Ecologically-Inspired Decentralized Multi-Agent System with Deadlock Avoidance.*
+  <br>
+  **Yanze Zhang**, Yiwei Lyu, Siwon Jo, Yupeng Yang, Wenhao Luo
+  <br>
+  Accepted as a extended abstract to appear in the 4th IEEE International Symposium on Multi-Robot & Multi-Agent Systems (**MRS'23**), 2023 
+  <br>
+  [PDF-TBA][Poster-TBA][Code-TBA]
+
+- *Decentralized Motion Coordination for Minimally Disruptive Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty.*
+  <br>
+  Yupeng Yang, Yiwei Lyu, Sha Yi, **Yanze Zhang**, Wenhao Luo
+  <br>
+  Accepted as a extended abstract to appear in the 4th IEEE International Symposium on Multi-Robot & Multi-Agent Systems (**MRS'23**), 2023 
+  <br>
+  [PDF-TBA][Poster-TBA][Code-TBA] -->
+
+- *Global and Subgroup Connectivity Maintenance for Decentralized Multi-Robot Networks under Uncertainty.*
+  <br>
+  Yupeng Yang, Yiwei Lyu, Sha Yi, **Yanze Zhang**, Wenhao Luo
+  <br>
+  Accepted as a workshop paper to appear in the 35th International Conference on Intelligent Robots and Systems (**IROS'23**), 2023 
+  <br>
+  [[PDF](https://djhanove.github.io/IROS23_MRS/assets/papers/iros2023workshop_subgroupConnectivity.pdf)][Slides-TBA][Code-TBA]
+
+- *Occlusion-Free Image Based Visual Servoing Using Probabilistic Control Barrier Certificates.*
+  <br>
+  **Yanze Zhang**, Yupeng Yang, Wenhao Luo
+  <br>
+  Accepted to appear in the 22th World Congress of International Federation of Automatic Control (**IFAC'23**), 2023
+  <br>
+  [[PDF](https://arxiv.org/pdf/2309.03476.pdf)][[Slides](https://drive.google.com/file/d/15gWHsd9hAaYWi5rJtmvI__ndZo16p263/view?usp=sharing)][Code-TBA]
+
 <!-- 
 ### Journal
 - [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), Haochen Liu, **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **IEEE Transactions on Intelligent Vehicles, 2024** [![](https://img.shields.io/github/stars/georgeliu233/Scene-Rep-Transformer?style=social&label=Code Stars)](https://github.com/georgeliu233/Scene-Rep-Transformer) 
