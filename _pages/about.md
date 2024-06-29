@@ -324,7 +324,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - *2019.09 - 2022.06*, Master of Engineering, Mechanical Design and Theory, Dalian University of Technology, China 
 - *2015.09 - 2019.06*, Bachelor of Engineering, Mechanical Engineering, China University of Petroleum, China
 
-# 📚 Academic Services
+# 📚 Services
 <!-- 
 ## Program Committee
 - Lead organizer of Special Session on [learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) at ITSC, 2023
@@ -340,10 +340,21 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - Engineering Applications of Artificial Intelligence
 - Artificial Intelligence Review -->
 
-## Conference Reviewer
+## External Reviewer
 <!-- 
 - IEEE International Conference on Robotics and Automation (ICRA) 2022 -- 2024
 - IEEE Intelligent Vehicles Symposium (IV) 2022 -- 2024
 - IEEE Intelligent Transportation Systems Conference (ITSC) 2022 -- 2024
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 -->
 - International Federation of Automatic Control (IFAC'23)
+
+## Mentoring Activities
+- [Ian Gao](https://www.linkedin.com/in/ian-gao-978667162/), Bachelor Research Project.
+- John Modl, [REU Program](https://www.nsf.gov/crssprgm/reu/).
+- [Matthew De La Rosa](https://www.linkedin.com/in/matthewdelarosa/), [REU Program](https://www.nsf.gov/crssprgm/reu/).
+- [Andrew Chen](https://www.linkedin.com/in/andrewchen0028/), [REU Program](https://www.nsf.gov/crssprgm/reu/). Now at [CMU](https://www.cmu.edu/mscf/news/evaluating-masters-in-financial-engineering-programs.html) as a Master student.
+<!--- [Chris Egersdoerfer](https://www.linkedin.com/in/chris-egersdoerfer-6699b7192/), Bachelor Research Project. Now at
+  UNCC as a master student. -->
+- Zachary Palko, [REU Program](https://www.nsf.gov/crssprgm/reu/).
+- [Siwon Jo](https://www.linkedin.com/in/siwonjo), Bachelor Research Project.
+- [Mukul Mohan](https://www.linkedin.com/in/mukul-mohan-77573522a/?trk=people-guest_people_search-card), Bachelor Research Project.

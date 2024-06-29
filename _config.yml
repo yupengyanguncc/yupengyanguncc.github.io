@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yanze Zhang"
-description              : "Ph.D. student at UNC Charlotte. Focusing on autonomous driving, machine learning, and decision-making."
+description              : "Ph.D. student at UNC Charlotte." #Focusing on autonomous driving, machine learning, and decision-making."
 repository               : "MCZhi/MCZhi.github.io"
 google_scholar_stats_use_cdn : true
 
