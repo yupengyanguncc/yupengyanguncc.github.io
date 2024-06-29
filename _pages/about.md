@@ -158,6 +158,7 @@ Zhiyu Huang, Xiaoyu Mo, Chen Lv
 </div>
 </div>
 
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><img src='images/ExpertDRL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -172,6 +173,8 @@ Zhiyu Huang, Jingda Wu, Chen Lv
 -  We propose a novel framework to incorporate human prior knowledge in DRL, in order to improve the sample efficiency and save the effort of designing sophisticated reward functions.
 </div>
 </div>
+-->
+
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/IRL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -187,6 +190,7 @@ Zhiyu Huang, Jingda Wu, Chen Lv
 - We propose a structural assumption about internal reward function-based human driving behavior and employ sampling-based maximum entropy inverse reinforcement learning (IRL) algorithm to infer the reward function parameters from naturalistic human driving data.
 </div>
 </div>
+-->
 
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><img src='images/multimodal.png' alt="sym" width="100%"></div>
