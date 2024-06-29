@@ -47,7 +47,7 @@ My research primarily centers around the intersection of autonomous driving and 
 Workshop on Autonomous Driving](https://cvpr2023.wad.vision/). -->
   
 # 📝 Publications
-<!-- 
+
 ## Highlights
 <div class='paper-box'><div class='paper-box-image'><img src='images/DTPP.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -188,6 +188,7 @@ Zhiyu Huang, Jingda Wu, Chen Lv
 </div>
 </div>
 
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><img src='images/multimodal.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
