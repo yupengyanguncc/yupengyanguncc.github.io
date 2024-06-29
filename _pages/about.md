@@ -260,7 +260,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 -->
 
 # 📖 Education
-- *2022.08 - *, Doctor of Philosophy, Computer Science, University of North Carolina at Charlotte, The United States 
+- *2022.08 - Now*, Doctor of Philosophy, Computer Science, University of North Carolina at Charlotte, The United States 
 - *2019.09 - 2022.06*, Master of Engineering, Mechanical Design and Theory, Dalian University of Technology, China 
 - *2015.09 - 2019.06*, Bachelor of Engineering, Mechanical Engineering, China University of Petroleum, China
 
