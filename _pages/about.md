@@ -257,10 +257,12 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - *2017.10* National Scholarship (Top 1%)
 
 # 📖 Education
-- *2019.08 - 2024.08*, Doctor of Philosophy, Robotics and Intelligent Systems, Nanyang Technological University, Singapore 
-- *2015.09 - 2019.06*, Bachelor of Engineering, Vehicle Engineering, Chongqing University, Chongqing, China
+- *2022.08 - *, Doctor of Philosophy, Computer Science, University of North Carolina at Charlotte, The United States 
+- *2019.09 - 2022.06*, Master of Engineering, Mechanical Design and Theory, Dalian University of Technology, China 
+- *2015.09 - 2019.06*, Bachelor of Engineering, Mechanical Engineering, China University of Petroleum, China
 
 # 📚 Academic Services
+<!-- 
 ## Program Committee
 - Lead organizer of Special Session on [learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) at ITSC, 2023
 - Lead organizer of Special Session on [learning-powered and knowledge-driven autonomous driving](https://sites.google.com/view/itsc-lpad-2) at ITSC, 2024
@@ -274,10 +276,12 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - Transportation Research Part C: Emerging Technologies
 - Engineering Applications of Artificial Intelligence
 - Artificial Intelligence Review 
-
+-->
 ## Conference Reviewer
+<!-- 
 - IEEE International Conference on Robotics and Automation (ICRA) 2022 -- 2024
 - IEEE Intelligent Vehicles Symposium (IV) 2022 -- 2024
 - IEEE Intelligent Transportation Systems Conference (ITSC) 2022 -- 2024
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023
-- European Conference on Computer Vision (ECCV) 2024
+-->
+- International Federation of Automatic Control (IFAC'23)
