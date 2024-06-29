@@ -244,7 +244,6 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 
 
 # 🎖 Honors and Awards
-- *2023.06* Conference Travel Award from the Graduate School of UNC Charlotte.
 <!-- 
 - *2023.09* Best Paper Runner-up Award, ITSC 2023
 - *2023.06* [Innovation Award, nuPlan Planning Challenge](https://opendrivelab.com/AD23Challenge.html#nuplan_planning), CVPR Workshop on End-to-End Autonomous Driving \| [\[video\]](https://youtu.be/ZwhXilQKULY?t=1204)
@@ -257,7 +256,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - *2019.06* Outstanding Graduate (Top 1%)
 - *2018.10* National Scholarship (Top 1%)
 - *2017.10* National Scholarship (Top 1%) -->
-
+- *2023.06* Conference Travel Award from the Graduate School of UNC Charlotte.
 
 # 📖 Education
 - *2022.08 - Now*, Doctor of Philosophy, Computer Science, University of North Carolina at Charlotte, The United States 
