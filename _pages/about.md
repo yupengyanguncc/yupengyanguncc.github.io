@@ -214,6 +214,17 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 -->
 
 ## All Publications
+- *A Transitional Intelligent Driver Model Enabling Vehicle Longitudinal Motion Prediction in Lane-Change Maneuvers.*
+  <br>
+  <br>
+  Sude E. Demir, Xingyu Zhou, **Yanze Zhang**, Wenhao Luo, and Junmin Wang
+  <br>
+  <br>
+  Accepted to appear in the The 4th Modeling, Estimation, and Control Conference (**MECC' 24**), 2024 
+  <br>
+  <br>
+  [PDF-TBA][Code-TBA]
+
 - *Decentralized Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty.*
   <br>
   Yupeng Yang, Yiwei Lyu, **Yanze Zhang**, Sha Yi, and Wenhao Luo
@@ -233,9 +244,12 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 <!--
 - *Ecologically-Inspired Decentralized Multi-Agent System with Deadlock Avoidance.*
   <br>
+  <br>
   **Yanze Zhang**, Yiwei Lyu, Siwon Jo, Yupeng Yang, Wenhao Luo
   <br>
+  <br>
   Accepted as a extended abstract to appear in the 4th IEEE International Symposium on Multi-Robot & Multi-Agent Systems (**MRS'23**), 2023 
+  <br>
   <br>
   [PDF-TBA][Poster-TBA][Code-TBA]
 
