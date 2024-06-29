@@ -24,6 +24,17 @@ I am currently a visiting student researcher at UC Berkeley, working in the [Mec
 My research primarily centers around the intersection of autonomous driving and machine learning. My goal is to develop algorithms and techniques that enable machines to interact with humans naturally, make intelligent decisions, and drive as skillfully as experienced human drivers. Specifically, my research interests encompass deep learning and reinforcement learning, applied to areas such as autonomous driving decision-making, prediction and planning, simulation, and human-machine interaction. My contributions have resulted in the publication of over 20 papers in top AI/ITS/Robotics journals and conferences. -->
 
 # 🔥 News
+- **[June. 2024]** Our paper about Vehicle Longitudinal Motion Prediction is accepted to [MECC' 24](https://mecc2024.a2c2.org/).
+- **[May. 2024]** Our paper about Connectivity Maintenance is accepted to [RSS’24](https://roboticsconference.org/).
+- **[Jan. 2024]** Our paper about Conformal Prediction is accepted to [ACC’24](https://acc2024.a2c2.org/).
+- **[Oct. 2023]** I will present our work at [MRS’23](https://sites.bu.edu/mrs2023/).
+- **[Oct. 2023]** Our paper about multi-agent deadlock resolution is accepted to [MRS’23](https://sites.bu.edu/mrs2023/).
+- **[Oct. 2023]** Our paper about connectivity maintenance is accepted to [MRS’23](https://sites.bu.edu/mrs2023/).
+- **[Sep. 2023]** Our paper about connectivity maintenance is accepted to [IROS’23 Workshop](https://ieee-iros.org/).
+- **[Mar. 2023]** Our paper about Image-Based Visual Servoing is accepted to [IFAC’23](https://www.ifac2023.org/).
+
+<!-- 
+- *2024.01*: &nbsp;🎉🎉 Our paper on joint prediction and planning for tree policy has been accepted by ICRA! See you in Yokohama, Japan!
 - *2024.01*: &nbsp;🎉🎉 Our paper on joint prediction and planning for tree policy has been accepted by ICRA! See you in Yokohama, Japan!
 - *2023.11*: &nbsp; I was invited by zdjszx.com to give a public lecture on "Scalable, Learnable, and Interactive Decision-making for Autonomous Driving". The recorded version of the lecture (in Chinese) is available for viewing on [bilibili](https://www.bilibili.com/video/BV1Mz4y1c7BS/?share_source=copy_web&vd_source=d38ad63504821012428c34311a1df246).
 - *2023.10*: &nbsp;🎉🎉 Our paper on brain-inspired reinforcement learning for safe autonomous driving has been accepted by TPAMI!
@@ -33,7 +44,7 @@ My research primarily centers around the intersection of autonomous driving and 
 - *2023.07*: &nbsp;🎉🎉 Our ITSC special session on [learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) has received 17 paper submissions, all of which were accepted. Congratulations to the authors!
 - *2023.06*: &nbsp;🎉🎉 Our team won the innovation award in the nuPlan Planning Challenge! Check out our [report](https://opendrivelab.com/e2ead/AD23Challenge/Track_4_AID.pdf) and [presentation](https://youtu.be/ZwhXilQKULY?t=1204) on our GameFormer Planner.
 - *2023.06*: &nbsp;🎉🎉 Our team secured third place in the Waymo Open Dataset Motion Prediction Challenge! Our [report](https://storage.googleapis.com/waymo-uploads/files/research/2023%20Technical%20Reports/MP_3rd_GRT-R36.pdf) is available on [CVPR 2023
-Workshop on Autonomous Driving](https://cvpr2023.wad.vision/).
+Workshop on Autonomous Driving](https://cvpr2023.wad.vision/). -->
   
 # 📝 Publications
 ## Highlights
