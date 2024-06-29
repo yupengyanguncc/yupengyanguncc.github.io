@@ -16,6 +16,7 @@ I am passionate about Robotics, Control theory, Computer Vision and Reinforcemen
 
 News
 ======
+- **[June. 2024]** Our paper about Vehicle Longitudinal Motion Prediction is accepted to [MECC' 24](https://mecc2024.a2c2.org/).
 - **[May. 2024]** Our paper about Connectivity Maintenance is accepted to [RSS’24](https://roboticsconference.org/).
 - **[Jan. 2024]** Our paper about conformal prediction is accepted to [ACC’24](https://acc2024.a2c2.org/).
 - **[Oct. 2023]** I will present our work at [MRS’23](https://sites.bu.edu/mrs2023/).
