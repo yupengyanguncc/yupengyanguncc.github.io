@@ -47,7 +47,7 @@ My research primarily centers around the intersection of autonomous driving and 
 Workshop on Autonomous Driving](https://cvpr2023.wad.vision/). -->
   
 # 📝 Publications
-
+<!--
 ## Highlights
 <div class='paper-box'><div class='paper-box-image'><img src='images/DTPP.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -62,7 +62,7 @@ Zhiyu Huang, Peter Karkus, Boris Ivanovic, Yuxiao Chen, Marco Pavone, Chen Lv
 
 -  We employ a tree-structured policy planner and propose a differentiable joint training framework for both ego-conditioned prediction and cost evaluation models, resulting in a direct improvement of the final planning performance.
 </div>
-</div>
+</div> -->
 
 <!---
 <div class='paper-box'><div class='paper-box-image'><img src='images/thesis.png' alt="sym" width="100%"></div>
@@ -79,6 +79,7 @@ Zhiyu Huang, Peter Karkus, Boris Ivanovic, Yuxiao Chen, Marco Pavone, Chen Lv
 </div>
 -->
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><img src='images/gameformer.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">  
   
@@ -94,8 +95,9 @@ Zhiyu Huang, Haochen Liu, Chen Lv
 
 -  We address the interaction prediction problem by formulating it with hierarchical game theory and implementing it with TransFormer networks.
 </div>
-</div>
+</div> -->
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><img src='images/IADM.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">  
   
@@ -111,7 +113,7 @@ Zhiyu Huang, Haochen Liu, Jingda Wu, Wenhui Huang, Chen Lv
 
 -  We propose an interaction-aware motion prediction model that is able to predict other agents' future trajectories according to the ego agent's future plans, i.e., their reactions to the ego's actions.
 </div>
-</div>
+</div> -->
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><img src='images/CMPIRL.png' alt="sym" width="100%"></div>
