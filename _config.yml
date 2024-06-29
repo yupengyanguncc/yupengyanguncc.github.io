@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yanze Zhang"
   avatar           : "images/Yanze Zhang.jpeg"
-  bio              : "University of North Carolina at Charlotte"
+  bio              : #"University of North Carolina at Charlotte"
   location         : "Charlotte, NC"
   employer         :
   pubmed           : 
