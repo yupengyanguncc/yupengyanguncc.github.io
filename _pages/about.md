@@ -215,7 +215,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 -->
 
 ## All Publications
-- *A Transitional Intelligent Driver Model Enabling Vehicle Longitudinal Motion Prediction in Lane-Change Maneuvers.*
+- *Integrating Online Learning and Connectivity Maintenance for Communication-Aware Multi-Robot Coordination.*
   <br>
   Yupeng Yang, Yiwei Lyu, **Yanze Zhang**, Ian Gao, and Wenhao Luo
   <br>
