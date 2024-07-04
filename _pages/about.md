@@ -237,7 +237,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   <br>
   Accepted to appear in the 2024 Robotics: Science and Systems (**RSS'24**), 2024 
   <br>
-  [[PDF](https://arxiv.org/pdf/2406.12802)][Poster-TBA][Code-TBA]
+  [[PDF](https://arxiv.org/pdf/2406.12802)]
 
 - *Safety-Critical Control with Uncertainty Quantification using Adaptive Conformal Prediction.*
   <br>
@@ -245,7 +245,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   <br>
   Accepted to appear in the 2024 American Control Conference (**ACC'24**), 2024 
   <br>
-  [PDF-TBA][Poster-TBA][Code-TBA]
+  [PDF-TBA]
 
 <!--
 - *Ecologically-Inspired Decentralized Multi-Agent System with Deadlock Avoidance.*
