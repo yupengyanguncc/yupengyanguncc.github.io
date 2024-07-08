@@ -245,7 +245,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   <br>
   Accepted to appear in the 2024 American Control Conference (**ACC'24**), 2024 
   <br>
-  [PDF-TBA]
+  [[PDF](https://arxiv.org/abs/2407.03569v1)]
 
 <!--
 - *Ecologically-Inspired Decentralized Multi-Agent System with Deadlock Avoidance.*
