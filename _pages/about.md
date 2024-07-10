@@ -25,7 +25,7 @@ My research primarily centers around the intersection of autonomous driving and 
 
 # 🔥 News
 - **[Jul. 2024]** Our paper about Courteous Driving using CBF-inspired Risk is accepted to [ITSC' 24](https://ieee-itsc.org/2024/).
-- **[Jul. 2024]** Our paper about Individualizable Risk Assessment Map is accepted to [ITSC' 24](https://ieee-itsc.org/2024/).
+- **[Jul. 2024]** Our paper about Individualizable Risk Assessment is accepted to [ITSC' 24](https://ieee-itsc.org/2024/).
 - **[June. 2024]** Our paper about Data-driven Connectivity Maintenance is accepted to [IROS' 24](https://iros2024-abudhabi.org/).
 - **[June. 2024]** Our paper about Vehicle Longitudinal Motion Prediction is accepted to [MECC' 24](https://mecc2024.a2c2.org/).
 - **[May. 2024]** Our paper about Connectivity Maintenance is accepted to [RSS’24](https://roboticsconference.org/).
