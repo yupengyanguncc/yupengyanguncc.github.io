@@ -24,6 +24,8 @@ I am currently a visiting student researcher at UC Berkeley, working in the [Mec
 My research primarily centers around the intersection of autonomous driving and machine learning. My goal is to develop algorithms and techniques that enable machines to interact with humans naturally, make intelligent decisions, and drive as skillfully as experienced human drivers. Specifically, my research interests encompass deep learning and reinforcement learning, applied to areas such as autonomous driving decision-making, prediction and planning, simulation, and human-machine interaction. My contributions have resulted in the publication of over 20 papers in top AI/ITS/Robotics journals and conferences. -->
 
 # 🔥 News
+- **[Jul. 2024]** Our paper about Courteous Driving using CBF-inspired Risk is accepted to [ITSC' 24](https://ieee-itsc.org/2024/).
+- **[Jul. 2024]** Our paper about Individualizable Risk Assessment Map is accepted to [ITSC' 24](https://ieee-itsc.org/2024/).
 - **[June. 2024]** Our paper about Data-driven Connectivity Maintenance is accepted to [IROS' 24](https://iros2024-abudhabi.org/).
 - **[June. 2024]** Our paper about Vehicle Longitudinal Motion Prediction is accepted to [MECC' 24](https://mecc2024.a2c2.org/).
 - **[May. 2024]** Our paper about Connectivity Maintenance is accepted to [RSS’24](https://roboticsconference.org/).
