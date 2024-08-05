@@ -217,11 +217,27 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 -->
 
 ## All Publications
+- *Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment.*
+  <br>
+  **Yanze Zhang**, Yiwei Lyu, Sude E. Demir, Xingyu Zhou, Junmin Wang and Wenhao Luo
+  <br>
+  Accepted to the 27th IEEE International Conference on Intelligent Transportation Systems (**ITSC' 24**), 2024 
+  <br>
+  [PDF-TBA]
+
+- *Individualizable Risk Assessment Map for Planning Vehicle Behaviors Respecting Perceived Safety.*
+  <br>
+  Ji Hwan Park, **Yanze Zhang**, Wenaho Luo, and Junmin Wang
+  <br>
+  Accepted to the 27th IEEE International Conference on Intelligent Transportation Systems (**ITSC' 24**), 2024 
+  <br>
+  [PDF-TBA]
+
 - *Integrating Online Learning and Connectivity Maintenance for Communication-Aware Multi-Robot Coordination.*
   <br>
   Yupeng Yang, Yiwei Lyu, **Yanze Zhang**, Ian Gao, and Wenhao Luo
   <br>
-  Accepted to appear in the The 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS' 24**), 2024 
+  Accepted to the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS' 24**), 2024 
   <br>
   [PDF-TBA]
 
@@ -229,7 +245,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   <br>
   Sude E. Demir, Xingyu Zhou, **Yanze Zhang**, Wenhao Luo, and Junmin Wang
   <br>
-  Accepted to appear in the The 4th Modeling, Estimation, and Control Conference (**MECC' 24**), 2024 
+  Accepted to the 4th Modeling, Estimation, and Control Conference (**MECC' 24**), 2024 
   <br>
   [PDF-TBA]
 
@@ -237,7 +253,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   <br>
   Yupeng Yang, Yiwei Lyu, **Yanze Zhang**, Sha Yi, and Wenhao Luo
   <br>
-  Accepted to appear in the 2024 Robotics: Science and Systems (**RSS'24**), 2024 
+  Accepted to the 2024 Robotics: Science and Systems (**RSS'24**), 2024 
   <br>
   [[PDF](https://arxiv.org/pdf/2406.12802)]
 
@@ -245,7 +261,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   <br>
   Hao Zhou, **Yanze Zhang**, and Wenhao Luo
   <br>
-  Accepted to appear in the 2024 American Control Conference (**ACC'24**), 2024 
+  Accepted to the 2024 American Control Conference (**ACC'24**), 2024 
   <br>
   [[PDF](https://arxiv.org/abs/2407.03569v1)]
 
