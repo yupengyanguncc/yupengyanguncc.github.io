@@ -223,7 +223,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   <br>
   Accepted to the 27th IEEE International Conference on Intelligent Transportation Systems (**ITSC' 24**), 2024 
   <br>
-  [[PDF](https://arxiv.org/abs/2408.12822v1)]
+  [[PDF](https://arxiv.org/abs/2408.12822v1)][[Demo-IDM](https://youtu.be/s5aeT6MPhio)][Demo-NGSIM](hhttps://youtu.be/9Cekw5xafWw)]
 
 - *Individualizable Risk Assessment Map for Planning Vehicle Behaviors Respecting Perceived Safety.*
   <br>
