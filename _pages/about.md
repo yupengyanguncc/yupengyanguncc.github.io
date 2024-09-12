@@ -219,12 +219,12 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 ## All Publications
 - *Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment.*
   <br>
-  **Yanze Zhang**, Yiwei Lyu, Sude E. Demir, Xingyu Zhou, Yupeng Yang, Junmin Wang and Wenhao Luo
+  **Yanze Zhang**, Yiwei Lyu, Sude Ela Demir, Xingyu Zhou, Yupeng Yang, Junmin Wang and Wenhao Luo
   <br>
   Accepted to the 27th IEEE International Conference on Intelligent Transportation Systems (**ITSC' 24**), 2024 
   <br>
-  [[PDF](https://arxiv.org/abs/2408.12822v1)][[Demo-IDM](https://youtu.be/s5aeT6MPhio)][[Demo-NGSIM](https://youtu.be/9Cekw5xafWw)]
-
+  [[PDF](https://arxiv.org/abs/2408.12822v1)][[Demo-NGSIM](https://youtu.be/9Cekw5xafWw)][[Demo-IDM](https://youtu.be/9Cekw5xafWw)]
+  
 - *Individualizable Risk Assessment Map for Planning Vehicle Behaviors Respecting Perceived Safety.*
   <br>
   Ji Hwan Park, **Yanze Zhang**, Wenaho Luo, and Junmin Wang
