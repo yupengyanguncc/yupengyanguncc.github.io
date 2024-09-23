@@ -388,12 +388,11 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - International Federation of Automatic Control (IFAC'23)
 
 ## Mentoring Activities
-- [Ian Gao](https://www.linkedin.com/in/ian-gao-978667162/), Bachelor Research Project.
+- [Ian Gao](https://www.linkedin.com/in/ian-gao-978667162/), Bachelor Research Project. Now at UNC Chaphill as an undergraduate.
 - John Modl, [REU Program](https://www.nsf.gov/crssprgm/reu/).
 - [Matthew De La Rosa](https://www.linkedin.com/in/matthewdelarosa/), [REU Program](https://www.nsf.gov/crssprgm/reu/).
 - [Andrew Chen](https://www.linkedin.com/in/andrewchen0028/), [REU Program](https://www.nsf.gov/crssprgm/reu/). Now at [CMU](https://www.cmu.edu/mscf/news/evaluating-masters-in-financial-engineering-programs.html) as a Master student.
-<!--- [Chris Egersdoerfer](https://www.linkedin.com/in/chris-egersdoerfer-6699b7192/), Bachelor Research Project. Now at
-  UNCC as a master student. -->
 - Zachary Palko, [REU Program](https://www.nsf.gov/crssprgm/reu/).
 - [Siwon Jo](https://www.linkedin.com/in/siwonjo), Bachelor Research Project.
 - [Mukul Mohan](https://www.linkedin.com/in/mukul-mohan-77573522a/?trk=people-guest_people_search-card), Bachelor Research Project.
+<!--- [Chris Egersdoerfer](https://www.linkedin.com/in/chris-egersdoerfer-6699b7192/), Bachelor Research Project. Now at UNCC as a master student. -->
