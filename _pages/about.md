@@ -29,7 +29,7 @@ My research primarily centers around the intersection of autonomous driving and 
 - **[Jul. 2024]** Our paper about Individualizable Risk Assessment is accepted to [ITSC' 24](https://ieee-itsc.org/2024/).
 - **[June. 2024]** Our paper about Data-driven Connectivity Maintenance is accepted to [IROS' 24](https://iros2024-abudhabi.org/).
 - **[June. 2024]** Our paper about Vehicle Longitudinal Motion Prediction is accepted to [MECC' 24](https://mecc2024.a2c2.org/).
-- **[May. 2024]** Our paper about Connectivity Maintenance is accepted to [RSS’24](https://roboticsconference.org/).
+- **[May. 2024]** Our paper about Line-of-Sight Connectivity Maintenance is accepted to [RSS’24](https://roboticsconference.org/).
 - **[Jan. 2024]** Our paper about Conformal Prediction is accepted to [ACC’24](https://acc2024.a2c2.org/).
 - **[Oct. 2023]** I will present our work at [MRS’23](https://sites.bu.edu/mrs2023/).
 - **[Oct. 2023]** Our paper about multi-agent deadlock resolution is accepted to [MRS’23](https://sites.bu.edu/mrs2023/).
