@@ -385,6 +385,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - IEEE Intelligent Vehicles Symposium (IV) 2022 -- 2024
 - IEEE Intelligent Transportation Systems Conference (ITSC) 2022 -- 2024
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 -->
+- IEEE International Conference on Robotics and Automation (ICRA‘ 25)
 - International Federation of Automatic Control (IFAC'23)
 
 ## Mentoring Activities
