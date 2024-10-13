@@ -240,7 +240,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   <br>
   Accepted to the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS' 24**), 2024 
   <br>
-  [[PDF](https://arxiv.org/abs/2410.05798)][[Project](https://github.com/wenhaol/DCM-RSSI)]
+  [[PDF](https://arxiv.org/abs/2410.05798)][[Project](https://github.com/wenhaol/DCM-RSSI)][[Website](https://wenhaol.github.io/DCM-RSSI/)]
 
 - *A Transitional Intelligent Driver Model Enabling Vehicle Longitudinal Motion Prediction in Lane-Change Maneuvers.*
   <br>
