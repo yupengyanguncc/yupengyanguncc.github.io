@@ -256,7 +256,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   <br>
   Accepted to the 2024 Robotics: Science and Systems (**RSS'24**), 2024 
   <br>
-  [[PDF](https://arxiv.org/pdf/2406.12802)]
+  [[PDF](https://arxiv.org/pdf/2406.12802)][[Video](https://www.youtube.com/watch?v=kRQoEh3hgXE)]
 
 - *Safety-Critical Control with Uncertainty Quantification using Adaptive Conformal Prediction.*
   <br>
