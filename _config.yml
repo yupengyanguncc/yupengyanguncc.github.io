@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yanze Zhang"
-description              : "Ph.D. student at UNC Charlotte." #Focusing on autonomous driving, machine learning, and decision-making."
+description              : "Ph.D. student at UIC." #Focusing on autonomous driving, machine learning, and decision-making."
 repository               : "MCZhi/MCZhi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=8mEEHDIAAAAJ&hl=en"
-  email            : "yzhang94@charlotte.edu"
+  email            : "yzhan361@uic.edu"
   researchgate     : # "https://www.researchgate.net/profile/Zhiyu-Huang-5"
   uri              :
   bitbucket        :
