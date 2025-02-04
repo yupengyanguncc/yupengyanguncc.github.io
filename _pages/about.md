@@ -60,10 +60,10 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/). -->
   
 # 📝 Publications
 ## Highlights
-<div class='paper-box'><div class='paper-box-image'><img src='images/0204.gif' alt="demo" width="100%" class="paper-image"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/0204.gif' alt="demo" width="50%" class="paper-image"></div>
 <div class='paper-box-text' markdown="1">
 
-**DTPP: Differentiable Joint Conditional Prediction and Cost Evaluation for Tree Policy Planning in Autonomous Driving**
+**Adaptive Deadlock Avoidance for Decentralized Multi-Agent Systems via CBF-inspired Risk Measurement**
 
 Yanze Zhang, Yiwei Lyu, Siwon Jo, Yupeng Yang, Wenhao Luo
 
