@@ -59,6 +59,21 @@ My research primarily centers around the intersection of autonomous driving and 
 Workshop on Autonomous Driving](https://cvpr2023.wad.vision/). -->
   
 # 📝 Publications
+## Highlights
+<div class='paper-box'><div class='paper-box-image'><img src='images/0204.gif' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**DTPP: Differentiable Joint Conditional Prediction and Cost Evaluation for Tree Policy Planning in Autonomous Driving**
+
+Zhiyu Huang, Peter Karkus, Boris Ivanovic, Yuxiao Chen, Marco Pavone, Chen Lv
+
+**IEEE International Conference on Robotics and Automation (ICRA), 2024**
+
+[**Paper**](https://arxiv.org/abs/2310.05885) \| [![](https://img.shields.io/github/stars/MCZhi/DTPP?style=social&label=Code Stars)](https://github.com/MCZhi/DTPP)
+
+-  We employ a tree-structured policy planner and propose a differentiable joint training framework for both ego-conditioned prediction and cost evaluation models, resulting in a direct improvement of the final planning performance.
+</div>
+</div> 
 <!--
 ## Highlights
 <div class='paper-box'><div class='paper-box-image'><img src='images/DTPP.png' alt="sym" width="100%"></div>
