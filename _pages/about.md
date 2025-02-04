@@ -71,7 +71,10 @@ Yanze Zhang, Yiwei Lyu, Siwon Jo, Yupeng Yang, Wenhao Luo
 
 [**Paper**-TBA]
 
--  We employ a tree-structured policy planner and propose a differentiable joint training framework for both ego-conditioned prediction and cost evaluation models, resulting in a direct improvement of the final planning performance.
+- We present a novel decentralized framework that ensures both efficient task execution and deadlock 
+resolution for multi-agent systems, which enables co-optimization 
+between the task-related controller and deadlock resolution
+controller, yielding smoother robots’ motion with improved overall task execution efficiency
 </div>
 </div> 
 
