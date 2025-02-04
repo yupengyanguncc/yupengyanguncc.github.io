@@ -60,7 +60,7 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/). -->
   
 # 📝 Publications
 ## Highlights
-<div class='paper-box'><div class='paper-box-image'><img src='images/0204.gif' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/0204.gif' alt="demo" width="100%" class="paper-image"></div>
 <div class='paper-box-text' markdown="1">
 
 **DTPP: Differentiable Joint Conditional Prediction and Cost Evaluation for Tree Policy Planning in Autonomous Driving**
@@ -74,6 +74,7 @@ Zhiyu Huang, Peter Karkus, Boris Ivanovic, Yuxiao Chen, Marco Pavone, Chen Lv
 -  We employ a tree-structured policy planner and propose a differentiable joint training framework for both ego-conditioned prediction and cost evaluation models, resulting in a direct improvement of the final planning performance.
 </div>
 </div> 
+
 <!--
 ## Highlights
 <div class='paper-box'><div class='paper-box-image'><img src='images/DTPP.png' alt="sym" width="100%"></div>
