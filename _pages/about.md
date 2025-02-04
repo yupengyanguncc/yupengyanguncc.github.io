@@ -226,6 +226,22 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 -->
 
 ## All Publications
+- *Adaptive Deadlock Avoidance for Decentralized Multi-Agent Systems via CBF-inspired Risk Measurement.*
+  <br>
+  **Yanze Zhang**, Yiwei Lyu, Siwon Jo, Yupeng Yang, and Wenhao Luo
+  <br>
+  Accepted to the 2025 IEEE International Conference on Robotics and Automation (**ICRA' 25**), 2024 
+  <br>
+  [PDF-TBA]
+
+- *Computation and Sample Efficient Safe Reinforcement Learning Using Adaptive Conformal Prediction.*
+  <br>
+  Hao Zhou, **Yanze Zhang**, and Wenhao Luo
+  <br>
+  Accepted to the 2025 IEEE International Conference on Robotics and Automation (**ICRA' 25**), 2024 
+  <br>
+  [PDF-TBA]
+
 - *Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment.*
   <br>
   **Yanze Zhang**, Yiwei Lyu, Sude Ela Demir, Xingyu Zhou, Yupeng Yang, Junmin Wang and Wenhao Luo
@@ -256,7 +272,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   <br>
   Accepted to the 4th Modeling, Estimation, and Control Conference (**MECC' 24**), 2024 
   <br>
-  [PDF-TBA]
+  [[PDF](https://www.researchgate.net/profile/Xingyu-Zhou-14/publication/388321405_A_Transitional_Intelligent_Driver_Model_Enabling_Vehicle_Longitudinal_Motion_Prediction_in_Lane-Change_Maneuvers/links/6792f47b96e7fb48b99b7658/A-Transitional-Intelligent-Driver-Model-Enabling-Vehicle-Longitudinal-Motion-Prediction-in-Lane-Change-Maneuvers.pdf)]
 
 - *Decentralized Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty.*
   <br>
@@ -300,7 +316,8 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   <br>
   Accepted as a workshop paper to appear in the 35th International Conference on Intelligent Robots and Systems (**IROS'23**), 2023 
   <br>
-  [[PDF](https://djhanove.github.io/IROS23_MRS/assets/papers/iros2023workshop_subgroupConnectivity.pdf)][Slides-TBA][Code-TBA]
+  [[PDF](https://djhanove.github.io/IROS23_MRS/assets/papers/iros2023workshop_subgroupConnectivity.pdf)]
+  <!--[Slides-TBA][Code-TBA] -->
 
 - *Occlusion-Free Image Based Visual Servoing Using Probabilistic Control Barrier Certificates.*
   <br>
@@ -308,7 +325,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   <br>
   Accepted to appear in the 22th World Congress of International Federation of Automatic Control (**IFAC'23**), 2023
   <br>
-  [[PDF](https://arxiv.org/pdf/2309.03476.pdf)][[Slides](https://drive.google.com/file/d/15gWHsd9hAaYWi5rJtmvI__ndZo16p263/view?usp=sharing)][Code-TBA]
+  [[PDF](https://arxiv.org/pdf/2309.03476.pdf)][[Slides](https://drive.google.com/file/d/15gWHsd9hAaYWi5rJtmvI__ndZo16p263/view?usp=sharing)]
 
 <!-- 
 ### Journal
