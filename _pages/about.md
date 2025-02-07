@@ -103,19 +103,18 @@ controller, yielding smoother robots’ motion with improved overall task execut
 <div class='paper-box'> -->
 
 <div class='paper-box'><div class='paper-box-image'>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/s5aeT6MPhio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/9Cekw5xafWw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <div class='paper-box-text' markdown="1">
 **Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment**
 
 Yanze Zhang, Yiwei Lyu, Sude E. Demir, Xingyu Zhou, Yupeng Yang, Junming Wang, Wenhao Luo
 
-**27th IEEE International Conference on Intelligent Transportation Systems (ITSC), 2024**
+**IEEE International Conference on Intelligent Transportation Systems (ITSC), 2024**
 
 [**Paper**](https://arxiv.org/abs/2408.12822v1)
 
-- we develop an extension of the Control Barrier Functions-inspired risk evaluation framework that takes into account both noisy observed positions and motions, which are then integrated with a model predictive controller
-(MPC) to ensure smooth and robust decision-making for AVs.
+- we develop an extension of the CBF-inspired risk evaluation framework that takes into account both noisy observed positions and motions, which are then integrated with MPC to ensure smooth and robust decision-making for AVs.
 </div>
 </div> 
 
