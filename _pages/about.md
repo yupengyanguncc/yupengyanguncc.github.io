@@ -112,12 +112,10 @@ Yanze Zhang, Yiwei Lyu, Sude E. Demir, Xingyu Zhou, Yupeng Yang, Junming Wang, W
 
 **27th IEEE International Conference on Intelligent Transportation Systems (ITSC), 2024**
 
-[**Paper**-TBA]
+[**Paper**](https://arxiv.org/abs/2408.12822v1)
 
-- We present a novel decentralized framework that ensures both efficient task execution and deadlock 
-resolution for multi-agent systems, which enables co-optimization 
-between the task-related controller and deadlock resolution
-controller, yielding smoother robots’ motion with improved overall task execution efficiency
+- we develop an extension of the Control Barrier Functions-inspired risk evaluation framework that takes into account both noisy observed positions and motions, which are then integrated with a model predictive controller
+(MPC) to ensure smooth and robust decision-making for AVs.
 </div>
 </div> 
 
