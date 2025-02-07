@@ -259,7 +259,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   <br>
   **Yanze Zhang**, Yiwei Lyu, Siwon Jo, Yupeng Yang, and Wenhao Luo
   <br>
-  Accepted to the 2025 IEEE International Conference on Robotics and Automation (**ICRA' 25**), 2024 
+  Accepted to the 2025 IEEE International Conference on Robotics and Automation (**ICRA' 25**), 2025 
   <br>
   [PDF-TBA]
 
@@ -267,7 +267,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   <br>
   Hao Zhou, **Yanze Zhang**, and Wenhao Luo
   <br>
-  Accepted to the 2025 IEEE International Conference on Robotics and Automation (**ICRA' 25**), 2024 
+  Accepted to the 2025 IEEE International Conference on Robotics and Automation (**ICRA' 25**), 2025 
   <br>
   [PDF-TBA]
 
