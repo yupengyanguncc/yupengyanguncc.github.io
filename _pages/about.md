@@ -60,6 +60,16 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/). -->
   
 # 📝 Publications
 ## Highlights
+<style>
+.paper-box-image {
+  text-align: center;
+}
+.paper-image {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/0204.gif' alt="demo" width="75%" class="paper-image"></div>
 <div class='paper-box-text' markdown="1">
 
