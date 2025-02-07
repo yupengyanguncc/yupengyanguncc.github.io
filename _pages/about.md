@@ -102,7 +102,7 @@ controller, yielding smoother robots’ motion with improved overall task execut
 <div class='paper-box-text' markdown="1">
 <div class='paper-box'> -->
 
-<div class='paper-box-image'>
+<div class='paper-box'><div class='paper-box-image'>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/s5aeT6MPhio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <div class='paper-box-text' markdown="1">
