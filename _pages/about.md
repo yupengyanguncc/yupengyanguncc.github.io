@@ -88,6 +88,41 @@ controller, yielding smoother robots’ motion with improved overall task execut
 </div>
 </div> 
 
+<!-- <style>
+.paper-box-image {
+  text-align: center;
+}
+.paper-image {
+  display: block;
+  margin: 0 auto;
+}
+</style> -->
+
+<!-- <div class='paper-box'><div class='paper-box-image'><img src='images/0204.gif' alt="demo" width="70%" class="paper-image"></div>
+<div class='paper-box-text' markdown="1">
+<div class='paper-box'> -->
+
+<div class='paper-box-image'>
+  <iframe width="560" height="315" src="https://youtu.be/s5aeT6MPhio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class='paper-box-text' markdown="1">
+**Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment**
+
+Yanze Zhang, Yiwei Lyu, Sude E. Demir, Xingyu Zhou, Yupeng Yang, Junming Wang, Wenhao Luo
+
+**27th IEEE International Conference on Intelligent Transportation Systems (ITSC), 2024**
+
+[**Paper**-TBA]
+
+- We present a novel decentralized framework that ensures both efficient task execution and deadlock 
+resolution for multi-agent systems, which enables co-optimization 
+between the task-related controller and deadlock resolution
+controller, yielding smoother robots’ motion with improved overall task execution efficiency
+</div>
+</div> 
+
+
+
 <!--
 ## Highlights
 <div class='paper-box'><div class='paper-box-image'><img src='images/DTPP.png' alt="sym" width="100%"></div>
