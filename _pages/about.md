@@ -70,7 +70,7 @@ Workshop on Autonomous Driving](https://cvpr2023.wad.vision/). -->
 }
 </style>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/0204.gif' alt="demo" width="75%" class="paper-image"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/0204.gif' alt="demo" width="70%" class="paper-image"></div>
 <div class='paper-box-text' markdown="1">
 
 **Adaptive Deadlock Avoidance for Decentralized Multi-Agent Systems via CBF-inspired Risk Measurement**
