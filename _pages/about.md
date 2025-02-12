@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I am a Ph.D. student major in Computer Science at [UIC](https://www.uic.edu/), where I am fortunate to be supervised by [Prof. Wenhao Luo](https://cs.uic.edu/profiles/luo-wenhao/). Prior to that, I worked as a research assistance at 
+I am a Ph.D. student major in Computer Science at [UIC](https://www.uic.edu/), where I am fortunate to be supervised by [Prof. Wenhao Luo](https://cs.uic.edu/profiles/luo-wenhao/). Prior to that, I worked as a research assistant at 
 [UNC Charlotte](https://www.charlotte.edu/). I completed my master's degree in Mechanical Engineering
 from [Dalian University of Technology(DUT)](https://en.dlut.edu.cn/), and obtained my bachelor’s degree from [China University of Petroleum(UPC)](https://english.upc.edu.cn/). 
 <!-- I am a Ph.D. student major in Computer Science at [UNC Charlotte](https://www.charlotte.edu/), where I am fortunate to be supervised
