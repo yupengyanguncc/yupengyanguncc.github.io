@@ -16,6 +16,8 @@ from [Jilin University)](https://www.jlu.edu.cn/), and obtained my bachelor’s 
 
 I earned my Ph.D. from the School of Business and Management at Jilin University, where I was advised by Dr. Li Cai. My research interests encompass entrepreneurial opportunity, entrepreneurial cognition, entrepreneurial ecosystems, and innovation-driven entrepreneurship. Specifically, my work investigates the ontology of entrepreneurial opportunity, the development of opportunities, and factors that affect the transformation of new venture ideas into entrepreneurial actions.
 
+My experience as a visiting scholar at the University of North Carolina at Charlotte [UNCC](https://www.charlotte.edu/)  profoundly shaped my research interests. Working with Dr. [Franz W. Kellermanns](https://belkcollege.charlotte.edu/directory/franz-w-kellermanns/) exposed me to cutting-edge theories and methodologies in entrepreneurship, solidifying my desire to conduct research in a stimulating, globally connected academic environment.
+
 # 🔥 News
 - **[Feb. 2025]** I got accepted by [Aubrun University](https://www.auburn.edu/)!
 - **[Feb 2025]** Our paper about Holistic View of Opportunity is accepted to [Science & Technology Progress and Policy](https://www.kjjb.org/EN/top_access).
@@ -195,7 +197,7 @@ the Opportunity Holistic View [J].*
   <br>
   **Yiru Cai**, Li Cai, Ziying Che
   <br>
-  Accepted to the Science & Technology Progress and Policy, 2024
+  Accepted to the **Science & Technology Progress and Policy**, 2024
   <br>
 
 
@@ -203,185 +205,81 @@ the Opportunity Holistic View [J].*
   <br>
   **Yiru Cai**, Li Cai
   <br>
-  Accepted to the 2024 Academy of Management Proceedings, 2024
+  Accepted to the **2024 Academy of Management Proceedings**, 2024
   <br>
 
-- *. Entrepreneurial Opportunity and Entrepreneurial Context: An Integrated Framework[J].*
+- *Entrepreneurial Opportunity and Entrepreneurial Context: An Integrated Framework[J].*
   <br>
   **Yiru Cai**, Li Cai, Ziying Chen, Yaqian Yan
   <br>
-  Accepted to the Forum on Science and Technology in China , 2018
+  Accepted to the **Forum on Science and Technology** in China , 2018
   <br>
   
-- *Individualizable Risk Assessment Map for Planning Vehicle Behaviors Respecting Perceived Safety.*
+- *Relationship between entrepreneurial orientation and the intention to pursue
+digital entrepreneurship: Opportunity evaluation in small and medium‑sized enterprises[C].*
   <br>
-  Ji Hwan Park, **Yanze Zhang**, Wenaho Luo, and Junmin Wang
+  Ophelia Chapman, **Yiru Cai**, Franz W. Kellermanns
   <br>
-  Accepted to the 27th IEEE International Conference on Intelligent Transportation Systems (**ITSC' 24**), 2024 
+  Accepted to the **2023 Annual USASBE Conference: Driven By Dreams**, 2023
   <br>
-  [PDF-TBA]
 
-- *Integrating Online Learning and Connectivity Maintenance for Communication-Aware Multi-Robot Coordination.*
+- *Innovation‑driven Entrepreneurship: A Core Academic Construct of Innovation and
+Entrepreneurship Research in the New Era[J].
   <br>
-  Yupeng Yang, Yiwei Lyu, **Yanze Zhang**, Ian Gao, and Wenhao Luo
+ Li Cai, Yuli Zhang, **Yiru Cai**, Yaqian Yang. 
   <br>
-  Accepted to the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS' 24**), 2024 
+  Accepted to the **Nankai Business Review**, 2021 (**Received Second Prize in 14th
+Jilin Province Social Science Outstanding Achievement Award**)
   <br>
-  [[PDF](https://arxiv.org/abs/2410.05798)][[Project](https://github.com/wenhaol/DCM-RSSI)][[Website](https://wenhaol.github.io/DCM-RSSI/)]
+  
+- *A Review and Prospects of Inter‑organizational Symbiosis[J].*
+  <br>
+  Shan Lu, Li Cai, Tianyue Zhan, **Yiru Cai**. 
+  <br>
+  Accepted to the Foreign Economics & Management, 2021
+  <br>
 
-- *A Transitional Intelligent Driver Model Enabling Vehicle Longitudinal Motion Prediction in Lane-Change Maneuvers.*
+- *Entrepreneurial Opportunity and Resource Development Behavior of Entrepreneurial Firms: A Study
+from China’s Transitional Economy[J].*
   <br>
-  Sude E. Demir, Xingyu Zhou, **Yanze Zhang**, Wenhao Luo, and Junmin Wang
+  Li Cai, Baoshan Ge, **Yiru Cai**.
   <br>
-  Accepted to the 4th Modeling, Estimation, and Control Conference (**MECC' 24**), 2024 
+  Accepted to the Quarterly Journal of Management, 2019 
   <br>
-  [[PDF](https://www.researchgate.net/profile/Xingyu-Zhou-14/publication/388321405_A_Transitional_Intelligent_Driver_Model_Enabling_Vehicle_Longitudinal_Motion_Prediction_in_Lane-Change_Maneuvers/links/6792f47b96e7fb48b99b7658/A-Transitional-Intelligent-Driver-Model-Enabling-Vehicle-Longitudinal-Motion-Prediction-in-Lane-Change-Maneuvers.pdf)]
 
-- *Decentralized Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty.*
+- *Theoretical Background, Type Analysis, and Research Framework Construction of Strategic
+Entrepreneurial Decision‑making Logic[J]. *
   <br>
-  Yupeng Yang, Yiwei Lyu, **Yanze Zhang**, Sha Yi, and Wenhao Luo
+ Guo R, Haitao Chen, **Yiru Cai**, Shan Lu. 
   <br>
-  Accepted to the 2024 Robotics: Science and Systems (**RSS'24**), 2024 
+  Accepted to the **Foreign Economics & Management**, 2017 
   <br>
-  [[PDF](https://arxiv.org/pdf/2406.12802)][[Video](https://www.youtube.com/watch?v=kRQoEh3hgXE)]
 
-- *Safety-Critical Control with Uncertainty Quantification using Adaptive Conformal Prediction.*
+- *Antecedent and dimension of symbiotic relationship in the hub‑based
+entrepreneurial ecosystem: case study of Alibaba[J]. *
   <br>
-  Hao Zhou, **Yanze Zhang**, and Wenhao Luo
+ Xiuqing Peng, Li Cai,Shan Lu, **Yiru Cai**, Yuli Gao
   <br>
-  Accepted to the 2024 American Control Conference (**ACC'24**), 2024 
+  Accepted to the **Journal of Industrial Integration and Management**, 2017 
   <br>
-  [[PDF](https://arxiv.org/abs/2407.03569v1)]
-
-<!--
-- *Ecologically-Inspired Decentralized Multi-Agent System with Deadlock Avoidance.*
-  <br>
-  <br>
-  **Yanze Zhang**, Yiwei Lyu, Siwon Jo, Yupeng Yang, Wenhao Luo
-  <br>
-  <br>
-  Accepted as a extended abstract to appear in the 4th IEEE International Symposium on Multi-Robot & Multi-Agent Systems (**MRS'23**), 2023 
-  <br>
-  <br>
-  [PDF-TBA][Poster-TBA][Code-TBA]
-
-- *Decentralized Motion Coordination for Minimally Disruptive Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty.*
-  <br>
-  Yupeng Yang, Yiwei Lyu, Sha Yi, **Yanze Zhang**, Wenhao Luo
-  <br>
-  Accepted as a extended abstract to appear in the 4th IEEE International Symposium on Multi-Robot & Multi-Agent Systems (**MRS'23**), 2023 
-  <br>
-  [PDF-TBA][Poster-TBA][Code-TBA] -->
-
-- *Global and Subgroup Connectivity Maintenance for Decentralized Multi-Robot Networks under Uncertainty.*
-  <br>
-  Yupeng Yang, Yiwei Lyu, Sha Yi, **Yanze Zhang**, Wenhao Luo
-  <br>
-  Accepted as a workshop paper to appear in the 35th International Conference on Intelligent Robots and Systems (**IROS'23**), 2023 
-  <br>
-  [[PDF](https://djhanove.github.io/IROS23_MRS/assets/papers/iros2023workshop_subgroupConnectivity.pdf)]
-  <!--[Slides-TBA][Code-TBA] -->
-
-- *Occlusion-Free Image Based Visual Servoing Using Probabilistic Control Barrier Certificates.*
-  <br>
-  **Yanze Zhang**, Yupeng Yang, Wenhao Luo
-  <br>
-  Accepted to appear in the 22th World Congress of International Federation of Automatic Control (**IFAC'23**), 2023
-  <br>
-  [[PDF](https://arxiv.org/pdf/2309.03476.pdf)][[Slides](https://drive.google.com/file/d/15gWHsd9hAaYWi5rJtmvI__ndZo16p263/view?usp=sharing)]
-
-<!-- 
-### Journal
-- [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), Haochen Liu, **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **IEEE Transactions on Intelligent Vehicles, 2024** [![](https://img.shields.io/github/stars/georgeliu233/Scene-Rep-Transformer?style=social&label=Code Stars)](https://github.com/georgeliu233/Scene-Rep-Transformer) 
-
-- [Transformer-Based Traffic-Aware Predictive Energy Management of a Fuel Cell Electric Vehicle](https://ieeexplore.ieee.org/abstract/document/10409570), Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Vehicular Technology, 2024**
-
-- [Map-Adaptive Multimodal Trajectory Prediction via Intention-Aware Unimodal Trajectory Predictors](https://ieeexplore.ieee.org/abstract/document/10323217/), Xiaoyu Mo, Haochen Liu, **Zhiyu Huang**, Xiuxian Li, Chen Lv,  **IEEE Transactions on Intelligent Transportation Systems, 2023**
-
-- [Fear-Neuro-Inspired Reinforcement Learning for Safe Autonomous Driving](https://ieeexplore.ieee.org/document/10273631), Xiangkun He, Jingda Wu, **Zhiyu Huang**, Zhongxu Hu, Jun Wang, Alberto Sangiovanni-Vincentelli, Chen Lv, **IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023**
-
-- [Human-Guided Reinforcement Learning with Sim-to-Real Transfer for Autonomous Navigation](https://ieeexplore.ieee.org/document/10250993), Jingda Wu, Yanxin Zhou, Haohan Yang, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023** [![](https://img.shields.io/github/stars/wujingda/Multi-Hug-RL?style=social&label=Code Stars)](https://github.com/wujingda/Multi-Hug-RL)
-
-- [Uncertainty-Aware Model-Based Reinforcement Learning with Application to Autonomous Driving](https://arxiv.org/abs/2106.12194), Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Intelligent Vehicles, 2022**
-
-- [Prioritized Experience-based Reinforcement Learning With Human Guidance for Autonomous Driving](https://arxiv.org/abs/2109.12516), Jingda Wu, **Zhiyu Huang**, Wenhui Huang, Chen Lv, **IEEE Transactions on Neural Networks and Learning Systems, 2022** [![](https://img.shields.io/github/stars/wujingda/Prioritized-Human-in-the-loop-End-to-end-Autonomous-Driving?style=social&label=Code Stars)](https://github.com/wujingda/Prioritized-Human-in-the-loop-End-to-end-Autonomous-Driving)
-
-- [Towards Human-in-the-loop AI: Enhancing Deep Reinforcement Learning via Real-time Human Guidance for Autonomous Driving](https://www.sciencedirect.com/science/article/pii/S2095809922004878), Jingda Wu, **Zhiyu Huang**, Zhongxu Hu, Chen Lv, **Engineering, 2022** [![](https://img.shields.io/github/stars/wujingda/Human-in-the-loop-Deep-Reinforcement-Learning?style=social&label=Code Stars)](https://github.com/wujingda/Human-in-the-loop-Deep-Reinforcement-Learning)
-
-- [Multi-Agent Trajectory Prediction With Heterogeneous Edge-Enhanced Graph Attention Network](https://ieeexplore.ieee.org/abstract/document/9700483), Xiaoyu Mo, **Zhiyu Huang**, Yang Xing, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems, 2022** [![](https://img.shields.io/github/stars/Xiaoyu006/MATP-with-HEAT?style=social&label=Code Stars)](https://github.com/Xiaoyu006/MATP-with-HEAT)
-
-- [Personalized Trajectory Planning and Control of Lane-Change Maneuvers for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9419761/), Chao Huang, Hailong Huang, Peng Hang, Hongbo Gao, Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Vehicular Technology, 2021**
-
-### Conference
-- [Occupancy Prediction-Guided Neural Planner for Autonomous Driving](https://arxiv.org/abs/2305.03303), Haochen Liu, **Zhiyu Huang**, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2023** [![](https://img.shields.io/github/stars/georgeliu233/OPGP?style=social&label=Code Stars)](https://github.com/georgeliu233/OPGP)
-
-- [Multi-modal Hierarchical Transformer for Occupancy Flow Field Prediction in Autonomous Driving](https://arxiv.org/abs/2208.00394), Haochen Liu, **Zhiyu Huang**, Chen Lv, **IEEE International Conference on Robotics and Automation (ICRA), 2023** [![](https://img.shields.io/github/stars/georgeliu233/STrajNet?style=social&label=Code Stars)](https://github.com/georgeliu233/STrajNet)
-
-- [Stochastic Multimodal Interaction Prediction for Urban Driving](https://ieeexplore.ieee.org/abstract/document/9922298), Xiaoyu Mo, **Zhiyu Huang**, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022**
-
-- [ReCoAt: A Deep Learning-based Framework for Multi-Modal Motion Prediction in Autonomous Driving Application](https://arxiv.org/abs/2207.00726), **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022**
-
-- [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/abs/2102.09243), Haochen Liu, **Zhiyu Huang**, Jingda Wu, Chen Lv, **IEEE Intelligent Vehicles Symposium (IV), 2022**
-
-- [Digital Twin-enabled Reinforcement Learning for End-to-end Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9540179), Jingda Wu, **Zhiyu Huang**, Peng Hang, Chao Huang, Niels De Boer, Chen Lv, **IEEE International Conference on Digital Twins and Parallel Intelligence (DTPI), 2021**
-
-- [Multi-scale driver behaviors reasoning system for intelligent vehicles based on a joint deep learning framework](https://ieeexplore.ieee.org/abstract/document/9283004), Yang Xing, Zhongxu Hu, **Zhiyu Huang**, Chen Lv, Dongpu Cao, Efstathios Velenis, **IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2020**
-
-### Preprint
-- [Hybrid-Prediction Integrated Planning for Autonomous Driving](https://arxiv.org/abs/2402.02426), Haochen Liu, **Zhiyu Huang**, Wenhui Huang, Haohan Yang, Xiaoyu Mo, Chen Lv, **arXiv, 2024** [![](https://img.shields.io/github/stars/georgeliu233/HPP?style=social&label=Code Stars)](https://github.com/georgeliu233/HPP)
--->
+  
 
 # 🎖 Honors and Awards
-<!-- 
-- *2023.09* Best Paper Runner-up Award, ITSC 2023
-- *2023.06* [Innovation Award, nuPlan Planning Challenge](https://opendrivelab.com/AD23Challenge.html#nuplan_planning), CVPR Workshop on End-to-End Autonomous Driving \| [\[video\]](https://youtu.be/ZwhXilQKULY?t=1204)
-- *2023.06* [3rd Place Winner, Waymo Open Dataset Motion Prediction Challenge](http://cvpr2023.wad.vision/), CVPR Workshop on Autonomous Driving
-- *2022.12* [3rd Place Winner, Most Innovative Award, Driving SMARTS Competition](https://smarts-project.github.io/archive/2022_nips_driving_smarts/competition/), NeurIPS Competition Track \| [\[slides\]](https://smarts-project.github.io/assets/docs/aid_driving_smarts.pdf)
-- *2022.06* [2nd Place Winner, Waymo Open Dataset Occupancy and Flow Prediction Challenge](http://cvpr2022.wad.vision/), CVPR Workshop on Autonomous Driving
-- *2022.03* [2nd Place Winner, IEEE VTS Motor Vehicles Challenge](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=6851), VPPC
-- *2021.06* [1st Place Winner, Waymo Open Dataset Interaction Prediction Challenge](http://cvpr2021.wad.vision/), CVPR Workshop on Autonomous Driving \| [\[video\]](https://youtu.be/sjXI_FKYw4Y?t=2546)
-- *2021.06* [2nd Place Winner, Waymo Open Dataset Motion Prediction Challenge](http://cvpr2021.wad.vision/), CVPR Workshop on Autonomous Driving
-- *2019.06* Outstanding Graduate (Top 1%)
-- *2018.10* National Scholarship (Top 1%)
-- *2017.10* National Scholarship (Top 1%) -->
-- *2023.06* Conference Travel Award from the Graduate School of UNC Charlotte.
+- *2024* 14th Jilin Province Social Science Outstanding Achievement Award (Paper Category), Second prize awarded with Li Cai
+(Jilin Univeristy), Yuli Zhang (Naikai University), and Yaqian Yang (Jilin Univerisity), awarded by Jilin Provincial Government
+- *2023* Graduate Academic Performance Scholarship awarded by Jilin University
+- *2019* Graduate Academic Performance Scholarship awarded by Jilin University
+- *2017* Graduate Academic Scholarship awarded by Jilin University.
+- *2015* China National Scholarship (Top 0.2 %) awarded by Ministry of Education of the People’s Republic of China
+- *2014* China National Scholarship (Top 0.2 %) awarded by Ministry of Education of the People’s Republic of China
+- *2014* Outstanding Undergraduate of Jilin University awarded by Jilin University
+- *2013* Undergraduate Merit Scholarship at Jilin University, Third prize awarded by Jilin University
 
 # 📖 Education
-- *2022.08 - Now*, Doctor of Philosophy, Computer Science, University of North Carolina at Charlotte, The United States 
-- *2019.09 - 2022.06*, Master of Engineering, Mechanical Design and Theory, Dalian University of Technology, China 
-- *2015.09 - 2019.06*, Bachelor of Engineering, Mechanical Engineering, China University of Petroleum, China
+- *2018.09 - 2024.09*, Doctor of Philosophy, Business Administration, Jilin University, China
+- *2021.09 - 2023.06*, Visting Scholar at University of North Carolina at Charlotte Charlotte, USA
+- *2016.09 - 2018.09*, Master, Business Administration, Jilin University, China
+- *2012.09 - 2016.07*, Bachelor, Archival Science, Jilin University, China
 
-# 📚 Services
-<!-- 
-## Program Committee
-- Lead organizer of Special Session on [learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) at ITSC, 2023
-- Lead organizer of Special Session on [learning-powered and knowledge-driven autonomous driving](https://sites.google.com/view/itsc-lpad-2) at ITSC, 2024
 
-## Journal Reviewer
-- IEEE Transactions on Intelligent Transportation Systems 
-- IEEE Transactions on Neural Networks and Learning Systems
-- IEEE Transactions on Intelligent Vehicles 
-- IEEE Transactions on Cybernetics
-- IEEE Robotics and Automation Letters
-- Transportation Research Part C: Emerging Technologies
-- Engineering Applications of Artificial Intelligence
-- Artificial Intelligence Review -->
 
-## External Reviewer
-<!-- 
-- IEEE International Conference on Robotics and Automation (ICRA) 2022 -- 2024
-- IEEE Intelligent Vehicles Symposium (IV) 2022 -- 2024
-- IEEE Intelligent Transportation Systems Conference (ITSC) 2022 -- 2024
-- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 -->
-- IEEE International Conference on Robotics and Automation (ICRA‘ 25)
-- International Federation of Automatic Control (IFAC'23)
-
-## Mentoring Activities
-- [Ian Gao](https://www.linkedin.com/in/ian-gao-978667162/), Bachelor Research Project. Now at UNC Chaphill as an undergraduate.
-- John Modl, [REU Program](https://www.nsf.gov/crssprgm/reu/).
-- [Matthew De La Rosa](https://www.linkedin.com/in/matthewdelarosa/), [REU Program](https://www.nsf.gov/crssprgm/reu/).
-- [Andrew Chen](https://www.linkedin.com/in/andrewchen0028/), [REU Program](https://www.nsf.gov/crssprgm/reu/). Now at [CMU](https://www.cmu.edu/mscf/news/evaluating-masters-in-financial-engineering-programs.html) as a Master student.
-- Zachary Palko, [REU Program](https://www.nsf.gov/crssprgm/reu/).
-- [Siwon Jo](https://www.linkedin.com/in/siwonjo), Bachelor Research Project.
-- [Mukul Mohan](https://www.linkedin.com/in/mukul-mohan-77573522a/?trk=people-guest_people_search-card), Bachelor Research Project.
-<!--- [Chris Egersdoerfer](https://www.linkedin.com/in/chris-egersdoerfer-6699b7192/), Bachelor Research Project. Now at UNCC as a master student. -->
