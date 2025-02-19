@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yanze Zhang"
-description              : "Ph.D. student at UIC." #Focusing on autonomous driving, machine learning, and decision-making."
+title                    : "Yiru Cai"
+description              : "Ph.D. student at Auburn." #Focusing on entrepreneurial opportunity."
 repository               : "MCZhi/MCZhi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yanze Zhang"
-  avatar           : "images/Yanze Zhang.jpeg"
+  name             : "Yiru Cai"
+  avatar           : "images/Yiru CAI.jpeg"
   bio              : #"University of North Carolina at Charlotte"
   location         : "Chicago, IL"
   employer         :
