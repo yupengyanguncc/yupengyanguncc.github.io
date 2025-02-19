@@ -16,7 +16,7 @@ from [Jilin University](https://www.jlu.edu.cn/), and obtained my bachelor’s f
 
 I earned my Ph.D. from the School of Business and Management at Jilin University, where I was advised by Dr. Li Cai. My research interests encompass entrepreneurial opportunity, entrepreneurial cognition, entrepreneurial ecosystems, and innovation-driven entrepreneurship. Specifically, my work investigates the ontology of entrepreneurial opportunity, the development of opportunities, and factors that affect the transformation of new venture ideas into entrepreneurial actions.
 
-From November 2021 to June 2023, I had the privilege of studying at the [University of North Carolina at Charlotte](https://www.charlotte.edu/), under the guidance of Dr. [Franz W. Kellermanns](https://belkcollege.charlotte.edu/directory/franz-w-kellermanns/). During this period, I immersed myself in examining the holistic view of entrepreneurial opportunity, specifically focusing on how entrepreneurs' skills influence opportunity evaluation and subsequent entrepreneurial action across the distinct contexts of discovery, creation, and ambidexterity. My research also delved into the comparative differences between Chinese and U.S. entrepreneurs, further enriching my understanding of entrepreneurial dynamics in diverse cultural settings.
+From November 2021 to June 2023, I had the privilege of studying at the [University of North Carolina at Charlotte](https://www.charlotte.edu/), under the guidance of Dr. [Franz W. Kellermanns](https://belkcollege.charlotte.edu/directory/franz-w-kellermanns/). During this period, I immersed myself in examining the holistic view of entrepreneurial opportunity, specifically focusing on how entrepreneurs' skills influence opportunity evaluation and subsequent entrepreneurial action across the distinct contexts of discovery, creation, and ambidexterity. My research also delved into the comparative differences between Chinese and U.S. entrepreneurs, further enriching my understanding of entrepreneurial dynamics in diverse cultural settings. This is my CV
 
 # 🔥 News
 - **[Feb. 2025]** I got accepted by [Aubrun University](https://www.auburn.edu/)!
@@ -30,7 +30,7 @@ the Opportunity Holistic View [J].*
   <br>
   **Yiru Cai**, Li Cai, Ziying Chen
   <br>
-  Accepted to the **Science & Technology Progress and Policy**, 2024
+  published to the **Science & Technology Progress and Policy**, 2024
   <br>
 
 
@@ -38,14 +38,14 @@ the Opportunity Holistic View [J].*
   <br>
   **Yiru Cai**, Li Cai
   <br>
-  Accepted to the **2024 Academy of Management Proceedings**, 2024
+  published to the **2024 Academy of Management Proceedings**, 2024
   <br>
 
 - *Entrepreneurial Opportunity and Entrepreneurial Context: An Integrated Framework[J].*
   <br>
   **Yiru Cai**, Li Cai, Ziying Chen, Yaqian Yan
   <br>
-  Accepted to the **Forum on Science and Technology** in China , 2018
+  published to the **Forum on Science and Technology** in China , 2018
   <br>
   
 - *Relationship between entrepreneurial orientation and the intention to pursue
@@ -53,7 +53,7 @@ digital entrepreneurship: Opportunity evaluation in small and medium‑sized ent
   <br>
   Ophelia Chapman, **Yiru Cai**, Franz W. Kellermanns
   <br>
-  Accepted to the **2023 Annual USASBE Conference: Driven By Dreams**, 2023
+  published to the **2023 Annual USASBE Conference: Driven By Dreams**, 2023
   <br>
 
 - *Innovation‑driven Entrepreneurship: A Core Academic Construct of Innovation and
@@ -61,7 +61,7 @@ Entrepreneurship Research in the New Era[J].*
   <br>
  Li Cai, Yuli Zhang, **Yiru Cai**, Yaqian Yang. 
   <br>
-  Accepted to the **Nankai Business Review**, 2021 (**Received Second Prize in 14th
+  published to the **Nankai Business Review**, 2021 (**Received Second Prize in 14th
 Jilin Province Social Science Outstanding Achievement Award**)
   <br>
   
@@ -69,7 +69,7 @@ Jilin Province Social Science Outstanding Achievement Award**)
   <br>
   Shan Lu, Li Cai, Tianyue Zhan, **Yiru Cai**. 
   <br>
-  Accepted to the **Foreign Economics & Management**, 2021
+  published to the **Foreign Economics & Management**, 2021
   <br>
 
 - *Entrepreneurial Opportunity and Resource Development Behavior of Entrepreneurial Firms: A Study
@@ -77,7 +77,7 @@ from China’s Transitional Economy[J].*
   <br>
   Li Cai, Baoshan Ge, **Yiru Cai**.
   <br>
-  Accepted to the **Quarterly Journal of Management**, 2019 
+  published to the **Quarterly Journal of Management**, 2019 
   <br>
 
 - *Theoretical Background, Type Analysis, and Research Framework Construction of Strategic
@@ -85,7 +85,7 @@ Entrepreneurial Decision‑making Logic[J].*
   <br>
  Guo R, Haitao Chen, **Yiru Cai**, Shan Lu. 
   <br>
-  Accepted to the **Foreign Economics & Management**, 2017 
+  published to the **Foreign Economics & Management**, 2017 
   <br>
 
 - *Antecedent and dimension of symbiotic relationship in the hub‑based
@@ -93,7 +93,7 @@ entrepreneurial ecosystem: case study of Alibaba[J].*
   <br>
  Xiuqing Peng, Li Cai,Shan Lu, **Yiru Cai**, Yuli Gao
   <br>
-  Accepted to the **Journal of Industrial Integration and Management**, 2017 
+  published to the **Journal of Industrial Integration and Management**, 2017 
   <br>
   
 
