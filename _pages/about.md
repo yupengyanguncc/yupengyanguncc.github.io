@@ -69,7 +69,7 @@ Jilin Province Social Science Outstanding Achievement Award**)
   <br>
   Shan Lu, Li Cai, Tianyue Zhan, **Yiru Cai**. 
   <br>
-  Accepted to the Foreign Economics & Management, 2021
+  Accepted to the **Foreign Economics & Management**, 2021
   <br>
 
 - *Entrepreneurial Opportunity and Resource Development Behavior of Entrepreneurial Firms: A Study
@@ -77,7 +77,7 @@ from China’s Transitional Economy[J].*
   <br>
   Li Cai, Baoshan Ge, **Yiru Cai**.
   <br>
-  Accepted to the Quarterly Journal of Management, 2019 
+  Accepted to the **Quarterly Journal of Management**, 2019 
   <br>
 
 - *Theoretical Background, Type Analysis, and Research Framework Construction of Strategic
