@@ -14,102 +14,13 @@ redirect_from:
 I am a Ph.D. student major in Business, Management at [Aubrun University](https://www.auburn.edu/). I completed my Phd's degree in Business Administration
 from [Jilin University)](https://www.jlu.edu.cn/), and obtained my bachelor’s and master's degree from [Jilin University)](https://www.jlu.edu.cn/).
 
-Yiru Cai earned her Ph.D. from the School of Business and Management at Jilin University, where she was advised by Dr. Li Cai. Her
-research interests encompass entrepreneurial opportunity, entrepreneurial cognition, entrepreneurial ecosystems, and innovation‑driven
-entrepreneurship. Specifically, her work investigates the ontology of entrepreneurial opportunity, the development of opportunities, and
-factors that affect the transformation of new venture ideas into entrepreneurial actions.
+I earned my Ph.D. from the School of Business and Management at Jilin University, where I was advised by Dr. Li Cai. My research interests encompass entrepreneurial opportunity, entrepreneurial cognition, entrepreneurial ecosystems, and innovation-driven entrepreneurship. Specifically, my work investigates the ontology of entrepreneurial opportunity, the development of opportunities, and factors that affect the transformation of new venture ideas into entrepreneurial actions.
 
 # 🔥 News
-- **[Jan. 2025]** Our paper about Multi-robot Deadlock Resolution is accepted to [ICRA' 25](https://2025.ieee-icra.org/).
-- **[Jan. 2025]** Our paper about Sample-efficient Safe Reinforcement Learning is accepted to [ICRA' 25](https://2025.ieee-icra.org/).
-- **[Nov. 2024]** I will attend the [Join the 5-Day Gen AI Intensive Course with Google](https://rsvp.withgoogle.com/events/google-generative-ai-intensive/home).
-- **[Oct. 2024]** Our project **[Turbo Trash](https://teddyhuang-00.github.io/TurboTrash/)** obtained the 1st place in HACKTHON CLT 2024.
-- **[Sep. 2024]** I will present our work about autonomous driving on ITSC 2024.
-- **[Jul. 2024]** Our paper about Courteous Driving using CBF-inspired Risk is accepted to [ITSC' 24](https://ieee-itsc.org/2024/).
-- **[Jul. 2024]** Our paper about Individualizable Risk Assessment is accepted to [ITSC' 24](https://ieee-itsc.org/2024/).
-- **[June. 2024]** Our paper about Data-driven Connectivity Maintenance is accepted to [IROS' 24](https://iros2024-abudhabi.org/).
-- **[June. 2024]** Our paper about Vehicle Longitudinal Motion Prediction is accepted to [MECC' 24](https://mecc2024.a2c2.org/).
-- **[May. 2024]** Our paper about Line-of-Sight Connectivity Maintenance is accepted to [RSS’24](https://roboticsconference.org/).
-- **[Jan. 2024]** Our paper about Conformal Prediction is accepted to [ACC’24](https://acc2024.a2c2.org/).
-- **[Oct. 2023]** I will present our work at [MRS’23](https://sites.bu.edu/mrs2023/).
-- **[Oct. 2023]** Our paper about multi-agent deadlock resolution is accepted to [MRS’23](https://sites.bu.edu/mrs2023/).
-- **[Oct. 2023]** Our paper about connectivity maintenance is accepted to [MRS’23](https://sites.bu.edu/mrs2023/).
-- **[Sep. 2023]** Our paper about connectivity maintenance is accepted to [IROS’23 Workshop](https://ieee-iros.org/).
-- **[Mar. 2023]** Our paper about Image-Based Visual Servoing is accepted to [IFAC’23](https://www.ifac2023.org/).
-
-<!-- 
-- *2024.01*: &nbsp;🎉🎉 Our paper on joint prediction and planning for tree policy has been accepted by ICRA! See you in Yokohama, Japan!
-- *2024.01*: &nbsp;🎉🎉 Our paper on joint prediction and planning for tree policy has been accepted by ICRA! See you in Yokohama, Japan!
-- *2023.11*: &nbsp; I was invited by zdjszx.com to give a public lecture on "Scalable, Learnable, and Interactive Decision-making for Autonomous Driving". The recorded version of the lecture (in Chinese) is available for viewing on [bilibili](https://www.bilibili.com/video/BV1Mz4y1c7BS/?share_source=copy_web&vd_source=d38ad63504821012428c34311a1df246).
-- *2023.10*: &nbsp;🎉🎉 Our paper on brain-inspired reinforcement learning for safe autonomous driving has been accepted by TPAMI!
-- *2023.09*: &nbsp;🎉🎉 We won the best paper runner-up award in ITSC 2023!
-- *2023.09*: &nbsp;🎉🎉 Our paper on human-guided reinforcement learning for robot navigation has been accepted by TPAMI!
-- *2023.08*: &nbsp;🎉🎉 Our GameFormer paper has been accepted by ICCV as **Oral presentation**!
-- *2023.07*: &nbsp;🎉🎉 Our ITSC special session on [learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) has received 17 paper submissions, all of which were accepted. Congratulations to the authors!
-- *2023.06*: &nbsp;🎉🎉 Our team won the innovation award in the nuPlan Planning Challenge! Check out our [report](https://opendrivelab.com/e2ead/AD23Challenge/Track_4_AID.pdf) and [presentation](https://youtu.be/ZwhXilQKULY?t=1204) on our GameFormer Planner.
-- *2023.06*: &nbsp;🎉🎉 Our team secured third place in the Waymo Open Dataset Motion Prediction Challenge! Our [report](https://storage.googleapis.com/waymo-uploads/files/research/2023%20Technical%20Reports/MP_3rd_GRT-R36.pdf) is available on [CVPR 2023
-Workshop on Autonomous Driving](https://cvpr2023.wad.vision/). -->
-  
-# 📝 Publications
-## Highlights
-<style>
-.paper-box-image {
-  text-align: center;
-}
-.paper-image {
-  display: block;
-  margin: 0 auto;
-}
-</style>
-
-<div class='paper-box'><div class='paper-box-image'><img src='images/0204.gif' alt="demo" width="70%" class="paper-image"></div>
-<div class='paper-box-text' markdown="1">
-
-**Adaptive Deadlock Avoidance for Decentralized Multi-Agent Systems via CBF-inspired Risk Measurement**
-
-Yanze Zhang, Yiwei Lyu, Siwon Jo, Yupeng Yang, Wenhao Luo
-
-**IEEE International Conference on Robotics and Automation (ICRA), 2025**
-
-[**Paper**-TBA]
-
-- We present a novel decentralized framework that ensures both efficient task execution and deadlock 
-resolution for multi-agent systems, which enables co-optimization 
-between the task-related controller and deadlock resolution
-controller, yielding smoother robots’ motion with improved overall task execution efficiency
-</div>
-</div> 
-
-<!-- <style>
-.paper-box-image {
-  text-align: center;
-}
-.paper-image {
-  display: block;
-  margin: 0 auto;
-}
-</style> -->
-
-<!-- <div class='paper-box'><div class='paper-box-image'><img src='images/0204.gif' alt="demo" width="70%" class="paper-image"></div>
-<div class='paper-box-text' markdown="1">
-<div class='paper-box'> -->
-
-<div class='paper-box'><div class='paper-box-image'>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/9Cekw5xafWw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-<div class='paper-box-text' markdown="1">
-**Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment**
-
-Yanze Zhang, Yiwei Lyu, Sude E. Demir, Xingyu Zhou, Yupeng Yang, Junming Wang, Wenhao Luo
-
-**IEEE International Conference on Intelligent Transportation Systems (ITSC), 2024**
-
-[**Paper**](https://arxiv.org/abs/2408.12822v1)
-
-- we develop an extension of the CBF-inspired risk evaluation framework that takes into account both noisy observed positions and motions, which are then integrated with MPC to ensure smooth and robust decision-making for AVs.
-</div>
-</div> 
-
+- **[Feb. 2025]** I got accepted by [Aubrun University](https://www.auburn.edu/)!
+- **[Feb 2025]** Our paper about Holistic View of Opportunity is accepted to [Science & Technology Progress and Policy](https://www.kjjb.org/EN/top_access).
+- **[Feb 2025]** Our paper about Opportunity Evaluation is accepted to [Academy
+of Management Proceedings 2024](https://journals.aom.org/toc/amproc/2024/1).
 
 
 <!--
@@ -279,29 +190,28 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 -->
 
 ## All Publications
-- *Adaptive Deadlock Avoidance for Decentralized Multi-Agent Systems via CBF-inspired Risk Measurement.*
+- *Opportunity Evaluation, Regulatory Modes, and Entrepreneurial Action: An Empirical Study Based on
+the Opportunity Holistic View [J].*
   <br>
-  **Yanze Zhang**, Yiwei Lyu, Siwon Jo, Yupeng Yang, and Wenhao Luo
+  **Yiru Cai**, Li Cai, Ziying Che
   <br>
-  Accepted to the 2025 IEEE International Conference on Robotics and Automation (**ICRA' 25**), 2025 
+  Accepted to the Science & Technology Progress and Policy, 2024
   <br>
-  [PDF-TBA]
 
-- *Computation and Sample Efficient Safe Reinforcement Learning Using Adaptive Conformal Prediction.*
-  <br>
-  Hao Zhou, **Yanze Zhang**, and Wenhao Luo
-  <br>
-  Accepted to the 2025 IEEE International Conference on Robotics and Automation (**ICRA' 25**), 2025 
-  <br>
-  [PDF-TBA]
 
-- *Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment.*
+- *The Role of Entrepreneurs’ Skills on Opportunity Evaluation: Discovery, Creation, and Ambidexterity[C].*
   <br>
-  **Yanze Zhang**, Yiwei Lyu, Sude Ela Demir, Xingyu Zhou, Yupeng Yang, Junmin Wang and Wenhao Luo
+  **Yiru Cai**, Li Cai
   <br>
-  Accepted to the 27th IEEE International Conference on Intelligent Transportation Systems (**ITSC' 24**), 2024 
+  Accepted to the 2024 Academy of Management Proceedings, 2024
   <br>
-  [[PDF](https://arxiv.org/abs/2408.12822v1)][[Demo-NGSIM](https://youtu.be/9Cekw5xafWw)][[Demo-IDM](https://youtu.be/9Cekw5xafWw)]
+
+- *. Entrepreneurial Opportunity and Entrepreneurial Context: An Integrated Framework[J].*
+  <br>
+  **Yiru Cai**, Li Cai, Ziying Chen, Yaqian Yan
+  <br>
+  Accepted to the Forum on Science and Technology in China , 2018
+  <br>
   
 - *Individualizable Risk Assessment Map for Planning Vehicle Behaviors Respecting Perceived Safety.*
   <br>
