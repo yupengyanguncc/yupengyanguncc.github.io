@@ -57,7 +57,7 @@ digital entrepreneurship: Opportunity evaluation in small and medium‑sized ent
   <br>
 
 - *Innovation‑driven Entrepreneurship: A Core Academic Construct of Innovation and
-Entrepreneurship Research in the New Era[J].
+Entrepreneurship Research in the New Era[J].*
   <br>
  Li Cai, Yuli Zhang, **Yiru Cai**, Yaqian Yang. 
   <br>
