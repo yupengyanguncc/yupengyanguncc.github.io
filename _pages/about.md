@@ -98,15 +98,15 @@ entrepreneurial ecosystem: case study of Alibaba[J]. *
   
 
 # 🎖 Honors and Awards
-- *2024* 14th Jilin Province Social Science Outstanding Achievement Award (Paper Category), Second prize awarded with Li Cai
+- **2024** 14th Jilin Province Social Science Outstanding Achievement Award (Paper Category), Second prize awarded with Li Cai
 (Jilin Univeristy), Yuli Zhang (Naikai University), and Yaqian Yang (Jilin Univerisity), awarded by Jilin Provincial Government
-- *2023* Graduate Academic Performance Scholarship awarded by Jilin University
-- *2019* Graduate Academic Performance Scholarship awarded by Jilin University
-- *2017* Graduate Academic Scholarship awarded by Jilin University.
-- *2015* China National Scholarship (Top 0.2 %) awarded by Ministry of Education of the People’s Republic of China
-- *2014* China National Scholarship (Top 0.2 %) awarded by Ministry of Education of the People’s Republic of China
-- *2014* Outstanding Undergraduate of Jilin University awarded by Jilin University
-- *2013* Undergraduate Merit Scholarship at Jilin University, Third prize awarded by Jilin University
+- **2023** Graduate Academic Performance Scholarship awarded by Jilin University
+- **2019** Graduate Academic Performance Scholarship awarded by Jilin University
+- **2017** Graduate Academic Scholarship awarded by Jilin University.
+- **2015** China National Scholarship (Top 0.2 %) awarded by Ministry of Education of the People’s Republic of China
+- **2014** China National Scholarship (Top 0.2 %) awarded by Ministry of Education of the People’s Republic of China
+- **2014** Outstanding Undergraduate of Jilin University awarded by Jilin University
+- **2013** Undergraduate Merit Scholarship at Jilin University, Third prize awarded by Jilin University
 
 # 📖 Education
 - *2018.09 - 2024.09*, Doctor of Philosophy, Business Administration, Jilin University, China
