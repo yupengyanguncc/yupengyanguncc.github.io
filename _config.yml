@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yiru Cai"
-  avatar           : "images/Yiru CAI.jpeg"
+  avatar           : "images/Yiru CAI.jpg"
   bio              : #"University of North Carolina at Charlotte"
-  location         : "Chicago, IL"
+  location         : "Auburn, AL"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=tRXPk0EAAAAJ&hl=en&oi=sra"
-  email            : "yzhan361@uic.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=O7l5zocAAAAJ&hl=zh-CN"
+  email            : "yic0004@auburn.edu"
   researchgate     : # "https://www.researchgate.net/profile/Zhiyu-Huang-5"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "GEEKZE97"
+  github           : "YiruCai"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yanze-zhang-b43a3926b"
+  linkedin         : #"yanze-zhang-b43a3926b"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
