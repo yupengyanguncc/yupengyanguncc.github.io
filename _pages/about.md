@@ -12,7 +12,7 @@ redirect_from:
 
 # About Me
 I am a Ph.D. student major in Business, Management at [Aubrun University](https://www.auburn.edu/). I completed my Phd's degree in Business Administration
-from [Jilin University](https://www.jlu.edu.cn/), and obtained my bachelor’s and master's degree from [Jilin University](https://www.jlu.edu.cn/).
+from [Jilin University](https://www.jlu.edu.cn/), and obtained my bachelor’s from [Jilin University](https://www.jlu.edu.cn/).
 
 I earned my Ph.D. from the School of Business and Management at Jilin University, where I was advised by Dr. Li Cai. My research interests encompass entrepreneurial opportunity, entrepreneurial cognition, entrepreneurial ecosystems, and innovation-driven entrepreneurship. Specifically, my work investigates the ontology of entrepreneurial opportunity, the development of opportunities, and factors that affect the transformation of new venture ideas into entrepreneurial actions.
 
@@ -28,7 +28,7 @@ of Management Proceedings 2024](https://journals.aom.org/toc/amproc/2024/1).
 - *Opportunity Evaluation, Regulatory Modes, and Entrepreneurial Action: An Empirical Study Based on
 the Opportunity Holistic View [J].*
   <br>
-  **Yiru Cai**, Li Cai, Ziying Che
+  **Yiru Cai**, Li Cai, Ziying Chen
   <br>
   Accepted to the **Science & Technology Progress and Policy**, 2024
   <br>
