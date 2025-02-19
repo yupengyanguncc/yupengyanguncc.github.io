@@ -24,7 +24,7 @@ From November 2021 to June 2023, I had the privilege of studying at the [Univers
 - **[Feb 2025]** Our paper about Opportunity Evaluation is accepted to [Academy
 of Management Proceedings 2024](https://journals.aom.org/toc/amproc/2024/1).
 
-## All Publications
+## Publications
 - *Opportunity Evaluation, Regulatory Modes, and Entrepreneurial Action: An Empirical Study Based on
 the Opportunity Holistic View [J].*
   <br>
