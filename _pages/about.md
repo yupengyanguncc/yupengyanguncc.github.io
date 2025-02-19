@@ -81,7 +81,7 @@ from China’s Transitional Economy[J].*
   <br>
 
 - *Theoretical Background, Type Analysis, and Research Framework Construction of Strategic
-Entrepreneurial Decision‑making Logic[J]. *
+Entrepreneurial Decision‑making Logic[J].*
   <br>
  Guo R, Haitao Chen, **Yiru Cai**, Shan Lu. 
   <br>
@@ -89,7 +89,7 @@ Entrepreneurial Decision‑making Logic[J]. *
   <br>
 
 - *Antecedent and dimension of symbiotic relationship in the hub‑based
-entrepreneurial ecosystem: case study of Alibaba[J]. *
+entrepreneurial ecosystem: case study of Alibaba[J].*
   <br>
  Xiuqing Peng, Li Cai,Shan Lu, **Yiru Cai**, Yuli Gao
   <br>
