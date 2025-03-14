@@ -371,13 +371,13 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   <br>
   [PDF-TBA][Poster-TBA][Code-TBA] -->
 
-- *Global and Subgroup Connectivity Maintenance for Decentralized Multi-Robot Networks under Uncertainty.*
+<!-- - *Global and Subgroup Connectivity Maintenance for Decentralized Multi-Robot Networks under Uncertainty.*
   <br>
   Yupeng Yang, Yiwei Lyu, Sha Yi, **Yanze Zhang**, Wenhao Luo
   <br>
   Accepted as a workshop paper to appear in the 35th International Conference on Intelligent Robots and Systems (**IROS'23**), 2023 
   <br>
-  [[PDF](https://djhanove.github.io/IROS23_MRS/assets/papers/iros2023workshop_subgroupConnectivity.pdf)]
+  [[PDF](https://djhanove.github.io/IROS23_MRS/assets/papers/iros2023workshop_subgroupConnectivity.pdf)] -->
   <!--[Slides-TBA][Code-TBA] -->
 
 - *Occlusion-Free Image Based Visual Servoing Using Probabilistic Control Barrier Certificates.*
