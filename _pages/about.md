@@ -79,7 +79,7 @@ Yanze Zhang, Yiwei Lyu, Siwon Jo, Yupeng Yang, Wenhao Luo
 
 **IEEE International Conference on Robotics and Automation (ICRA), 2025**
 
-[**Paper**-TBA]
+[[**Paper**](https://arxiv.org/abs/2503.09621)]
 
 - We present a novel decentralized framework that ensures both efficient task execution and deadlock 
 resolution for multi-agent systems, which enables co-optimization 
