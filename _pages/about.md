@@ -28,6 +28,7 @@ I am currently a visiting student researcher at UC Berkeley, working in the [Mec
 My research primarily centers around the intersection of autonomous driving and machine learning. My goal is to develop algorithms and techniques that enable machines to interact with humans naturally, make intelligent decisions, and drive as skillfully as experienced human drivers. Specifically, my research interests encompass deep learning and reinforcement learning, applied to areas such as autonomous driving decision-making, prediction and planning, simulation, and human-machine interaction. My contributions have resulted in the publication of over 20 papers in top AI/ITS/Robotics journals and conferences. -->
 
 # 🔥 News
+<!-- - **[Mar. 2025]** Our paper about Vehicle Lateral Motion Prediction is accepted to [IAV' 25](https://events.engineering.asu.edu/iav-2025/). -->
 - **[Jan. 2025]** Our paper about Multi-robot Deadlock Resolution is accepted to [ICRA' 25](https://2025.ieee-icra.org/).
 - **[Jan. 2025]** Our paper about Sample-efficient Safe Reinforcement Learning is accepted to [ICRA' 25](https://2025.ieee-icra.org/).
 - **[Nov. 2024]** I will attend the [Join the 5-Day Gen AI Intensive Course with Google](https://rsvp.withgoogle.com/events/google-generative-ai-intensive/home).
@@ -79,7 +80,7 @@ Yanze Zhang, Yiwei Lyu, Siwon Jo, Yupeng Yang, Wenhao Luo
 
 **IEEE International Conference on Robotics and Automation (ICRA), 2025**
 
-[[**Paper**](https://arxiv.org/abs/2503.09621)]
+[**Paper**](https://arxiv.org/abs/2503.09621)
 
 - We present a novel decentralized framework that ensures both efficient task execution and deadlock 
 resolution for multi-agent systems, which enables co-optimization 
@@ -287,6 +288,14 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 -->
 
 ## All Publications
+<!-- - *A Lateral Motion Model Predicting Vehicle Behaviors in Lane Change Maneuvers.*
+  <br>
+  Yiming Yan, Haoji Liu, Xingyu Zhou, **Yanze Zhang**, Wenhao Luo, and Junmin Wang
+  <br>
+  Accepted to the 12th IFAC Symposium on Intelligent Autonomous Vehicles (**IAV' 25**), 2025 
+  <br>
+  [PDF-TBA] -->
+
 - *Adaptive Deadlock Avoidance for Decentralized Multi-Agent Systems via CBF-inspired Risk Measurement.*
   <br>
   **Yanze Zhang**, Yiwei Lyu, Siwon Jo, Yupeng Yang, and Wenhao Luo
