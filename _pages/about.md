@@ -41,6 +41,13 @@ My research primarily centers around the intersection of autonomous driving and 
 - **[May. 2024]** Our paper about Line-of-Sight Connectivity Maintenance is accepted to [RSS’24](https://roboticsconference.org/).
 - **[Jan. 2024]** Our paper about Conformal Prediction is accepted to [ACC’24](https://acc2024.a2c2.org/).
 
+This is a preview paragraph.
+
+<!-- more -->
+
+This content goes into the full post, only visible after clicking "Read More."
+
+
 <details>
   <summary>show more</summary>
 
@@ -64,35 +71,6 @@ My research primarily centers around the intersection of autonomous driving and 
 - *2023.06*: &nbsp;🎉🎉 Our team won the innovation award in the nuPlan Planning Challenge! Check out our [report](https://opendrivelab.com/e2ead/AD23Challenge/Track_4_AID.pdf) and [presentation](https://youtu.be/ZwhXilQKULY?t=1204) on our GameFormer Planner.
 - *2023.06*: &nbsp;🎉🎉 Our team secured third place in the Waymo Open Dataset Motion Prediction Challenge! Our [report](https://storage.googleapis.com/waymo-uploads/files/research/2023%20Technical%20Reports/MP_3rd_GRT-R36.pdf) is available on [CVPR 2023
 Workshop on Autonomous Driving](https://cvpr2023.wad.vision/). -->
-
-# 🔥 News
-
-<!-- - **[Mar. 2025]** Our paper about Vehicle Lateral Motion Prediction is accepted to [IAV'25](https://events.engineering.asu.edu/iav-2025/). -->
-
-- **[Jan. 2025]** Our paper about Multi-robot Deadlock Resolution is accepted to [ICRA'25](https://2025.ieee-icra.org/).
-- **[Jan. 2025]** Our paper about Sample-efficient Safe Reinforcement Learning is accepted to [ICRA'25](https://2025.ieee-icra.org/).
-- **[Nov. 2024]** I will attend the [Join the 5-Day Gen AI Intensive Course with Google](https://rsvp.withgoogle.com/events/google-generative-ai-intensive/home).
-- **[Oct. 2024]** Our project [Turbo Trash](https://teddyhuang-00.github.io/TurboTrash/) obtained the 1st place in HACKATHON CLT 2024.
-- **[Sep. 2024]** I will present our work about autonomous driving at ITSC 2024.
-- **[Jul. 2024]** Our paper about Courteous Driving using CBF-inspired Risk is accepted to [ITSC'24](https://ieee-itsc.org/2024/).
-- **[Jul. 2024]** Our paper about Individualizable Risk Assessment is accepted to [ITSC'24](https://ieee-itsc.org/2024/).
-- **[June. 2024]** Our paper about Data-driven Connectivity Maintenance is accepted to [IROS'24](https://iros2024-abudhabi.org/).
-- **[June. 2024]** Our paper about Vehicle Longitudinal Motion Prediction is accepted to [MECC'24](https://mecc2024.a2c2.org/).
-- **[May. 2024]** Our paper about Line-of-Sight Connectivity Maintenance is accepted to [RSS'24](https://roboticsconference.org/).
-- **[Jan. 2024]** Our paper about Conformal Prediction is accepted to [ACC'24](https://acc2024.a2c2.org/).
-
-<details>
-  <summary>Show more</summary>
-
-  - **[Oct. 2023]** I will present our work at [MRS'23](https://sites.bu.edu/mrs2023/).
-  - **[Oct. 2023]** Our paper about multi-agent deadlock resolution is accepted to [MRS'23](https://sites.bu.edu/mrs2023/).
-  - **[Oct. 2023]** Our paper about connectivity maintenance is accepted to [MRS'23](https://sites.bu.edu/mrs2023/).
-  - **[Sep. 2023]** Our paper about connectivity maintenance is accepted to [IROS'23 Workshop](https://ieee-iros.org/).
-  - **[Mar. 2023]** Our paper about Image-Based Visual Servoing is accepted to [IFAC'23](https://www.ifac2023.org/).
-
-</details>
-
-
 
 
 # 📝 Publications
