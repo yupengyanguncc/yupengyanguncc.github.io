@@ -41,12 +41,6 @@ My research primarily centers around the intersection of autonomous driving and 
 - **[May. 2024]** Our paper about Line-of-Sight Connectivity Maintenance is accepted to [RSS’24](https://roboticsconference.org/).
 - **[Jan. 2024]** Our paper about Conformal Prediction is accepted to [ACC’24](https://acc2024.a2c2.org/).
 
-This is a preview paragraph.
-
-<!-- more -->
-
-This content goes into the full post, only visible after clicking "Read More."
-
 
 <details>
   <summary>show more</summary>
@@ -56,8 +50,8 @@ This content goes into the full post, only visible after clicking "Read More."
   - **[Oct. 2023]** Our paper about connectivity maintenance is accepted to [MRS’23](https://sites.bu.edu/mrs2023/).
   - **[Sep. 2023]** Our paper about connectivity maintenance is accepted to [IROS’23 Workshop](https://ieee-iros.org/).
   - **[Mar. 2023]** Our paper about Image-Based Visual Servoing is accepted to [IFAC’23](https://www.ifac2023.org/).
-
 </details>
+
 
 <!-- 
 - *2024.01*: &nbsp;🎉🎉 Our paper on joint prediction and planning for tree policy has been accepted by ICRA! See you in Yokohama, Japan!
