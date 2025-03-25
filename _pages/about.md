@@ -333,7 +333,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   <br>
   Accepted to the 27th IEEE International Conference on Intelligent Transportation Systems (**ITSC' 24**), 2024 
   <br>
-  [PDF-TBA]
+  [[PDF](https://ieeexplore.ieee.org/abstract/document/10919751)]
 
 - *Integrating Online Learning and Connectivity Maintenance for Communication-Aware Multi-Robot Coordination.*
   <br>
