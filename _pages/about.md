@@ -317,7 +317,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   <br>
   Accepted to the 2025 IEEE International Conference on Robotics and Automation (**ICRA' 25**), 2025 
   <br>
-  [PDF-TBA]
+  [[PDF](https://arxiv.org/abs/2503.17678)]
 
 - *Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment.*
   <br>
