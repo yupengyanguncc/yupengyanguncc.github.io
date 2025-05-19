@@ -35,6 +35,7 @@ His current research focuses on the safety and connectivity control for robot sw
 
 # 📝 Publications
 ## Highlights
+### Communication-aware Multi-robot System
 <!-- <style>
 .paper-box-image {
   text-align: center;
@@ -47,7 +48,7 @@ His current research focuses on the safety and connectivity control for robot sw
 
 
 <div class='paper-box'><div class='paper-box-image'>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/sgx23-j_8Uo?si=cPPUFHmaaaO6ABSv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/kRQoEh3hgXE?si=LBRDit7dCrJzoCXo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
   
 <div class='paper-box-text' markdown="1">
@@ -116,6 +117,70 @@ His current research focuses on the safety and connectivity control for robot sw
 
 </div>
 </div> 
+
+### Risk-aware Autonomous Driving Vehicle
+
+<style>
+.paper-box-image {
+  text-align: center;
+}
+.paper-image {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/0204.gif' alt="demo" width="70%" class="paper-image"></div>
+<div class='paper-box-text' markdown="1">
+
+**Adaptive Deadlock Avoidance for Decentralized Multi-Agent Systems via CBF-inspired Risk Measurement**
+
+Yanze Zhang, Yiwei Lyu, Siwon Jo, Yupeng Yang, Wenhao Luo
+
+**IEEE International Conference on Robotics and Automation (ICRA), 2025**
+
+[**Paper**](https://arxiv.org/abs/2503.09621)
+
+- We present a novel decentralized framework that ensures both efficient task execution and deadlock 
+resolution for multi-agent systems, which enables co-optimization 
+between the task-related controller and deadlock resolution
+controller, yielding smoother robots’ motion with improved overall task execution efficiency
+</div>
+</div> 
+
+<!-- <style>
+.paper-box-image {
+  text-align: center;
+}
+.paper-image {
+  display: block;
+  margin: 0 auto;
+}
+</style> -->
+
+<!-- <div class='paper-box'><div class='paper-box-image'><img src='images/0204.gif' alt="demo" width="70%" class="paper-image"></div>
+<div class='paper-box-text' markdown="1">
+<div class='paper-box'> -->
+
+<div class='paper-box'><div class='paper-box-image'>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/9Cekw5xafWw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class='paper-box-text' markdown="1">
+**Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment**
+
+Yanze Zhang, Yiwei Lyu, Sude E. Demir, Xingyu Zhou, Yupeng Yang, Junming Wang, Wenhao Luo
+
+**IEEE International Conference on Intelligent Transportation Systems (ITSC), 2024**
+
+[**Paper**](https://arxiv.org/abs/2408.12822v1)
+
+- we develop an extension of the CBF-inspired risk evaluation framework that takes into account both noisy observed positions and motions, which are then integrated with MPC to ensure smooth and robust decision-making for AVs.
+</div>
+</div> 
+
+
+
+
 
 
 
