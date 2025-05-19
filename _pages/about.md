@@ -338,66 +338,16 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   <br>
   [[PDF](https://arxiv.org/pdf/2309.03476.pdf)][[Slides](https://drive.google.com/file/d/15gWHsd9hAaYWi5rJtmvI__ndZo16p263/view?usp=sharing)]
 
-<!-- 
-### Journal
-- [Augmenting Reinforcement Learning with Transformer-based Scene Representation Learning for Decision-making of Autonomous Driving](https://arxiv.org/abs/2208.12263), Haochen Liu, **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **IEEE Transactions on Intelligent Vehicles, 2024** [![](https://img.shields.io/github/stars/georgeliu233/Scene-Rep-Transformer?style=social&label=Code Stars)](https://github.com/georgeliu233/Scene-Rep-Transformer) 
-
-- [Transformer-Based Traffic-Aware Predictive Energy Management of a Fuel Cell Electric Vehicle](https://ieeexplore.ieee.org/abstract/document/10409570), Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Vehicular Technology, 2024**
-
-- [Map-Adaptive Multimodal Trajectory Prediction via Intention-Aware Unimodal Trajectory Predictors](https://ieeexplore.ieee.org/abstract/document/10323217/), Xiaoyu Mo, Haochen Liu, **Zhiyu Huang**, Xiuxian Li, Chen Lv,  **IEEE Transactions on Intelligent Transportation Systems, 2023**
-
-- [Fear-Neuro-Inspired Reinforcement Learning for Safe Autonomous Driving](https://ieeexplore.ieee.org/document/10273631), Xiangkun He, Jingda Wu, **Zhiyu Huang**, Zhongxu Hu, Jun Wang, Alberto Sangiovanni-Vincentelli, Chen Lv, **IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023**
-
-- [Human-Guided Reinforcement Learning with Sim-to-Real Transfer for Autonomous Navigation](https://ieeexplore.ieee.org/document/10250993), Jingda Wu, Yanxin Zhou, Haohan Yang, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Pattern Analysis and Machine Intelligence, 2023** [![](https://img.shields.io/github/stars/wujingda/Multi-Hug-RL?style=social&label=Code Stars)](https://github.com/wujingda/Multi-Hug-RL)
-
-- [Uncertainty-Aware Model-Based Reinforcement Learning with Application to Autonomous Driving](https://arxiv.org/abs/2106.12194), Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Intelligent Vehicles, 2022**
-
-- [Prioritized Experience-based Reinforcement Learning With Human Guidance for Autonomous Driving](https://arxiv.org/abs/2109.12516), Jingda Wu, **Zhiyu Huang**, Wenhui Huang, Chen Lv, **IEEE Transactions on Neural Networks and Learning Systems, 2022** [![](https://img.shields.io/github/stars/wujingda/Prioritized-Human-in-the-loop-End-to-end-Autonomous-Driving?style=social&label=Code Stars)](https://github.com/wujingda/Prioritized-Human-in-the-loop-End-to-end-Autonomous-Driving)
-
-- [Towards Human-in-the-loop AI: Enhancing Deep Reinforcement Learning via Real-time Human Guidance for Autonomous Driving](https://www.sciencedirect.com/science/article/pii/S2095809922004878), Jingda Wu, **Zhiyu Huang**, Zhongxu Hu, Chen Lv, **Engineering, 2022** [![](https://img.shields.io/github/stars/wujingda/Human-in-the-loop-Deep-Reinforcement-Learning?style=social&label=Code Stars)](https://github.com/wujingda/Human-in-the-loop-Deep-Reinforcement-Learning)
-
-- [Multi-Agent Trajectory Prediction With Heterogeneous Edge-Enhanced Graph Attention Network](https://ieeexplore.ieee.org/abstract/document/9700483), Xiaoyu Mo, **Zhiyu Huang**, Yang Xing, Chen Lv, **IEEE Transactions on Intelligent Transportation Systems, 2022** [![](https://img.shields.io/github/stars/Xiaoyu006/MATP-with-HEAT?style=social&label=Code Stars)](https://github.com/Xiaoyu006/MATP-with-HEAT)
-
-- [Personalized Trajectory Planning and Control of Lane-Change Maneuvers for Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9419761/), Chao Huang, Hailong Huang, Peng Hang, Hongbo Gao, Jingda Wu, **Zhiyu Huang**, Chen Lv, **IEEE Transactions on Vehicular Technology, 2021**
-
-### Conference
-- [Occupancy Prediction-Guided Neural Planner for Autonomous Driving](https://arxiv.org/abs/2305.03303), Haochen Liu, **Zhiyu Huang**, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2023** [![](https://img.shields.io/github/stars/georgeliu233/OPGP?style=social&label=Code Stars)](https://github.com/georgeliu233/OPGP)
-
-- [Multi-modal Hierarchical Transformer for Occupancy Flow Field Prediction in Autonomous Driving](https://arxiv.org/abs/2208.00394), Haochen Liu, **Zhiyu Huang**, Chen Lv, **IEEE International Conference on Robotics and Automation (ICRA), 2023** [![](https://img.shields.io/github/stars/georgeliu233/STrajNet?style=social&label=Code Stars)](https://github.com/georgeliu233/STrajNet)
-
-- [Stochastic Multimodal Interaction Prediction for Urban Driving](https://ieeexplore.ieee.org/abstract/document/9922298), Xiaoyu Mo, **Zhiyu Huang**, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022**
-
-- [ReCoAt: A Deep Learning-based Framework for Multi-Modal Motion Prediction in Autonomous Driving Application](https://arxiv.org/abs/2207.00726), **Zhiyu Huang**, Xiaoyu Mo, Chen Lv, **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022**
-
-- [Improved Deep Reinforcement Learning with Expert Demonstrations for Urban Autonomous Driving](https://arxiv.org/abs/2102.09243), Haochen Liu, **Zhiyu Huang**, Jingda Wu, Chen Lv, **IEEE Intelligent Vehicles Symposium (IV), 2022**
-
-- [Digital Twin-enabled Reinforcement Learning for End-to-end Autonomous Driving](https://ieeexplore.ieee.org/abstract/document/9540179), Jingda Wu, **Zhiyu Huang**, Peng Hang, Chao Huang, Niels De Boer, Chen Lv, **IEEE International Conference on Digital Twins and Parallel Intelligence (DTPI), 2021**
-
-- [Multi-scale driver behaviors reasoning system for intelligent vehicles based on a joint deep learning framework](https://ieeexplore.ieee.org/abstract/document/9283004), Yang Xing, Zhongxu Hu, **Zhiyu Huang**, Chen Lv, Dongpu Cao, Efstathios Velenis, **IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2020**
-
-### Preprint
-- [Hybrid-Prediction Integrated Planning for Autonomous Driving](https://arxiv.org/abs/2402.02426), Haochen Liu, **Zhiyu Huang**, Wenhui Huang, Haohan Yang, Xiaoyu Mo, Chen Lv, **arXiv, 2024** [![](https://img.shields.io/github/stars/georgeliu233/HPP?style=social&label=Code Stars)](https://github.com/georgeliu233/HPP)
--->
 
 # 🎖 Honors and Awards
-<!-- 
-- *2023.09* Best Paper Runner-up Award, ITSC 2023
-- *2023.06* [Innovation Award, nuPlan Planning Challenge](https://opendrivelab.com/AD23Challenge.html#nuplan_planning), CVPR Workshop on End-to-End Autonomous Driving \| [\[video\]](https://youtu.be/ZwhXilQKULY?t=1204)
-- *2023.06* [3rd Place Winner, Waymo Open Dataset Motion Prediction Challenge](http://cvpr2023.wad.vision/), CVPR Workshop on Autonomous Driving
-- *2022.12* [3rd Place Winner, Most Innovative Award, Driving SMARTS Competition](https://smarts-project.github.io/archive/2022_nips_driving_smarts/competition/), NeurIPS Competition Track \| [\[slides\]](https://smarts-project.github.io/assets/docs/aid_driving_smarts.pdf)
-- *2022.06* [2nd Place Winner, Waymo Open Dataset Occupancy and Flow Prediction Challenge](http://cvpr2022.wad.vision/), CVPR Workshop on Autonomous Driving
-- *2022.03* [2nd Place Winner, IEEE VTS Motor Vehicles Challenge](https://oraprdnt.uqtr.uquebec.ca/pls/public/gscw031?owa_no_site=6851), VPPC
-- *2021.06* [1st Place Winner, Waymo Open Dataset Interaction Prediction Challenge](http://cvpr2021.wad.vision/), CVPR Workshop on Autonomous Driving \| [\[video\]](https://youtu.be/sjXI_FKYw4Y?t=2546)
-- *2021.06* [2nd Place Winner, Waymo Open Dataset Motion Prediction Challenge](http://cvpr2021.wad.vision/), CVPR Workshop on Autonomous Driving
-- *2019.06* Outstanding Graduate (Top 1%)
-- *2018.10* National Scholarship (Top 1%)
-- *2017.10* National Scholarship (Top 1%) -->
-- *2023.06* Conference Travel Award from the Graduate School of UNC Charlotte.
+
+- *2024.06* Conference Travel Award from the Graduate School of UNC Charlotte.
+- *2023.03* Second place for **ORAL PRESENTATION** in the category of Computing & Informatics at Annual Graduate Research Symposium (UNCC)
 
 # 📖 Education
 - *2022.08 - Now*, Doctor of Philosophy, Computer Science, University of North Carolina at Charlotte, The United States 
-- *2019.09 - 2022.06*, Master of Engineering, Mechanical Design and Theory, Dalian University of Technology, China 
-- *2015.09 - 2019.06*, Bachelor of Engineering, Mechanical Engineering, China University of Petroleum, China
+- *2018.09 - 2021.06*, Master of Computer Science, Embry-Riddle Aeronautical University, The United States 
+- *2015.09 - 2019.06*, Bachelor of Engineering, Civil Aviation University of China, China
 
 # 📚 Services
 <!-- 
@@ -416,22 +366,18 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 - Artificial Intelligence Review -->
 
 ## External Reviewer
-<!-- 
-- IEEE International Conference on Robotics and Automation (ICRA) 2022 -- 2024
-- IEEE Intelligent Vehicles Symposium (IV) 2022 -- 2024
-- IEEE Intelligent Transportation Systems Conference (ITSC) 2022 -- 2024
-- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 -->
 - IEEE Robotics and Automation Letters (R-AL)
-- 12th IFAC Symposium on Intelligent Autonomous Vehicles (IAV' 25)
-- IEEE International Conference on Robotics and Automation (ICRA' 25)
-- International Federation of Automatic Control (IFAC'23)
+- IEEE IEEE Transactions on Robotics (TRO)
+- IEEE Internet of Things Journal
+- IEEE Sensors Journal
+- IEEE Transactions on Industrial Electronics
+- IEEE Transactions on Aerospace and Electronic Systems
+- IEEE Transactions on Intelligent Transportation Systems
+- IEEE Transactions on Mechatronics
+- Cartography and Geographic Information Science
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+- Distributed Autonomous Robotic Systems (DARS)
 
 ## Mentoring Activities
 - [Ian Gao](https://www.linkedin.com/in/ian-gao-978667162/), Bachelor Research Project. Now at UNC Chaphill as an undergraduate.
-- John Modl, [REU Program](https://www.nsf.gov/crssprgm/reu/).
-- [Matthew De La Rosa](https://www.linkedin.com/in/matthewdelarosa/), [REU Program](https://www.nsf.gov/crssprgm/reu/).
-- [Andrew Chen](https://www.linkedin.com/in/andrewchen0028/), [REU Program](https://www.nsf.gov/crssprgm/reu/). Now at [CMU](https://www.cmu.edu/mscf/news/evaluating-masters-in-financial-engineering-programs.html) as a Master student.
-- Zachary Palko, [REU Program](https://www.nsf.gov/crssprgm/reu/).
 - [Siwon Jo](https://www.linkedin.com/in/siwonjo), Bachelor Research Project.
-- [Mukul Mohan](https://www.linkedin.com/in/mukul-mohan-77573522a/?trk=people-guest_people_search-card), Bachelor Research Project.
-<!--- [Chris Egersdoerfer](https://www.linkedin.com/in/chris-egersdoerfer-6699b7192/), Bachelor Research Project. Now at UNCC as a master student. -->
