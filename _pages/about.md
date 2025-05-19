@@ -48,18 +48,14 @@ His current research focuses on the safety and connectivity control for robot sw
 <div class='paper-box'><div class='paper-box-image'><img src='images/0204.gif' alt="demo" width="70%" class="paper-image"></div>
 <div class='paper-box-text' markdown="1">
 
-**Adaptive Deadlock Avoidance for Decentralized Multi-Agent Systems via CBF-inspired Risk Measurement**
+**Decentralized Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty**
 
-Yanze Zhang, Yiwei Lyu, Siwon Jo, Yupeng Yang, Wenhao Luo
+**Yupeng Yang**, Yiwei Lyu, Yanze Zhang, Sha Yi and Wenhao Luo
 
-**IEEE International Conference on Robotics and Automation (ICRA), 2025**
+**Robotics: Science and Systems (RSS), 2024**
 
-[**Paper**](https://arxiv.org/abs/2503.09621)
+[**Paper**](https://roboticsconference.org/program/papers/5/)
 
-- We present a novel decentralized framework that ensures both efficient task execution and deadlock 
-resolution for multi-agent systems, which enables co-optimization 
-between the task-related controller and deadlock resolution
-controller, yielding smoother robots’ motion with improved overall task execution efficiency
 </div>
 </div> 
 
@@ -73,23 +69,20 @@ controller, yielding smoother robots’ motion with improved overall task execut
 }
 </style> -->
 
-<!-- <div class='paper-box'><div class='paper-box-image'><img src='images/0204.gif' alt="demo" width="70%" class="paper-image"></div>
-<div class='paper-box-text' markdown="1">
-<div class='paper-box'> -->
 
 <div class='paper-box'><div class='paper-box-image'>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/9Cekw5xafWw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://youtu.be/ZvR8fDGSqMo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+  
 <div class='paper-box-text' markdown="1">
-**Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment**
+**Minimally Constrained Multi-Robot Coordination with Line-of-sight Connectivity Maintenance**
 
-Yanze Zhang, Yiwei Lyu, Sude E. Demir, Xingyu Zhou, Yupeng Yang, Junming Wang, Wenhao Luo
+**Yupeng Yang**, Yiwei Lyu, and Wenhao Luo
 
-**IEEE International Conference on Intelligent Transportation Systems (ITSC), 2024**
+*IEEE International Conference on Robotics and Automation (ICRA), 2023**
 
-[**Paper**](https://arxiv.org/abs/2408.12822v1)
+[**Paper**](https://arxiv.org/pdf/2303.04271.pdf)
 
-- we develop an extension of the CBF-inspired risk evaluation framework that takes into account both noisy observed positions and motions, which are then integrated with MPC to ensure smooth and robust decision-making for AVs.
 </div>
 </div> 
 
