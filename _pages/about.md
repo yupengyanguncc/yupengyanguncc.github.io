@@ -35,7 +35,7 @@ His current research focuses on the safety and connectivity control for robot sw
 
 # 📝 Publications
 ## Highlights
-<style>
+<!-- <style>
 .paper-box-image {
   text-align: center;
 }
@@ -43,21 +43,25 @@ His current research focuses on the safety and connectivity control for robot sw
   display: block;
   margin: 0 auto;
 }
-</style>
+</style> -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/0204.gif' alt="demo" width="70%" class="paper-image"></div>
+
+<div class='paper-box'><div class='paper-box-image'>
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=kRQoEh3hgXE&t=3s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+  
 <div class='paper-box-text' markdown="1">
-
 **Decentralized Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty**
 
 **Yupeng Yang**, Yiwei Lyu, Yanze Zhang, Sha Yi and Wenhao Luo
 
-**Robotics: Science and Systems (RSS), 2024**
+*Robotics: Science and Systems (RSS), 2024**
 
 [**Paper**](https://roboticsconference.org/program/papers/5/)
 
 </div>
 </div> 
+
 
 <!-- <style>
 .paper-box-image {
@@ -71,7 +75,35 @@ His current research focuses on the safety and connectivity control for robot sw
 
 
 <div class='paper-box'><div class='paper-box-image'>
-  <iframe width="560" height="315" src="https://youtu.be/ZvR8fDGSqMo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=ZvR8fDGSqMo&t=4s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+  
+<div class='paper-box-text' markdown="1">
+**Minimally Constrained Multi-Robot Coordination with Line-of-sight Connectivity Maintenance**
+
+**Yupeng Yang**, Yiwei Lyu, and Wenhao Luo
+
+*IEEE International Conference on Robotics and Automation (ICRA), 2023**
+
+[**Paper**](https://arxiv.org/pdf/2303.04271.pdf)
+
+</div>
+</div> 
+
+
+<!-- <style>
+.paper-box-image {
+  text-align: center;
+}
+.paper-image {
+  display: block;
+  margin: 0 auto;
+}
+</style> -->
+
+
+<div class='paper-box'><div class='paper-box-image'>
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=ZvR8fDGSqMo&t=4s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
   
 <div class='paper-box-text' markdown="1">
