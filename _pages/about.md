@@ -18,9 +18,11 @@ His current research focuses on the safety and connectivity control for robot sw
 
 # 🔥 News
 - **[May. 2025]** I will join the [ur2phd](https://cra.org/ur2phd/for-graduate-students/) graduate student mentor training program.
-- **[Mar. 2025]** I will be the student mentor for the [Summer Research Experiences for Undergraduates in Computing](https://reu.charlotte.edu/). 
+- **[Mar. 2025]** I will be the student mentor for the [Summer Research Experiences for Undergraduates in Computing](https://reu.charlotte.edu/).
+- **[Mar. 2025]** I have been selected as a volunteer for[ICUAS 2025](https://uasconferences.com/2025_icuas/), and I am tasked with the responsibility of coordinating and executing the setup for the associated [UAV competition](https://uasconferences.com/2025_icuas/unmanned-aerial-vehicle-uav-competition/).
 - **[Jan. 2025]** One paper on Multi-robot Deadlock Resolution has been accepted to 2025 IEEE International Conference on Robotics & Automation [ICRA' 25](https://2025.ieee-icra.org/).
 - **[Dec. 2024]** I passed my qualifying exams in UNCC.
+- **[Aug. 2024]** I have been selected as volunteer in [IROS 2024](https://iros2024-abudhabi.org/)
 - **[Jul. 2024]** One paper on Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment has been accepted to 27th IEEE International Conference on Intelligent Transportation Systems [ITSC' 24](https://ieee-itsc.org/2024/).
 - **[June. 2024]** One paper on Integrating Online Learning and Connectivity Maintenance for Communication-Aware Multi-Robot Coordination has been accepted to 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems [IROS' 24](https://iros2024-abudhabi.org/).
 - **[May. 2024]** One paper on Decentralized Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty has been accepted to 2024 Robotics: Science and Systems [RSS’24](https://roboticsconference.org/).
@@ -287,3 +289,7 @@ Yanze Zhang, Yiwei Lyu, Sude E. Demir, Xingyu Zhou, **Yupeng Yang**, Junming Wan
 ## Mentoring Activities
 - [Ian Gao](https://www.linkedin.com/in/ian-gao-978667162/), Bachelor Research Project. Now at UNC Chaphill as an undergraduate.
 - [Siwon Jo](https://www.linkedin.com/in/siwonjo), Bachelor Research Project.
+
+## Conference Volunteer
+- 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+- 2025 International Conference on Unmanned Aircraft Systems (ICUAS)
