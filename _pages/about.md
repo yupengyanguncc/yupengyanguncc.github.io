@@ -55,37 +55,9 @@ His current research focuses on the safety and connectivity control for robot sw
 
 **Yupeng Yang**, Yiwei Lyu, Yanze Zhang, Sha Yi and Wenhao Luo
 
-*Robotics: Science and Systems (RSS), 2024**
+*Robotics: Science and Systems (RSS), 2024*
 
 [**Paper**](https://roboticsconference.org/program/papers/5/)
-
-</div>
-</div> 
-
-
-<!-- <style>
-.paper-box-image {
-  text-align: center;
-}
-.paper-image {
-  display: block;
-  margin: 0 auto;
-}
-</style> -->
-
-
-<div class='paper-box'><div class='paper-box-image'>
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=ZvR8fDGSqMo&list=PLnbd4b4K2y0-bjKaZcwB_sXAKU5wbBFgJ&index=4&pp=iAQB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-  
-<div class='paper-box-text' markdown="1">
-**Minimally Constrained Multi-Robot Coordination with Line-of-sight Connectivity Maintenance**
-
-**Yupeng Yang**, Yiwei Lyu, and Wenhao Luo
-
-*IEEE International Conference on Robotics and Automation (ICRA), 2023*
-
-[**Paper**](https://arxiv.org/pdf/2303.04271.pdf)
 
 </div>
 </div> 
@@ -117,6 +89,35 @@ His current research focuses on the safety and connectivity control for robot sw
 
 </div>
 </div> 
+
+<!-- <style>
+.paper-box-image {
+  text-align: center;
+}
+.paper-image {
+  display: block;
+  margin: 0 auto;
+}
+</style> -->
+
+
+<div class='paper-box'><div class='paper-box-image'>
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=ZvR8fDGSqMo&list=PLnbd4b4K2y0-bjKaZcwB_sXAKU5wbBFgJ&index=4&pp=iAQB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+  
+<div class='paper-box-text' markdown="1">
+**Minimally Constrained Multi-Robot Coordination with Line-of-sight Connectivity Maintenance**
+
+**Yupeng Yang**, Yiwei Lyu, and Wenhao Luo
+
+*IEEE International Conference on Robotics and Automation (ICRA), 2023*
+
+[**Paper**](https://arxiv.org/pdf/2303.04271.pdf)
+
+</div>
+</div> 
+
+
 
 ## All Publications
 
