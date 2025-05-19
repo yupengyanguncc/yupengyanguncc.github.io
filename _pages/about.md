@@ -30,25 +30,6 @@ His current research focuses on the safety and connectivity control for robot sw
 - **[Mar. 2023]**  I am awarded as second place for **ORAL PRESENTATION** in the category of Computing & Informatics, Annual Graduate Research Symposium (UNCC) [GRS' 23](https://gpsg.charlotte.edu/graduate-research-symposium/graduate-research-symposium/previous-symposium-programs)
 - **[Jan. 2023]**  One paper on Minimally Constrained Multi-Robot Coordination with Line-of-sight Connectivity Maintenance has been accepted to ICRA, 2023 [ICRA' 23](https://www.icra2023.org/).
 - **[Jan. 2023]**  One paper on Minimally Constraining Line-of-Sight Connectivity Maintenance for Collision-free Multi-Robot Networks under Uncertainty has been accepted to AAMAS, 2023 (Extended Abstract) [AAMAS' 23](https://aamas2023.soton.ac.uk/).
-<!-- <details>
-<!-- <details>
-  <summary>show more</summary> -->
-
-<!-- </details> -->
-
-
-<!-- 
-- *2024.01*: &nbsp;🎉🎉 Our paper on joint prediction and planning for tree policy has been accepted by ICRA! See you in Yokohama, Japan!
-- *2024.01*: &nbsp;🎉🎉 Our paper on joint prediction and planning for tree policy has been accepted by ICRA! See you in Yokohama, Japan!
-- *2023.11*: &nbsp; I was invited by zdjszx.com to give a public lecture on "Scalable, Learnable, and Interactive Decision-making for Autonomous Driving". The recorded version of the lecture (in Chinese) is available for viewing on [bilibili](https://www.bilibili.com/video/BV1Mz4y1c7BS/?share_source=copy_web&vd_source=d38ad63504821012428c34311a1df246).
-- *2023.10*: &nbsp;🎉🎉 Our paper on brain-inspired reinforcement learning for safe autonomous driving has been accepted by TPAMI!
-- *2023.09*: &nbsp;🎉🎉 We won the best paper runner-up award in ITSC 2023!
-- *2023.09*: &nbsp;🎉🎉 Our paper on human-guided reinforcement learning for robot navigation has been accepted by TPAMI!
-- *2023.08*: &nbsp;🎉🎉 Our GameFormer paper has been accepted by ICCV as **Oral presentation**!
-- *2023.07*: &nbsp;🎉🎉 Our ITSC special session on [learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) has received 17 paper submissions, all of which were accepted. Congratulations to the authors!
-- *2023.06*: &nbsp;🎉🎉 Our team won the innovation award in the nuPlan Planning Challenge! Check out our [report](https://opendrivelab.com/e2ead/AD23Challenge/Track_4_AID.pdf) and [presentation](https://youtu.be/ZwhXilQKULY?t=1204) on our GameFormer Planner.
-- *2023.06*: &nbsp;🎉🎉 Our team secured third place in the Waymo Open Dataset Motion Prediction Challenge! Our [report](https://storage.googleapis.com/waymo-uploads/files/research/2023%20Technical%20Reports/MP_3rd_GRT-R36.pdf) is available on [CVPR 2023
-Workshop on Autonomous Driving](https://cvpr2023.wad.vision/). -->
 
 
 # 📝 Publications
