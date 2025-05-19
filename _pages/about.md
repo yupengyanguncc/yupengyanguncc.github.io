@@ -17,8 +17,10 @@ His current research focuses on the safety and connectivity control for robot sw
 
 
 # 🔥 News
-<!-- - **[Mar. 2025]** Our paper about Vehicle Lateral Motion Prediction is accepted to [IAV' 25](https://events.engineering.asu.edu/iav-2025/). -->
+- **[May. 2025]** I will join the [ur2phd](https://cra.org/ur2phd/for-graduate-students/) graduate student mentor training program.
+- **[Mar. 2025]** I will be the student mentor for the [Summer Research Experiences for Undergraduates in Computing](https://reu.charlotte.edu/). 
 - **[Jan. 2025]** One paper on Multi-robot Deadlock Resolution has been accepted to 2025 IEEE International Conference on Robotics & Automation [ICRA' 25](https://2025.ieee-icra.org/).
+- **[Dec. 2024]** I passed my qualifying exams in UNCC.
 - **[Jul. 2024]** One paper on Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment has been accepted to 27th IEEE International Conference on Intelligent Transportation Systems [ITSC' 24](https://ieee-itsc.org/2024/).
 - **[June. 2024]** One paper on Integrating Online Learning and Connectivity Maintenance for Communication-Aware Multi-Robot Coordination has been accepted to 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems [IROS' 24](https://iros2024-abudhabi.org/).
 - **[May. 2024]** One paper on Decentralized Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty has been accepted to 2024 Robotics: Science and Systems [RSS’24](https://roboticsconference.org/).
