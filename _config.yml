@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yanze Zhang"
-description              : "Ph.D. student at UIC." #Focusing on autonomous driving, machine learning, and decision-making."
+title                    : "Yupeng Yang (Eric)"
+description              : "Ph.D. student at UNCC."
 repository               : "MCZhi/MCZhi.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yanze Zhang"
+  name             : "Yupeng Yang"
   avatar           : "images/Yanze Zhang.jpeg"
   bio              : #"University of North Carolina at Charlotte"
-  location         : "Chicago, IL"
+  location         : "Charlotte, NC"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=tRXPk0EAAAAJ&hl=en&oi=sra"
-  email            : "yzhan361@uic.edu"
-  researchgate     : # "https://www.researchgate.net/profile/Zhiyu-Huang-5"
+  googlescholar    : "https://scholar.google.com/citations?user=cbBkYRgAAAAJ&hl=en"
+  email            : "yyang52@charlotte.edu"
+  researchgate     : "https://www.researchgate.net/profile/Yupeng-Yang-8/"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "GEEKZE97"
+  github           : "yupengyanguncc"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yanze-zhang-b43a3926b"
+  linkedin         : "https://www.linkedin.com/in/yupeng-yang-81aaba321/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
