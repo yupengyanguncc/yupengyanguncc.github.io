@@ -85,7 +85,7 @@ His current research focuses on the safety and connectivity control for robot sw
 
 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024*
 
-[**Paper**](https://arxiv.org/abs/2410.05798) [**Project Page**](https://wenhaol.github.io/DCM-RSSI/)
+[**Paper**](https://arxiv.org/abs/2410.05798) [**Project Page**](https://github.com/wenhaol/DCM-RSSI)
 
 </div>
 </div> 
