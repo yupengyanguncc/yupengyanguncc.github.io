@@ -103,17 +103,17 @@ His current research focuses on the safety and connectivity control for robot sw
 
 
 <div class='paper-box'><div class='paper-box-image'>
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=ZvR8fDGSqMo&t=4s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=sgx23-j_8Uo&t=1s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
   
 <div class='paper-box-text' markdown="1">
-**Minimally Constrained Multi-Robot Coordination with Line-of-sight Connectivity Maintenance**
+**Integrating Online Learning and Connectivity Maintenance for Communication-Aware Multi-Robot Coordination**
 
-**Yupeng Yang**, Yiwei Lyu, and Wenhao Luo
+**Yupeng Yang**, Yiwei Lyu, Yanze Zhang, Ian Gao, and Wenhao Luo
 
-*IEEE International Conference on Robotics and Automation (ICRA), 2023**
+*IIEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024**
 
-[**Paper**](https://arxiv.org/pdf/2303.04271.pdf)
+[**Paper**](https://arxiv.org/abs/2410.05798)
 
 </div>
 </div> 
