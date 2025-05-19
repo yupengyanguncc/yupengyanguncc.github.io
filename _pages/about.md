@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-
 # About Me
 
 Yupeng Yang is a Ph.D. student of College of Computing and Informatics at the [University of North Carolina at Charlotte](https://www.charlotte.edu/).. He received his master degree in Computer Science from [Embry-Riddle Aeronautical University](https://erau.edu/) and bachelor degree in Electrical Engineering from [Civil Aviation University of China](https://www.cauc.edu.cn/en/), respectively. His advisor is [Prof. Wenhao Luo](https://cs.uic.edu/profiles/luo-wenhao/). 
@@ -267,7 +266,7 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   Yanze Zhang, Yiwei Lyu, Siwon Jo, **Yupeng Yang**, and Wenhao Luo
   <br>
   Accepted to the 2025 IEEE International Conference on Robotics and Automation (**ICRA' 25**), 2025 
-  <br>
+  <br> 
   [[PDF](https://arxiv.org/abs/2503.09621)]
 
 
@@ -295,21 +294,21 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
   <br>
   [[PDF](https://arxiv.org/pdf/2406.12802)][[Video](https://www.youtube.com/watch?v=kRQoEh3hgXE)]
 
-- *Minimally Constrained Multi-Robot Coordination with Line-of-sight Connectivity Maintenance.*
+- *Minimally Constrained Multi-Robot Coordination with Line-of-sight Connectivity Maintenance.* <span class='show_paper_citations' data='cbBkYRgAAAAJ:YsMSGLbcyi4C'></span>
   <br>
   **Yupeng Yang**, Yiwei Lyu, and Wenhao Luo
   <br>
   Accepted to 2023 IEEE International Conference on Robotics and Automation (**ICRA'23**), 2023
   <br>
   [[PDF](https://arxiv.org/abs/2303.04271)]
-
- - *Minimally Constraining Line-of-Sight Connectivity Maintenance for Collision-free Multi-Robot Networks under Uncertainty.*
-  <br>
+  
+ - *Minimally Constraining Line-of-Sight Connectivity Maintenance for Collision-free Multi-Robot Networks under Uncertainty.* 
+  <br> 
   **Yupeng Yang**, Yiwei Lyu, and Wenhao Luo
   <br>
   Accepted to 22nd International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**), 2023
   <br>
-  [[PDF](https://www.southampton.ac.uk/~eg/AAMAS2023/pdfs/p2583.pdf)]
+  [[PDF](https://www.southampton.ac.uk/~eg/AAMAS2023/pdfs/p2583.pdf)] 
 
 - *Occlusion-Free Image Based Visual Servoing Using Probabilistic Control Barrier Certificates.*
   <br>
