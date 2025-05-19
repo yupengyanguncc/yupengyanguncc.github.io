@@ -35,7 +35,7 @@ His current research focuses on the safety and connectivity control for robot sw
 
 # 📝 Publications
 ## Highlights
-### Communication-aware Multi-robot System
+### 1. Communication-aware Multi-robot System
 <!-- <style>
 .paper-box-image {
   text-align: center;
@@ -103,7 +103,7 @@ His current research focuses on the safety and connectivity control for robot sw
 
 
 <div class='paper-box'><div class='paper-box-image'>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/kRQoEh3hgXE?si=V9JXRTHTSvE43Wco" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ZvR8fDGSqMo?si=nHWCLsiwGHP2UOi4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
   
 <div class='paper-box-text' markdown="1">
@@ -118,7 +118,7 @@ His current research focuses on the safety and connectivity control for robot sw
 </div>
 </div> 
 
-### Risk-aware Autonomous Driving Vehicle
+### 2. Risk-aware Autonomous Driving Vehicle
 
 <style>
 .paper-box-image {
@@ -135,7 +135,7 @@ His current research focuses on the safety and connectivity control for robot sw
 
 **Adaptive Deadlock Avoidance for Decentralized Multi-Agent Systems via CBF-inspired Risk Measurement**
 
-Yanze Zhang, Yiwei Lyu, Siwon Jo, Yupeng Yang, Wenhao Luo
+Yanze Zhang, Yiwei Lyu, Siwon Jo, **Yupeng Yang**, Wenhao Luo
 
 **IEEE International Conference on Robotics and Automation (ICRA), 2025**
 
@@ -168,7 +168,7 @@ controller, yielding smoother robots’ motion with improved overall task execut
 <div class='paper-box-text' markdown="1">
 **Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment**
 
-Yanze Zhang, Yiwei Lyu, Sude E. Demir, Xingyu Zhou, Yupeng Yang, Junming Wang, Wenhao Luo
+Yanze Zhang, Yiwei Lyu, Sude E. Demir, Xingyu Zhou, **Yupeng Yang**, Junming Wang, Wenhao Luo
 
 **IEEE International Conference on Intelligent Transportation Systems (ITSC), 2024**
 
