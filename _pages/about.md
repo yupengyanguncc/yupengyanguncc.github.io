@@ -47,7 +47,7 @@ His current research focuses on the safety and connectivity control for robot sw
 
 
 <div class='paper-box'><div class='paper-box-image'>
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=kRQoEh3hgXE&t=3s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=kRQoEh3hgXE&list=PLnbd4b4K2y0-bjKaZcwB_sXAKU5wbBFgJ&index=3&pp=iAQB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
   
 <div class='paper-box-text' markdown="1">
@@ -75,7 +75,7 @@ His current research focuses on the safety and connectivity control for robot sw
 
 
 <div class='paper-box'><div class='paper-box-image'>
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=ZvR8fDGSqMo&t=4s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=ZvR8fDGSqMo&list=PLnbd4b4K2y0-bjKaZcwB_sXAKU5wbBFgJ&index=4&pp=iAQB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
   
 <div class='paper-box-text' markdown="1">
@@ -103,7 +103,7 @@ His current research focuses on the safety and connectivity control for robot sw
 
 
 <div class='paper-box'><div class='paper-box-image'>
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=sgx23-j_8Uo&t=1s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=sgx23-j_8Uo&list=PLnbd4b4K2y0-bjKaZcwB_sXAKU5wbBFgJ&index=2&pp=iAQB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
   
 <div class='paper-box-text' markdown="1">
