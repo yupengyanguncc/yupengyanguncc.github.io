@@ -182,7 +182,7 @@ Yanze Zhang, Yiwei Lyu, Sude E. Demir, Xingyu Zhou, Yupeng Yang, Junming Wang, W
 
 ## External Reviewer
 - IEEE Robotics and Automation Letters (R-AL)
-- IEEE IEEE Transactions on Robotics (TRO)
+- IEEE Transactions on Robotics (TRO)
 - IEEE Internet of Things Journal
 - IEEE Sensors Journal
 - IEEE Transactions on Industrial Electronics
