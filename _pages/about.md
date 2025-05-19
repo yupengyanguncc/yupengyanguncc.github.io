@@ -11,41 +11,26 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-I am a Ph.D. student major in Computer Science at [UIC](https://www.uic.edu/), where I am fortunate to be supervised by [Prof. Wenhao Luo](https://cs.uic.edu/profiles/luo-wenhao/). Prior to that, I worked as a research assistant at 
-[UNC Charlotte](https://www.charlotte.edu/). I completed my master's degree in Mechanical Engineering
-from [Dalian University of Technology(DUT)](https://en.dlut.edu.cn/), and obtained my bachelor’s degree from [China University of Petroleum(UPC)](https://english.upc.edu.cn/). 
-<!-- I am a Ph.D. student major in Computer Science at [UNC Charlotte](https://www.charlotte.edu/), where I am fortunate to be supervised
-by [Prof. Wenhao Luo](https://webpages.charlotte.edu/wluo4/). 
-I completed my master's degree in Mechanical Engineering
-from [DUT](https://en.dlut.edu.cn/), and prior to that, I obtained my bachelor’s degree from [UPC](https://english.upc.edu.cn/). -->
 
-I am passionate about Robotics, Control theory, Computer Vision and Reinforcement Learning, and my goal is to empower the multi-robot system with intelligence(robust and interactive autonomy), which enables robots to make informed decisions for safely and effectively collaborating with each other and with humans in the physical world. Currently, I am conducting simulations and real-world verifications of multi-agent control systems, focusing on developing algorithms for large-scale mixed-autonomy coordination.
+Yupeng Yang is a Ph.D. student of College of Computing and Informatics at the [University of North Carolina at Charlotte](https://www.charlotte.edu/).. He received his master degree in Computer Science from [Embry-Riddle Aeronautical University](https://erau.edu/) and bachelor degree in Electrical Engineering from [Civil Aviation University of China](https://www.cauc.edu.cn/en/), respectively. His advisor is [Prof. Wenhao Luo](https://cs.uic.edu/profiles/luo-wenhao/). 
 
-<!-- 
-I am currently a visiting student researcher at UC Berkeley, working in the [Mechanical Systems Control (MSC) Lab](https://msc.berkeley.edu/) under the guidance of Prof. Masayoshi Tomizuka and Dr. Wei Zhan. I am pursuing a Ph.D. in the School of Mechanical and Aerospace Engineering at Nanyang Technological University. My research endeavors are based in the [Automated Driving and Human-Machine System (AutoMan) Lab](https://lvchen.wixsite.com/automan), which is led by Prof. Chen Lyu. **I am actively seeking postdoctoral positions to propel my research career further.** -->
+His current research focuses on the safety and connectivity control for robot swarms. His research interests include robotics, control theory, machine learning, embedded control and control barrier functions.
 
-<!-- 
-My research primarily centers around the intersection of autonomous driving and machine learning. My goal is to develop algorithms and techniques that enable machines to interact with humans naturally, make intelligent decisions, and drive as skillfully as experienced human drivers. Specifically, my research interests encompass deep learning and reinforcement learning, applied to areas such as autonomous driving decision-making, prediction and planning, simulation, and human-machine interaction. My contributions have resulted in the publication of over 20 papers in top AI/ITS/Robotics journals and conferences. -->
 
 # 🔥 News
 <!-- - **[Mar. 2025]** Our paper about Vehicle Lateral Motion Prediction is accepted to [IAV' 25](https://events.engineering.asu.edu/iav-2025/). -->
-- **[Jan. 2025]** Our paper about Multi-robot Deadlock Resolution is accepted to [ICRA' 25](https://2025.ieee-icra.org/).
-- **[Jan. 2025]** Our paper about Sample-efficient Safe Reinforcement Learning is accepted to [ICRA' 25](https://2025.ieee-icra.org/).
-- **[Nov. 2024]** I will attend the [Join the 5-Day Gen AI Intensive Course with Google](https://rsvp.withgoogle.com/events/google-generative-ai-intensive/home).
-- **[Oct. 2024]** Our project **[Turbo Trash](https://teddyhuang-00.github.io/TurboTrash/)** obtained the 1st place in HACKTHON CLT 2024.
-- **[Sep. 2024]** I will present our work about autonomous driving on ITSC 2024.
-- **[Jul. 2024]** Our paper about Courteous Driving using CBF-inspired Risk is accepted to [ITSC' 24](https://ieee-itsc.org/2024/).
-- **[Jul. 2024]** Our paper about Individualizable Risk Assessment is accepted to [ITSC' 24](https://ieee-itsc.org/2024/).
-- **[June. 2024]** Our paper about Data-driven Connectivity Maintenance is accepted to [IROS' 24](https://iros2024-abudhabi.org/).
-- **[June. 2024]** Our paper about Vehicle Longitudinal Motion Prediction is accepted to [MECC' 24](https://mecc2024.a2c2.org/).
-- **[May. 2024]** Our paper about Line-of-Sight Connectivity Maintenance is accepted to [RSS’24](https://roboticsconference.org/).
-- **[Jan. 2024]** Our paper about Conformal Prediction is accepted to [ACC’24](https://acc2024.a2c2.org/).
-- **[Oct. 2023]** I will present our work at [MRS’23](https://sites.bu.edu/mrs2023/).
-- **[Oct. 2023]** Our paper about multi-agent deadlock resolution is accepted to [MRS’23](https://sites.bu.edu/mrs2023/).
-- **[Oct. 2023]** Our paper about connectivity maintenance is accepted to [MRS’23](https://sites.bu.edu/mrs2023/).
-- **[Sep. 2023]** Our paper about connectivity maintenance is accepted to [IROS’23 Workshop](https://ieee-iros.org/).
-- **[Mar. 2023]** Our paper about Image-Based Visual Servoing is accepted to [IFAC’23](https://www.ifac2023.org/).
-
+- **[Jan. 2025]** One paper on Multi-robot Deadlock Resolution has been accepted to 2025 IEEE International Conference on Robotics & Automation [ICRA' 25](https://2025.ieee-icra.org/).
+- **[Jul. 2024]** One paper on Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment has been accepted to 27th IEEE International Conference on Intelligent Transportation Systems [ITSC' 24](https://ieee-itsc.org/2024/).
+- **[June. 2024]** One paper on Integrating Online Learning and Connectivity Maintenance for Communication-Aware Multi-Robot Coordination has been accepted to 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems [IROS' 24](https://iros2024-abudhabi.org/).
+- **[May. 2024]** One paper on Decentralized Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty has been accepted to 2024 Robotics: Science and Systems [RSS’24](https://roboticsconference.org/).
+- **[Oct. 2023]** One paper about multi-agent deadlock resolution is accepted to 2023 IEEE International Symposium on Multi-Robot and Multi-agent Systems [MRS’23](https://sites.bu.edu/mrs2023/).
+- **[Oct. 2023]** One paper on Ecologically-Inspired Decentralized Multi-Agent System with Deadlock Avoidance has been accepted as the workshop paper to 2023 IEEE International Symposium on Multi-Robot and Multi-agent Systems  [MRS’ 23](https://sites.bu.edu/mrs2023/).
+- **[Sep. 2023]** One paper on Global and Subgroup Connectivity Maintenance for Decentralized Multi-Robot Networks under Uncertainty has been accepted to 2023 IROS Workshop on Advances in Multi-Agent Learning – Coordination, Perception, and Control [IROS’23 Workshop](https://ieee-iros.org/).
+- **[Mar. 2023]** One paper on Occlusion-free Image-Based Visual Servoing has been accepted to IFAC, 2023 [IFAC’ 23](https://www.ifac2023.org/).
+- **[Mar. 2023]**  I am awarded as second place for **ORAL PRESENTATION** in the category of Computing & Informatics, Annual Graduate Research Symposium (UNCC) [GRS' 23](https://gpsg.charlotte.edu/graduate-research-symposium/graduate-research-symposium/previous-symposium-programs)
+- **[Jan. 2023]**  One paper on Minimally Constrained Multi-Robot Coordination with Line-of-sight Connectivity Maintenance has been accepted to ICRA, 2023 [ICRA' 23](https://www.icra2023.org/).
+- **[Jan. 2023]**  One paper on Minimally Constraining Line-of-Sight Connectivity Maintenance for Collision-free Multi-Robot Networks under Uncertainty has been accepted to AAMAS, 2023 (Extended Abstract) [AAMAS' 23](https://aamas2023.soton.ac.uk/).
+<!-- <details>
 <!-- <details>
   <summary>show more</summary> -->
 
@@ -295,110 +280,59 @@ Zhiyu Huang, Chen Lv, Yang Xing, Jingda Wu
 -->
 
 ## All Publications
-<!-- - *A Lateral Motion Model Predicting Vehicle Behaviors in Lane Change Maneuvers.*
-  <br>
-  Yiming Yan, Haoji Liu, Xingyu Zhou, **Yanze Zhang**, Wenhao Luo, and Junmin Wang
-  <br>
-  Accepted to the 12th IFAC Symposium on Intelligent Autonomous Vehicles (**IAV' 25**), 2025 
-  <br>
-  [PDF-TBA] -->
 
 - *Adaptive Deadlock Avoidance for Decentralized Multi-Agent Systems via CBF-inspired Risk Measurement.*
   <br>
-  **Yanze Zhang**, Yiwei Lyu, Siwon Jo, Yupeng Yang, and Wenhao Luo
+  Yanze Zhang, Yiwei Lyu, Siwon Jo, **Yupeng Yang**, and Wenhao Luo
   <br>
   Accepted to the 2025 IEEE International Conference on Robotics and Automation (**ICRA' 25**), 2025 
   <br>
   [[PDF](https://arxiv.org/abs/2503.09621)]
 
-- *Computation and Sample Efficient Safe Reinforcement Learning Using Adaptive Conformal Prediction.*
-  <br>
-  Hao Zhou, **Yanze Zhang**, and Wenhao Luo
-  <br>
-  Accepted to the 2025 IEEE International Conference on Robotics and Automation (**ICRA' 25**), 2025 
-  <br>
-  [[PDF](https://arxiv.org/abs/2503.17678)]
 
 - *Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment.*
   <br>
-  **Yanze Zhang**, Yiwei Lyu, Sude Ela Demir, Xingyu Zhou, Yupeng Yang, Junmin Wang and Wenhao Luo
+  Yanze Zhang, Yiwei Lyu, Sude Ela Demir, Xingyu Zhou, **Yupeng Yang**, Junmin Wang and Wenhao Luo
   <br>
   Accepted to the 27th IEEE International Conference on Intelligent Transportation Systems (**ITSC' 24**), 2024 
   <br>
   [[PDF](https://arxiv.org/abs/2408.12822v1)][[Demo-NGSIM](https://youtu.be/9Cekw5xafWw)][[Demo-IDM](https://youtu.be/9Cekw5xafWw)]
   
-- *Individualizable Risk Assessment Map for Planning Vehicle Behaviors Respecting Perceived Safety.*
-  <br>
-  Ji Hwan Park, **Yanze Zhang**, Wenaho Luo, and Junmin Wang
-  <br>
-  Accepted to the 27th IEEE International Conference on Intelligent Transportation Systems (**ITSC' 24**), 2024 
-  <br>
-  [[PDF](https://ieeexplore.ieee.org/abstract/document/10919751)]
-
 - *Integrating Online Learning and Connectivity Maintenance for Communication-Aware Multi-Robot Coordination.*
   <br>
-  Yupeng Yang, Yiwei Lyu, **Yanze Zhang**, Ian Gao, and Wenhao Luo
+  **Yupeng Yang**, Yiwei Lyu, Yanze Zhang, Ian Gao, and Wenhao Luo
   <br>
   Accepted to the 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS' 24**), 2024 
   <br>
   [[PDF](https://arxiv.org/abs/2410.05798)][[Project](https://github.com/wenhaol/DCM-RSSI)][[Website](https://wenhaol.github.io/DCM-RSSI/)]
 
-- *A Transitional Intelligent Driver Model Enabling Vehicle Longitudinal Motion Prediction in Lane-Change Maneuvers.*
-  <br>
-  Sude E. Demir, Xingyu Zhou, **Yanze Zhang**, Wenhao Luo, and Junmin Wang
-  <br>
-  Accepted to the 4th Modeling, Estimation, and Control Conference (**MECC' 24**), 2024 
-  <br>
-  [[PDF](https://www.researchgate.net/profile/Xingyu-Zhou-14/publication/388321405_A_Transitional_Intelligent_Driver_Model_Enabling_Vehicle_Longitudinal_Motion_Prediction_in_Lane-Change_Maneuvers/links/6792f47b96e7fb48b99b7658/A-Transitional-Intelligent-Driver-Model-Enabling-Vehicle-Longitudinal-Motion-Prediction-in-Lane-Change-Maneuvers.pdf)]
-
 - *Decentralized Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty.*
   <br>
-  Yupeng Yang, Yiwei Lyu, **Yanze Zhang**, Sha Yi, and Wenhao Luo
+  **Yupeng Yang**, Yiwei Lyu, Yanze Zhang, Sha Yi, and Wenhao Luo
   <br>
   Accepted to the 2024 Robotics: Science and Systems (**RSS'24**), 2024 
   <br>
   [[PDF](https://arxiv.org/pdf/2406.12802)][[Video](https://www.youtube.com/watch?v=kRQoEh3hgXE)]
 
-- *Safety-Critical Control with Uncertainty Quantification using Adaptive Conformal Prediction.*
+- *Minimally Constrained Multi-Robot Coordination with Line-of-sight Connectivity Maintenance.*
   <br>
-  Hao Zhou, **Yanze Zhang**, and Wenhao Luo
+  **Yupeng Yang**, Yiwei Lyu, and Wenhao Luo
   <br>
-  Accepted to the 2024 American Control Conference (**ACC'24**), 2024 
+  Accepted to 2023 IEEE International Conference on Robotics and Automation (**ICRA'23**), 2023
   <br>
-  [[PDF](https://arxiv.org/abs/2407.03569v1)]
+  [[PDF](https://arxiv.org/abs/2303.04271)]
 
-<!--
-- *Ecologically-Inspired Decentralized Multi-Agent System with Deadlock Avoidance.*
+ - *Minimally Constraining Line-of-Sight Connectivity Maintenance for Collision-free Multi-Robot Networks under Uncertainty.*
   <br>
+  **Yupeng Yang**, Yiwei Lyu, and Wenhao Luo
   <br>
-  **Yanze Zhang**, Yiwei Lyu, Siwon Jo, Yupeng Yang, Wenhao Luo
+  Accepted to 22nd International Conference on Autonomous Agents and Multiagent Systems (**AAMAS**), 2023
   <br>
-  <br>
-  Accepted as a extended abstract to appear in the 4th IEEE International Symposium on Multi-Robot & Multi-Agent Systems (**MRS'23**), 2023 
-  <br>
-  <br>
-  [PDF-TBA][Poster-TBA][Code-TBA]
-
-- *Decentralized Motion Coordination for Minimally Disruptive Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty.*
-  <br>
-  Yupeng Yang, Yiwei Lyu, Sha Yi, **Yanze Zhang**, Wenhao Luo
-  <br>
-  Accepted as a extended abstract to appear in the 4th IEEE International Symposium on Multi-Robot & Multi-Agent Systems (**MRS'23**), 2023 
-  <br>
-  [PDF-TBA][Poster-TBA][Code-TBA] -->
-
-<!-- - *Global and Subgroup Connectivity Maintenance for Decentralized Multi-Robot Networks under Uncertainty.*
-  <br>
-  Yupeng Yang, Yiwei Lyu, Sha Yi, **Yanze Zhang**, Wenhao Luo
-  <br>
-  Accepted as a workshop paper to appear in the 35th International Conference on Intelligent Robots and Systems (**IROS'23**), 2023 
-  <br>
-  [[PDF](https://djhanove.github.io/IROS23_MRS/assets/papers/iros2023workshop_subgroupConnectivity.pdf)] -->
-  <!--[Slides-TBA][Code-TBA] -->
+  [[PDF](https://www.southampton.ac.uk/~eg/AAMAS2023/pdfs/p2583.pdf)]
 
 - *Occlusion-Free Image Based Visual Servoing Using Probabilistic Control Barrier Certificates.*
   <br>
-  **Yanze Zhang**, Yupeng Yang, Wenhao Luo
+  Yanze Zhang, **Yupeng Yang**, Wenhao Luo
   <br>
   Accepted to appear in the 22th World Congress of International Federation of Automatic Control (**IFAC'23**), 2023
   <br>
