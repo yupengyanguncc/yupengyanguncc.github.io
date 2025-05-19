@@ -19,7 +19,7 @@ His current research focuses on the safety and connectivity control for robot sw
 # 🔥 News
 - **[May. 2025]** I will join the [ur2phd](https://cra.org/ur2phd/for-graduate-students/) graduate student mentor training program.
 - **[Mar. 2025]** I will be the student mentor for the [Summer Research Experiences for Undergraduates in Computing](https://reu.charlotte.edu/).
-- **[Mar. 2025]** I have been selected as a volunteer for[ICUAS 2025](https://uasconferences.com/2025_icuas/), and I am tasked with the responsibility of coordinating and executing the setup for the associated [UAV competition](https://uasconferences.com/2025_icuas/unmanned-aerial-vehicle-uav-competition/).
+- **[Mar. 2025]** I have been selected as a volunteer in [ICUAS 2025](https://uasconferences.com/2025_icuas/), and I am tasked with the responsibility of coordinating and executing the setup for the associated [UAV competition](https://uasconferences.com/2025_icuas/unmanned-aerial-vehicle-uav-competition/).
 - **[Jan. 2025]** One paper on Multi-robot Deadlock Resolution has been accepted to 2025 IEEE International Conference on Robotics & Automation [ICRA' 25](https://2025.ieee-icra.org/).
 - **[Dec. 2024]** I passed my qualifying exams in UNCC.
 - **[Aug. 2024]** I have been selected as volunteer in [IROS 2024](https://iros2024-abudhabi.org/)
