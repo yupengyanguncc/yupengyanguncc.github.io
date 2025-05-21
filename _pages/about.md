@@ -255,7 +255,7 @@ Yanze Zhang, Yiwei Lyu, Sude E. Demir, Xingyu Zhou, **Yupeng Yang**, Junming Wan
 # 📖 Education
 - *2022.01 - Now*, Doctor of Philosophy, Computer Science, University of North Carolina at Charlotte, The United States 
 - *2018.09 - 2021.06*, Master of Computer Science, Embry-Riddle Aeronautical University, The United States 
-- *2015.09 - 2019.06*, Bachelor of Engineering, Civil Aviation University of China, China
+- *2015.09 - 2019.06*, Bachelor of Engineering, ![images](images/cauc.png) Civil Aviation University of China, China
 
 # 📚 Services
 <!-- 
