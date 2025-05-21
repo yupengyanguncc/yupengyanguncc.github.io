@@ -17,11 +17,14 @@ His current research focuses on the safety and connectivity control for robot sw
 
 
 # 🔥 News
+- **[May. 2025]** I will be the teaching assistant for the ITCS 5356 Introduction to Machine Learning for Fall 2025.
+- **[May. 2025]** I will be the teaching assistant for the ITSC 2214 Data Structures and Algorithms for Summer 2025.
 - **[May. 2025]** I will join the [ur2phd](https://cra.org/ur2phd/for-graduate-students/) graduate student mentor training program.
 - **[Mar. 2025]** I will be the student mentor for the [Summer Research Experiences for Undergraduates in Computing](https://reu.charlotte.edu/).
 - **[Mar. 2025]** I have been selected as a volunteer in [ICUAS 2025](https://uasconferences.com/2025_icuas/), and I am tasked with the responsibility of coordinating and executing the setup for the associated [UAV competition](https://uasconferences.com/2025_icuas/unmanned-aerial-vehicle-uav-competition/).
 - **[Jan. 2025]** One paper on Multi-robot Deadlock Resolution has been accepted to 2025 IEEE International Conference on Robotics & Automation [ICRA' 25](https://2025.ieee-icra.org/).
 - **[Dec. 2024]** I passed my qualifying exams in UNCC.
+- **[Dec. 2024]** I will be the teaching assistant for the ITSC 5154 Applied Machine Learning for Spring 2025.  
 - **[Aug. 2024]** I have been selected as volunteer in [IROS 2024](https://iros2024-abudhabi.org/)
 - **[Jul. 2024]** One paper on Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment has been accepted to 27th IEEE International Conference on Intelligent Transportation Systems [ITSC' 24](https://ieee-itsc.org/2024/).
 - **[June. 2024]** One paper on Integrating Online Learning and Connectivity Maintenance for Communication-Aware Multi-Robot Coordination has been accepted to 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems [IROS' 24](https://iros2024-abudhabi.org/).
@@ -258,20 +261,11 @@ Yanze Zhang, Yiwei Lyu, Sude E. Demir, Xingyu Zhou, **Yupeng Yang**, Junming Wan
 - *2015.09 - 2019.06*, Bachelor of Engineering, ![cauc](images/cauc.png) Civil Aviation University of China, China
 
 # 📚 Services
-<!-- 
-## Program Committee
-- Lead organizer of Special Session on [learning-powered prediction and decision-making](https://sites.google.com/view/itsc-lpad) at ITSC, 2023
-- Lead organizer of Special Session on [learning-powered and knowledge-driven autonomous driving](https://sites.google.com/view/itsc-lpad-2) at ITSC, 2024
 
-## Journal Reviewer
-- IEEE Transactions on Intelligent Transportation Systems 
-- IEEE Transactions on Neural Networks and Learning Systems
-- IEEE Transactions on Intelligent Vehicles 
-- IEEE Transactions on Cybernetics
-- IEEE Robotics and Automation Letters
-- Transportation Research Part C: Emerging Technologies
-- Engineering Applications of Artificial Intelligence
-- Artificial Intelligence Review -->
+## Teaching Service
+- ITSC 5356 Introduction to Machine Learning [**Fall 2025**]
+- ITSC 2214 Data Structure and Algorithms [**Summer 2025**]
+- ITSC 5156 Applied Machine Learning [**Spring 2025**]
 
 ## External Reviewer
 - IEEE Robotics and Automation Letters (R-AL)
