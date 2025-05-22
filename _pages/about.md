@@ -61,7 +61,7 @@ His current research focuses on the safety and connectivity control for robot sw
 
 **Yupeng Yang**, Yiwei Lyu, Yanze Zhang, Sha Yi and Wenhao Luo
 
-*Robotics: Science and Systems (RSS), 2024*
+**Robotics: Science and Systems (RSS), 2024**
 
 [**Paper**](https://roboticsconference.org/program/papers/5/) 
 
@@ -89,7 +89,7 @@ His current research focuses on the safety and connectivity control for robot sw
 
 **Yupeng Yang**, Yiwei Lyu, Yanze Zhang, Ian Gao, and Wenhao Luo
 
-*IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024*
+**IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024**
 
 [**Paper**](https://arxiv.org/abs/2410.05798) [**Project Page**](https://github.com/wenhaol/DCM-RSSI)
 
@@ -116,7 +116,7 @@ His current research focuses on the safety and connectivity control for robot sw
 
 **Yupeng Yang**, Yiwei Lyu, and Wenhao Luo
 
-*IEEE International Conference on Robotics and Automation (ICRA), 2023*
+**IEEE International Conference on Robotics and Automation (ICRA), 2023**
 
 [**Paper**](https://arxiv.org/pdf/2303.04271.pdf)
 
