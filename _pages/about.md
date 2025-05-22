@@ -276,6 +276,7 @@ Yanze Zhang, Yiwei Lyu, Sude E. Demir, Xingyu Zhou, **Yupeng Yang**, Junming Wan
 - IEEE Transactions on Aerospace and Electronic Systems
 - IEEE Transactions on Intelligent Transportation Systems
 - IEEE Transactions on Mechatronics
+- IEEE Transactions on Reliability
 - Cartography and Geographic Information Science
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 - Distributed Autonomous Robotic Systems (DARS)
