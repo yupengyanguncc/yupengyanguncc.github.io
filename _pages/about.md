@@ -282,9 +282,12 @@ Yanze Zhang, Yiwei Lyu, Sude E. Demir, Xingyu Zhou, **Yupeng Yang**, Junming Wan
 - Distributed Autonomous Robotic Systems (DARS)
 
 ## Mentoring Activities
+I am passionate about mentoring students and partnering with them to tackle real-world challenges. Below is a brief introduction to the talented mentees I have the privilege of guiding:
 - [Ian Gao](https://www.linkedin.com/in/ian-gao-978667162/), Bachelor Research Project. Now at UNC Chaphill as an undergraduate.
 - [Siwon Jo](https://www.linkedin.com/in/siwonjo), Bachelor Research Project.
 
 ## Conference Volunteer
 - 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 - 2025 International Conference on Unmanned Aircraft Systems (ICUAS)
+
+Finally, this is my little [playground](https://yupengyanguncc.github.io/Research/)!
