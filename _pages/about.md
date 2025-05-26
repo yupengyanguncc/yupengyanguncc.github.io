@@ -19,7 +19,7 @@ His current research focuses on the safety and connectivity control for robot sw
 # 🔥 News
 - **[May. 2025]** I will be the teaching assistant for the ITCS 5356 Introduction to Machine Learning for Fall 2025.
 - **[May. 2025]** I will be the teaching assistant for the ITSC 2214 Data Structures and Algorithms for Summer 2025.
-- **[May. 2025]** I will join the [ur2phd](https://cra.org/ur2phd/for-graduate-students/) graduate student mentor training program.
+- **[May. 2025]** I will join the [ur2phd](https://cra.org/ur2phd/for-graduate-students/) graduate student mentor training program, through which I will formally study mentoring philosophy.
 - **[Mar. 2025]** I will be the student mentor for the [Summer Research Experiences for Undergraduates in Computing](https://reu.charlotte.edu/).
 - **[Mar. 2025]** I have been selected as a volunteer in [ICUAS 2025](https://uasconferences.com/2025_icuas/), and I am tasked with the responsibility of coordinating and executing the setup for the associated [UAV competition](https://uasconferences.com/2025_icuas/unmanned-aerial-vehicle-uav-competition/).
 - **[Jan. 2025]** One paper on Multi-robot Deadlock Resolution has been accepted to 2025 IEEE International Conference on Robotics & Automation [ICRA' 25](https://2025.ieee-icra.org/).
@@ -27,7 +27,7 @@ His current research focuses on the safety and connectivity control for robot sw
 - **[Dec. 2024]** I will be the teaching assistant for the ITSC 5154 Applied Machine Learning for Spring 2025.  
 - **[Aug. 2024]** I have been selected as volunteer in [IROS 2024](https://iros2024-abudhabi.org/)
 - **[Jul. 2024]** One paper on Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment has been accepted to 27th IEEE International Conference on Intelligent Transportation Systems [ITSC' 24](https://ieee-itsc.org/2024/).
-- **[June. 2024]** One paper on Integrating Online Learning and Connectivity Maintenance for Communication-Aware Multi-Robot Coordination has been accepted to 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems [IROS' 24](https://iros2024-abudhabi.org/).
+- **[Jun. 2024]** One paper on Integrating Online Learning and Connectivity Maintenance for Communication-Aware Multi-Robot Coordination has been accepted to 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems [IROS' 24](https://iros2024-abudhabi.org/).
 - **[May. 2024]** One paper on Decentralized Multi-Robot Line-of-Sight Connectivity Maintenance under Uncertainty has been accepted to 2024 Robotics: Science and Systems [RSS’24](https://roboticsconference.org/).
 - **[Oct. 2023]** Our paper about connectivity maintenance is accepted to [MRS’ 23](https://sites.bu.edu/mrs2023/).
 - **[Oct. 2023]** One paper on Ecologically-Inspired Decentralized Multi-Agent System with Deadlock Avoidance has been accepted as the workshop paper to 2023 IEEE International Symposium on Multi-Robot and Multi-agent Systems  [MRS’ 23](https://sites.bu.edu/mrs2023/).
