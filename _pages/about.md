@@ -268,16 +268,20 @@ Yanze Zhang, Yiwei Lyu, Sude E. Demir, Xingyu Zhou, **Yupeng Yang**, Junming Wan
 - ITSC 5156 Applied Machine Learning [**Spring 2025**]
 
 ## External Reviewer
+### Journal 
 - IEEE Robotics and Automation Letters (R-AL)
 - IEEE Transactions on Robotics (TRO)
 - IEEE Internet of Things Journal
-- IEEE Sensors Journal
+- IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Industrial Electronics
 - IEEE Transactions on Aerospace and Electronic Systems
 - IEEE Transactions on Intelligent Transportation Systems
 - IEEE Transactions on Mechatronics
 - IEEE Transactions on Reliability
+- IEEE Sensors Journal
 - Cartography and Geographic Information Science
+  
+### Conference
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 - Distributed Autonomous Robotic Systems (DARS)
 
