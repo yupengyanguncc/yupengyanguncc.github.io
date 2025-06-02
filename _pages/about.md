@@ -18,7 +18,7 @@ His current research focuses on the safety and connectivity control for robot sw
 
 # 🔥 News
 - **[May. 2025]** I will be the teaching assistant for the ITCS 5356 Introduction to Machine Learning for Fall 2025.
-- **[May. 2025]** I will be the teaching assistant for the ITSC 2214 Data Structures and Algorithms for Summer 2025.
+- **[May. 2025]** I will be the teaching assistant for the ITSC 2214 Data Structures and Algorithms for Summer 2025 [[Teaching Note](https://yupengyanguncc.github.io/Research/docs/Data_Structure_and_Algorithm/Data_Structure_and_Algorithm.html)].
 - **[May. 2025]** I will join the [ur2phd](https://cra.org/ur2phd/for-graduate-students/) graduate student mentor training program, through which I will formally study mentoring philosophy.
 - **[Mar. 2025]** I will be the student mentor for the [Summer Research Experiences for Undergraduates in Computing](https://reu.charlotte.edu/).
 - **[Mar. 2025]** I have been selected as a volunteer in [ICUAS 2025](https://uasconferences.com/2025_icuas/), and I am tasked with the responsibility of coordinating and executing the setup for the associated [UAV competition](https://uasconferences.com/2025_icuas/unmanned-aerial-vehicle-uav-competition/).
