@@ -274,6 +274,7 @@ Yanze Zhang, Yiwei Lyu, Sude E. Demir, Xingyu Zhou, **Yupeng Yang**, Junming Wan
 - IEEE Internet of Things Journal
 - IEEE Transactions on Industrial Informatics
 - IEEE Transactions on Industrial Electronics
+- IEEE Transactions on Sustainable Computing
 - IEEE Transactions on Aerospace and Electronic Systems
 - IEEE Transactions on Intelligent Transportation Systems
 - IEEE Transactions on Mechatronics
