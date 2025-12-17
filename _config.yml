@@ -7,7 +7,8 @@
 
 # Site Settings
 title                    : "Yiru Cai"
-description              : "Ph.D. student at Auburn." #Focusing on entrepreneurial opportunity."
+description : "Ph.D. student at <span style=\"color:#000000; font-weight:bold;\">Auburn</span>.<br>
+                            <span style=\"color:#DD550C; font-weight:bold;\">War</span> <span style=\"color:#0C2340; font-weight:bold;\">Eagle!</span>"
 repository               : "MCZhi/MCZhi.github.io"
 google_scholar_stats_use_cdn : true
 
