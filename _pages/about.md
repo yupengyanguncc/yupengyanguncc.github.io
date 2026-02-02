@@ -17,6 +17,7 @@ His current research focuses on the safety and connectivity control for robot sw
 
 
 # 🔥 News
+- **[Feb. 2026]** One paper on Geometry-Aware Control Barrier Functions for Collision Avoidance via Bernstein Polynomial Approximations has been accepted to ICRA 2026.
 - **[May. 2025]** I will be the teaching assistant for the ITCS 5356 Introduction to Machine Learning for Fall 2025.
 - **[May. 2025]** I will be the teaching assistant for the ITSC 2214 Data Structures and Algorithms for Summer 2025 [[Teaching Note](https://yupengyanguncc.github.io/Research/docs/Data_Structure_and_Algorithm/Data_Structure_and_Algorithm.html)].
 - **[May. 2025]** I will join the [ur2phd](https://cra.org/ur2phd/for-graduate-students/) graduate student mentor training program, through which I will formally study mentoring philosophy.
