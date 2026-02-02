@@ -17,7 +17,7 @@ His current research focuses on the safety and connectivity control for robot sw
 
 
 # 🔥 News
-- **[Feb. 2026]** One paper on Geometry-Aware Control Barrier Functions for Collision Avoidance via Bernstein Polynomial Approximations has been accepted to ICRA 2026.
+- **[Feb. 2026]** One paper on Geometry-Aware Control Barrier Functions for Collision Avoidance via Bernstein Polynomial Approximations has been accepted to 2026 IEEE International Conference on Robotics & Automation [ICRA'26](https://2026.ieee-icra.org/).
 - **[May. 2025]** I will be the teaching assistant for the ITCS 5356 Introduction to Machine Learning for Fall 2025.
 - **[May. 2025]** I will be the teaching assistant for the ITSC 2214 Data Structures and Algorithms for Summer 2025 [[Teaching Note](https://yupengyanguncc.github.io/Research/docs/Data_Structure_and_Algorithm/Data_Structure_and_Algorithm.html)].
 - **[May. 2025]** I will join the [ur2phd](https://cra.org/ur2phd/for-graduate-students/) graduate student mentor training program, through which I will formally study mentoring philosophy.
@@ -34,9 +34,9 @@ His current research focuses on the safety and connectivity control for robot sw
 - **[Oct. 2023]** One paper on Ecologically-Inspired Decentralized Multi-Agent System with Deadlock Avoidance has been accepted as the workshop paper to 2023 IEEE International Symposium on Multi-Robot and Multi-agent Systems  [MRS’ 23](https://sites.bu.edu/mrs2023/).
 - **[Sep. 2023]** One paper on Global and Subgroup Connectivity Maintenance for Decentralized Multi-Robot Networks under Uncertainty has been accepted to 2023 IROS Workshop on Advances in Multi-Agent Learning – Coordination, Perception, and Control [IROS’23 Workshop](https://ieee-iros.org/).
 - **[Mar. 2023]** One paper on Occlusion-free Image-Based Visual Servoing has been accepted to IFAC, 2023 [IFAC’ 23](https://www.ifac2023.org/).
-- **[Mar. 2023]**  I am awarded as second place for **ORAL PRESENTATION** in the category of Computing & Informatics, Annual Graduate Research Symposium (UNCC) [GRS' 23](https://gpsg.charlotte.edu/graduate-research-symposium/graduate-research-symposium/previous-symposium-programs)
-- **[Jan. 2023]**  One paper on Minimally Constrained Multi-Robot Coordination with Line-of-sight Connectivity Maintenance has been accepted to ICRA, 2023 [ICRA' 23](https://www.icra2023.org/).
-- **[Jan. 2023]**  One paper on Minimally Constraining Line-of-Sight Connectivity Maintenance for Collision-free Multi-Robot Networks under Uncertainty has been accepted to AAMAS, 2023 (Extended Abstract) [AAMAS' 23](https://aamas2023.soton.ac.uk/).
+- **[Mar. 2023]** I am awarded as second place for **ORAL PRESENTATION** in the category of Computing & Informatics, Annual Graduate Research Symposium (UNCC) [GRS' 23](https://gpsg.charlotte.edu/graduate-research-symposium/graduate-research-symposium/previous-symposium-programs)
+- **[Jan. 2023]** One paper on Minimally Constrained Multi-Robot Coordination with Line-of-sight Connectivity Maintenance has been accepted to ICRA, 2023 [ICRA' 23](https://www.icra2023.org/).
+- **[Jan. 2023]** One paper on Minimally Constraining Line-of-Sight Connectivity Maintenance for Collision-free Multi-Robot Networks under Uncertainty has been accepted to AAMAS, 2023 (Extended Abstract) [AAMAS' 23](https://aamas2023.soton.ac.uk/).
 
 
 # 📝 Publications
