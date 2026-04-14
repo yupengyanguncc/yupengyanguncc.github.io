@@ -17,7 +17,7 @@ His current research focuses on the safety and connectivity control for robot sw
 
 
 # 🔥 News
-- **[Apr. 2026]** I am selected as one of the finalists for the 2025–2026 Outstanding Graduate Teaching Assistant Award at UNC Charlotte [Graduate Teaching Assistant Awards](https://gradlife.charlotte.edu/professional-development/teaching-skills/graduate-teaching-assistant-awards/).
+- **[Apr. 2026]** I am selected as one of the 10 finalists, across all departments at UNC Charlotte, for the 2025–2026 Outstanding Graduate Teaching Assistant Award [Graduate Teaching Assistant Awards](https://gradlife.charlotte.edu/professional-development/teaching-skills/graduate-teaching-assistant-awards/).
 - **[Feb. 2026]** One paper on Geometry-Aware Control Barrier Functions for Collision Avoidance via Bernstein Polynomial Approximations has been accepted to 2026 IEEE International Conference on Robotics & Automation [ICRA'26](https://2026.ieee-icra.org/).
 - **[May. 2025]** I will be the teaching assistant for the ITCS 5356 Introduction to Machine Learning for Fall 2025.
 - **[May. 2025]** I will be the teaching assistant for the ITSC 2214 Data Structures and Algorithms for Summer 2025 [[Teaching Note](https://yupengyanguncc.github.io/Research/docs/Data_Structure_and_Algorithm/Data_Structure_and_Algorithm.html)].
