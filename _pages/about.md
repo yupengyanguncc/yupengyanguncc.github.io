@@ -11,7 +11,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # About Me
 
-Yupeng Yang is a Ph.D. student of College of Computing and Informatics at the [University of North Carolina at Charlotte](https://www.charlotte.edu/).. He received his master degree in Computer Science from [Embry-Riddle Aeronautical University](https://erau.edu/) and bachelor degree in Electrical Engineering from [Civil Aviation University of China](https://www.cauc.edu.cn/en/), respectively. His advisor is [Prof. Wenhao Luo](https://cs.uic.edu/profiles/luo-wenhao/). 
+Yupeng Yang is a Ph.D. student of College of Computing and Informatics at the [University of North Carolina at Charlotte](https://www.charlotte.edu/). He received his master degree in Computer Science from [Embry-Riddle Aeronautical University](https://erau.edu/) and bachelor degree in Electrical Engineering from [Civil Aviation University of China](https://www.cauc.edu.cn/en/), respectively. His advisor is [Prof. Wenhao Luo](https://cs.uic.edu/profiles/luo-wenhao/). 
 
 His current research focuses on the safety and connectivity control for robot swarms. His research interests include robotics, control theory, machine learning, embedded control and control barrier functions.
 
