@@ -17,6 +17,8 @@ His current research focuses on the safety and connectivity control for robot sw
 
 
 # 🔥 News
+- **[Apr. 2026]** One paper on Time-Aggregated Connectivity Maintenance for Multi-Robot Networks has been accepted to [RSS'2026](https://roboticsconference.org/).
+- **[Apr. 2026]** One paper on Spatio-Temporal Reconnection for Multi-Robot Networks using Adaptive Prescribed-Time CBFs has been accepted to the [IFAC World Congress, 2026](https://ifac2026.org/fairDash.do).
 - **[Apr. 2026]** I am selected as one of the 10 finalists, across all departments at UNC Charlotte, for the 2025–2026 Outstanding Graduate Teaching Assistant Award [Graduate Teaching Assistant Awards](https://gradlife.charlotte.edu/professional-development/teaching-skills/graduate-teaching-assistant-awards/).
 - **[Feb. 2026]** One paper on Geometry-Aware Control Barrier Functions for Collision Avoidance via Bernstein Polynomial Approximations has been accepted to 2026 IEEE International Conference on Robotics & Automation [ICRA'26](https://2026.ieee-icra.org/).
 - **[May. 2025]** I will be the teaching assistant for the ITCS 5356 Introduction to Machine Learning for Fall 2025.
