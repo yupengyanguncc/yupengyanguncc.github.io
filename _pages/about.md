@@ -187,13 +187,56 @@ Yanze Zhang, Yiwei Lyu, Sude E. Demir, Xingyu Zhou, **Yupeng Yang**, Junming Wan
 </div>
 </div> 
 
+### 3. Geometry-Aware Safety
 
+<style>
+.paper-box-image {
+  text-align: center;
+}
+.paper-image {
+  display: block;
+  margin: 0 auto;
+}
+</style>
+
+<div class='paper-box-text' markdown="1">
+
+**Geometry-Aware Control Barrier Functions for Collision Avoidance via Bernstein Polynomial Approximations**
+
+Siwon Jo, Yanze Zhang, **Yupeng Yang**, Wenhao Luo
+
+**IEEE International Conference on Robotics and Automation (ICRA), 2026**
+
+[**Paper**](https://arxiv.org/abs/2605.30696)
+
+- We present a geometry-aware Control Barrier Function framework based on Bernstein-Polynomial Signed Distance Fields (BP-SDFs), which provides a unified safety representation for robots and obstacles with irregular geometries and enables collision-free navigation and heterogeneous multi-robot collision avoidance.
+
+</div>
+</div>
 
 
 
 
 
 ## All Publications
+
+- *Spatio-Temporal Reconnection for Multi-Robot Networks using Adaptive Prescribed-Time CBFs.*
+  <br>
+  Hao Liu, **Yupeng Yang**, Yanze Zhang, and Wenhao Luo
+  <br>
+  Accepted to the 23rd IFAC World Congress (**IFAC' 26**), 2026
+  <br>
+  [[PDF](https://arxiv.org/abs/2606.01526)]
+
+- *Geometry-Aware Control Barrier Functions for Collision Avoidance via Bernstein Polynomial Approximations.*
+  <br>
+  Siwon Jo, Yanze Zhang, **Yupeng Yang**, and Wenhao Luo
+  <br>
+  Accepted to the 2026 IEEE International Conference on Robotics and Automation (**ICRA' 26**), 2026
+  <br>
+  [[PDF](https://arxiv.org/abs/2605.30696)] 
+
+
 
 - *Adaptive Deadlock Avoidance for Decentralized Multi-Agent Systems via CBF-inspired Risk Measurement.*
   <br>
