@@ -212,7 +212,6 @@ Siwon Jo, Yanze Zhang, **Yupeng Yang**, Wenhao Luo
 - We present a geometry-aware Control Barrier Function framework based on Bernstein-Polynomial Signed Distance Fields (BP-SDFs), which provides a unified safety representation for robots and obstacles with irregular geometries and enables collision-free navigation and heterogeneous multi-robot collision avoidance.
 
 </div>
-</div>
 
 
 
@@ -299,6 +298,7 @@ Siwon Jo, Yanze Zhang, **Yupeng Yang**, Wenhao Luo
 
 # 🎖 Honors and Awards
 
+- *2026.04* Finalist, 2025–2026 Outstanding Graduate Teaching Assistant Award, UNC Charlotte.
 - *2024.06* Conference Travel Award from the Graduate School of UNC Charlotte.
 - *2023.03* Second place for **ORAL PRESENTATION** in the category of Computing & Informatics at Annual Graduate Research Symposium (UNCC)
 
