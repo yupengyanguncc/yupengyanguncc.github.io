@@ -187,7 +187,7 @@ Yanze Zhang, Yiwei Lyu, Sude E. Demir, Xingyu Zhou, **Yupeng Yang**, Junming Wan
 </div>
 </div> 
 
-### 3. Geometry-Aware Safety Navigation 
+### 3. Geometry-Aware Safe Navigation 
 
 <style>
 .paper-box-image {
