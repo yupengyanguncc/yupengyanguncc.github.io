@@ -227,6 +227,7 @@ Siwon Jo, Yanze Zhang, **Yupeng Yang**, Wenhao Luo
 - We present a geometry-aware Control Barrier Function framework based on Bernstein-Polynomial Signed Distance Fields (BP-SDFs), which provides a unified safety representation for robots and obstacles with irregular geometries and enables collision-free navigation and heterogeneous multi-robot collision avoidance.
 
 </div>
+</div> 
 
 
 
