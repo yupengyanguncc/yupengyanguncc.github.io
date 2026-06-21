@@ -138,7 +138,7 @@ His current research focuses on the safety and connectivity control for robot sw
 </style> -->
 
 <div class='paper-box'><div class='paper-box-image'>
-  <iframe width="560" height="250" src="images/RSS_2026.mp4" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="200" src="images/RSS_2026.mp4" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class='paper-box-text' markdown="1">
   
@@ -148,7 +148,7 @@ Hao Liu, **Yupeng Yang**, Yanze Zhang, Yiwei Lyu, Wenhao Luo
 
 **Robotics: Science and Systems (RSS), 2026**
 
-[**Paper**](https://roboticsconference.org/program/papers/43/)[**Project**](https://wenhaol.github.io/Time_Aggregated_Connectivity)
+[**Paper**](https://roboticsconference.org/program/papers/43/) [**Project**](https://wenhaol.github.io/Time_Aggregated_Connectivity)
 
 - We propose a motion coordination framework that allows robots to temporarily disconnect for efficient task execution while deliberately reconfiguring their motions to maintain time-aggregated connectivity over a finite time window.
 </div> 
