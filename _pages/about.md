@@ -236,7 +236,7 @@ Siwon Jo, Yanze Zhang, **Yupeng Yang**, Wenhao Luo
   <br>
   Accepted to the 2026 IEEE International Conference on Robotics and Automation (**ICRA' 26**), 2026
   <br>
-  [[PDF](https://arxiv.org/abs/2605.30696)] [[**Project Page**](https://github.com/WenceslausIV/bp-sdf-cbf)]
+  [[PDF](https://arxiv.org/abs/2605.30696)] [[Project Page](https://github.com/WenceslausIV/bp-sdf-cbf)]
 
 
 
