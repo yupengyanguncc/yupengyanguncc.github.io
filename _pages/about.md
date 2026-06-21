@@ -222,6 +222,13 @@ Siwon Jo, Yanze Zhang, **Yupeng Yang**, Wenhao Luo
 
 ## All Publications
 
+- *Time-Aggregated Connectivity Maintenance for Multi-Robot Networks.*
+  <br>
+  Hao Liu, **Yupeng Yang**, Yanze Zhang, Yiwei Lyu, and Wenhao Luo
+  <br>
+  Accepted to Robotics: Science and Systems (**RSS'26**), 2026
+  [[PDF](https://roboticsconference.org/program/papers/43/)]
+
 - *Spatio-Temporal Reconnection for Multi-Robot Networks using Adaptive Prescribed-Time CBFs.*
   <br>
   Hao Liu, **Yupeng Yang**, Yanze Zhang, and Wenhao Luo
