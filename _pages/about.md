@@ -209,7 +209,7 @@ Siwon Jo, Yanze Zhang, **Yupeng Yang**, Wenhao Luo
 
 **IEEE International Conference on Robotics and Automation (ICRA), 2026**
 
-[**Paper**](https://arxiv.org/abs/2605.30696)
+[**Paper**](https://arxiv.org/abs/2605.30696) [**Project Page**](https://github.com/WenceslausIV/bp-sdf-cbf)
 
 - We present a geometry-aware Control Barrier Function framework based on Bernstein-Polynomial Signed Distance Fields (BP-SDFs), which provides a unified safety representation for robots and obstacles with irregular geometries and enables collision-free navigation and heterogeneous multi-robot collision avoidance.
 
@@ -236,7 +236,7 @@ Siwon Jo, Yanze Zhang, **Yupeng Yang**, Wenhao Luo
   <br>
   Accepted to the 2026 IEEE International Conference on Robotics and Automation (**ICRA' 26**), 2026
   <br>
-  [[PDF](https://arxiv.org/abs/2605.30696)] 
+  [[PDF](https://arxiv.org/abs/2605.30696)] [[**Project Page**](https://github.com/WenceslausIV/bp-sdf-cbf)]
 
 
 
