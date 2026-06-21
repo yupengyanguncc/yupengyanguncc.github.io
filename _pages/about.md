@@ -138,7 +138,7 @@ His current research focuses on the safety and connectivity control for robot sw
 </style> -->
 
 <div class='paper-box'><div class='paper-box-image'>
-  <iframe width="560" height="200" src="images/RSS_2026.mp4" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="230" src="images/RSS_2026.mp4" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class='paper-box-text' markdown="1">
   
