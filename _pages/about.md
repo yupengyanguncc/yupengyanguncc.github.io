@@ -200,7 +200,7 @@ Yanze Zhang, Yiwei Lyu, Sude E. Demir, Xingyu Zhou, **Yupeng Yang**, Junming Wan
 }
 </style>
 
-<div class='paper-box'><div class='paper-box-image'><img src='https://github.com/user-attachments/assets/70f30d34-b065-43e4-82ff-5d2865a87c64' alt="demo" width="70%" class="paper-image"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='https://github.com/user-attachments/assets/70f30d34-b065-43e4-82ff-5d2865a87c64' alt="demo" width="90%" class="paper-image"></div>
 <div class='paper-box-text' markdown="1">
 
 **Geometry-Aware Control Barrier Functions for Collision Avoidance via Bernstein Polynomial Approximations**
