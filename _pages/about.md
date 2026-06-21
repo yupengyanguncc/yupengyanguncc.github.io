@@ -148,7 +148,7 @@ Hao Liu, **Yupeng Yang**, Yanze Zhang, Yiwei Lyu, Wenhao Luo
 
 **Robotics: Science and Systems (RSS), 2026**
 
-[**Paper**](https://roboticsconference.org/program/papers/43/) [**Project**](https://wenhaol.github.io/Time_Aggregated_Connectivity)
+[**Paper**](https://roboticsconference.org/program/papers/43/) [**Project Page**](https://wenhaol.github.io/Time_Aggregated_Connectivity)
 
 - We propose a motion coordination framework that allows robots to temporarily disconnect for efficient task execution while deliberately reconfiguring their motions to maintain time-aggregated connectivity over a finite time window.
 </div> 
